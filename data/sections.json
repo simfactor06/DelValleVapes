@@ -1,0 +1,38 @@
+[
+  {
+    "tag": "elfbar-te30k",
+    "label": "Elfbar TE30K",
+    "sub": "30.000 puffs",
+    "img": "elfbar_te30k.jpg"
+  },
+  {
+    "tag": "elfbar-iceking",
+    "label": "Elfbar Ice King",
+    "sub": "40.000 puffs",
+    "img": "elfbar_iceking.jpg"
+  },
+  {
+    "tag": "ignite",
+    "label": "Ignite",
+    "sub": "Mix · V Nano · V300 · V155 · 4000",
+    "img": "ignite.jpg"
+  },
+  {
+    "tag": "rabbeats",
+    "label": "RabBeats RC50000",
+    "sub": "50.000 puffs",
+    "img": "rabbeats.jpg"
+  },
+  {
+    "tag": "lostmary",
+    "label": "Lost Mary Dura",
+    "sub": "35.000 puffs",
+    "img": "lostmary.jpg"
+  },
+  {
+    "tag": "te6000",
+    "label": "TE6000 / EBDesign",
+    "sub": "6.000 puffs",
+    "img": "te6000.jpg"
+  }
+]
