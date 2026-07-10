@@ -331,13 +331,37 @@
   function buildHeroBrandLinks() {
     const el = document.getElementById("heroBrandLinks");
     const linksHtml = SECTIONS.map((s) => `<a href="#" data-tag="${s.tag}">${s.label}</a>`).join("");
-    el.innerHTML = linksHtml + linksHtml; // duplicated so the marquee loops seamlessly at -50%
-    el.querySelectorAll("a").forEach((a) => {
-      a.addEventListener("click", (e) => {
-        e.preventDefault();
-        showCatalog(a.getAttribute("data-tag"));
+
+    function attachClicks() {
+      el.querySelectorAll("a").forEach((a) => {
+        a.addEventListener("click", (e) => {
+          e.preventDefault();
+          showCatalog(a.getAttribute("data-tag"));
+        });
       });
-    });
+    }
+
+    // Measure ONE set of links first (before duplicating), so we know the exact
+    // pixel width to translate. Doing this in %, or before web fonts finish
+    // swapping in, leaves the animation using stale/wrong measurements on some
+    // mobile browsers (fixed only by a forced reflow, e.g. rotating the phone).
+    el.innerHTML = linksHtml;
+    attachClicks();
+
+    const measureAndDuplicate = () => {
+      const singleSetWidth = el.scrollWidth;
+      el.innerHTML = linksHtml + linksHtml; // duplicate now for a seamless loop
+      attachClicks();
+      if (singleSetWidth > 0) {
+        el.style.setProperty("--marquee-distance", `-${singleSetWidth}px`);
+      }
+    };
+
+    if (document.fonts && document.fonts.ready) {
+      document.fonts.ready.then(() => requestAnimationFrame(measureAndDuplicate));
+    } else {
+      requestAnimationFrame(measureAndDuplicate);
+    }
   }
 
   // ---------- Cart UI wiring (data-independent, wire immediately) ----------

@@ -200,7 +200,7 @@ body.verified .age-gate{ display:none; }
 }
 @keyframes heroMarquee{
   from{ transform: translateX(0); }
-  to{ transform: translateX(-50%); }
+  to{ transform: translateX(var(--marquee-distance, -50%)); }
 }
 
 .hero__meta{ display:flex; gap:.6rem; justify-content:center; flex-wrap:wrap; }
