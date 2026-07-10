@@ -330,7 +330,8 @@
 
   function buildHeroBrandLinks() {
     const el = document.getElementById("heroBrandLinks");
-    el.innerHTML = SECTIONS.map((s) => `<a href="#" data-tag="${s.tag}">${s.label}</a>`).join('<span class="sep">·</span>');
+    const linksHtml = SECTIONS.map((s) => `<a href="#" data-tag="${s.tag}">${s.label}</a>`).join("");
+    el.innerHTML = linksHtml + linksHtml; // duplicated so the marquee loops seamlessly at -50%
     el.querySelectorAll("a").forEach((a) => {
       a.addEventListener("click", (e) => {
         e.preventDefault();
