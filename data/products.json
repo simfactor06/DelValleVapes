@@ -373,5 +373,14 @@
     "puffs": "35.000",
     "tag": "elfbar-te30k",
     "img": "elfbar-duke-35k_blue-razz-ice-35000.webp"
+  },
+  {
+    "id": "elfbar-duke-35k-strawberry-kiwi-ice-cqsf",
+    "brand": "ELFBAR DUKE 35K",
+    "flavor": "STRAWBERRY KIWI ICE",
+    "price": 23000,
+    "puffs": "35.000",
+    "tag": "elfbar-te30k",
+    "img": "elfbar-duke-35k_strawberry-kiwi-ice.jpg"
   }
 ]
