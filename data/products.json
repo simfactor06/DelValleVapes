@@ -400,5 +400,14 @@
     "puffs": "35.000",
     "tag": "elfbar-te30k",
     "img": "elfbar-duke-35k_mango-magico.jpg"
+  },
+  {
+    "id": "elfbar-duke-35k-kiwi-passion-fruit-guavo-v6q1",
+    "brand": "ELFBAR DUKE 35K",
+    "flavor": "KIWI PASSION FRUIT GUAVO",
+    "price": 23000,
+    "puffs": "35.000",
+    "tag": "elfbar-te30k",
+    "img": "elfbar-duke-35k_kiwi-passion-fruit-guavo.jpg"
   }
 ]
