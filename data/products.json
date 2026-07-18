@@ -418,5 +418,14 @@
     "puffs": "35.000",
     "tag": "elfbar-te30k",
     "img": "elfbar-duke-35k_watermelon-ice.jpg"
+  },
+  {
+    "id": "elfbar-duke-35k-icy-mint-cafj",
+    "brand": "ELFBAR DUKE 35K",
+    "flavor": "ICY MINT",
+    "price": 2300,
+    "puffs": "35.000",
+    "tag": "elfbar-te30k",
+    "img": "elfbar-duke-35k_icy-mint.jpg"
   }
 ]
