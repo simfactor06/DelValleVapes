@@ -423,9 +423,36 @@
     "id": "elfbar-duke-35k-icy-mint-cafj",
     "brand": "ELFBAR DUKE 35K",
     "flavor": "ICY MINT",
-    "price": 2300,
+    "price": 23000,
     "puffs": "35.000",
     "tag": "elfbar-te30k",
     "img": "elfbar-duke-35k_icy-mint.jpg"
+  },
+  {
+    "id": "blvk-just-juice-45k-watermelon-ice-x9rb",
+    "brand": "BLVK JUST JUICE 45K",
+    "flavor": "WATERMELON ICE",
+    "price": 26000,
+    "puffs": "45.000",
+    "tag": "elfbar-te30k",
+    "img": "blvk-just-juice-45k_watermelon-ice.webp"
+  },
+  {
+    "id": "blvk-just-juice-45k-strawberry-watermelon-6u7g",
+    "brand": "BLVK JUST JUICE 45K",
+    "flavor": "STRAWBERRY WATERMELON",
+    "price": 26000,
+    "puffs": "45.000",
+    "tag": "elfbar-te30k",
+    "img": "blvk-just-juice-45k_strawberry-watermelon.jpg"
+  },
+  {
+    "id": "blvk-just-juice-45k-strawberry-mango-tbi1",
+    "brand": "BLVK JUST JUICE 45K",
+    "flavor": "STRAWBERRY MANGO",
+    "price": 26,
+    "puffs": "45.000",
+    "tag": "elfbar-te30k",
+    "img": "blvk-just-juice-45k_strawberry-mango.webp"
   }
 ]
