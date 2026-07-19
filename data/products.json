@@ -91,22 +91,6 @@
     "tag": "ignite"
   },
   {
-    "id": "ignite-blueberry-raspberry-ice",
-    "brand": "Ignite",
-    "flavor": "Blueberry Raspberry Ice",
-    "price": 8000,
-    "img": "ignite_blueberry_raspberry_ice.png",
-    "tag": "ignite"
-  },
-  {
-    "id": "ignite-strawberry-watermelon",
-    "brand": "Ignite",
-    "flavor": "Strawberry Watermelon",
-    "price": 8000,
-    "img": "ignite_strawberry_watermelon.png",
-    "tag": "ignite"
-  },
-  {
     "id": "ignite4000-watermelon-ice",
     "brand": "Ignite 4000",
     "flavor": "Watermelon Ice",
@@ -404,7 +388,7 @@
   },
   {
     "id": "bc-pro-40k-ebcreate-black-mint-ice-zyer",
-    "brand": "BC PRO 40K EBCREATE",
+    "brand": "ELFBAR BC PRO 40K EBCREATE",
     "flavor": "BLACK MINT ICE",
     "price": 27000,
     "puffs": "40000",
@@ -617,5 +601,86 @@
     "puffs": "30000",
     "tag": "elfbar-te30k",
     "img": "elfbar-te-30k_bubbalo-tutti-frutti.jfif"
+  },
+  {
+    "id": "ignite-v25-blueberry-raspberrry-6eeg",
+    "brand": "IGNITE V25",
+    "flavor": "BLUEBERRY RASPBERRRY",
+    "price": 7500,
+    "puffs": "2500",
+    "tag": "ignite",
+    "img": "ignite-v25_blueberry-raspberrry.jfif"
+  },
+  {
+    "id": "ignite-v25-strawberry-watermelon-4kkx",
+    "brand": "IGNITE V25",
+    "flavor": "STRAWBERRY WATERMELON",
+    "price": 7500,
+    "puffs": "2500",
+    "tag": "ignite",
+    "img": "ignite-v25_strawberry-watermelon.jfif"
+  },
+  {
+    "id": "ignite-v25-raspberry-watermelon-0dfa",
+    "brand": "IGNITE V25",
+    "flavor": "RASPBERRY WATERMELON",
+    "price": 7500,
+    "puffs": "2500",
+    "tag": "ignite",
+    "img": "ignite-v25_raspberry-watermelon.jfif"
+  },
+  {
+    "id": "ignite-v25-passion-fruit-lemon-wo9f",
+    "brand": "IGNITE V25",
+    "flavor": "PASSION FRUIT LEMON",
+    "price": 7500,
+    "puffs": "2500",
+    "tag": "ignite",
+    "img": "ignite-v25_passion-fruit-lemon.jfif"
+  },
+  {
+    "id": "ignite-v25-pink-lemonade-8dnc",
+    "brand": "IGNITE V25",
+    "flavor": "PINK LEMONADE",
+    "price": 7500,
+    "puffs": "2500",
+    "tag": "ignite",
+    "img": "ignite-v25_pink-lemonade.jfif"
+  },
+  {
+    "id": "ignite-v25-sour-apple-ice-q6jf",
+    "brand": "IGNITE V25",
+    "flavor": "SOUR APPLE ICE",
+    "price": 7500,
+    "puffs": "2500",
+    "tag": "ignite",
+    "img": "ignite-v25_sour-apple-ice.jfif"
+  },
+  {
+    "id": "ignite-v25-very-barries-svuz",
+    "brand": "IGNITE V25",
+    "flavor": "VERY BARRIES",
+    "price": 7500,
+    "puffs": "2500",
+    "tag": "ignite",
+    "img": "ignite-v25_very-barries.jfif"
+  },
+  {
+    "id": "ignite-v25-blood-orange-ice-du4p",
+    "brand": "IGNITE V25",
+    "flavor": "BLOOD ORANGE ICE",
+    "price": 7500,
+    "puffs": "2500",
+    "tag": "ignite",
+    "img": "ignite-v25_blood-orange-ice.jfif"
+  },
+  {
+    "id": "ignite-v25-strawberry-cheescaske-1kil",
+    "brand": "IGNITE V25",
+    "flavor": "STRAWBERRY CHEESCASKE",
+    "price": 7500,
+    "puffs": "2500",
+    "tag": "ignite",
+    "img": "ignite-v25_strawberry-cheescaske.jfif"
   }
 ]
