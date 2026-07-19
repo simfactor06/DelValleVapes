@@ -91,14 +91,6 @@
     "tag": "ignite"
   },
   {
-    "id": "ignite4000-watermelon-ice",
-    "brand": "Ignite 4000",
-    "flavor": "Watermelon Ice",
-    "price": 8500,
-    "img": "ignite4000_watermelon_ice.png",
-    "tag": "ignite"
-  },
-  {
     "id": "rabbeats-watermelon-ice",
     "brand": "RabBeats RC50000",
     "flavor": "Watermelon Ice",
@@ -682,5 +674,59 @@
     "puffs": "2500",
     "tag": "ignite",
     "img": "ignite-v25_strawberry-cheescaske.jfif"
+  },
+  {
+    "id": "ignite-v40-blue-razz-ice-pnoz",
+    "brand": "IGNITE V40",
+    "flavor": "BLUE RAZZ ICE",
+    "price": 10500,
+    "puffs": "4000",
+    "tag": "ignite",
+    "img": "ignite-v40_blue-razz-ice.jfif"
+  },
+  {
+    "id": "ignite-v40-grape-ice-2f19",
+    "brand": "IGNITE V40",
+    "flavor": "GRAPE ICE",
+    "price": 10500,
+    "puffs": "4000",
+    "tag": "ignite",
+    "img": "ignite-v40_grape-ice.jfif"
+  },
+  {
+    "id": "ignite-v40-peach-mango-watermelon-8kj7",
+    "brand": "IGNITE V40",
+    "flavor": "PEACH MANGO WATERMELON",
+    "price": 10500,
+    "puffs": "4000",
+    "tag": "ignite",
+    "img": "ignite-v40_peach-mango-watermelon.jfif"
+  },
+  {
+    "id": "ignite-v40-pineapple-peach-lemonade-3s3d",
+    "brand": "IGNITE V40",
+    "flavor": "PINEAPPLE PEACH LEMONADE",
+    "price": 10500,
+    "puffs": "4000",
+    "tag": "ignite",
+    "img": "ignite-v40_pineapple-peach-lemonade.jfif"
+  },
+  {
+    "id": "ignite-v40-strawberry-watermelon-4qkv",
+    "brand": "IGNITE V40",
+    "flavor": "STRAWBERRY WATERMELON",
+    "price": 10500,
+    "puffs": "4000",
+    "tag": "ignite",
+    "img": "ignite-v40_strawberry-watermelon.jfif"
+  },
+  {
+    "id": "ignite-v40-watermelon-jcbp",
+    "brand": "IGNITE V40",
+    "flavor": "WATERMELON",
+    "price": 10500,
+    "puffs": "4000",
+    "tag": "ignite",
+    "img": "ignite-v40_watermelon.jfif"
   }
 ]
