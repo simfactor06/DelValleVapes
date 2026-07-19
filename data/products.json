@@ -253,18 +253,18 @@
     "id": "iceking-cherry-strazz",
     "brand": "Elfbar Ice King",
     "flavor": "Cherry Strazz",
-    "price": 24000,
+    "price": 25000,
     "puffs": "40.000",
-    "img": "elfbariceking_cherry_strazz.png",
+    "img": "elfbar-ice-king_cherry-strazz.jfif",
     "tag": "elfbar-iceking"
   },
   {
     "id": "iceking-strawberry-ice",
     "brand": "Elfbar Ice King",
     "flavor": "Strawberry Ice",
-    "price": 24000,
+    "price": 25000,
     "puffs": "40.000",
-    "img": "elfbariceking_strawberry_ice.png",
+    "img": "elfbar-ice-king_strawberry-ice.jfif",
     "tag": "elfbar-iceking"
   },
   {
@@ -544,5 +544,95 @@
     "puffs": "40000",
     "tag": "elfbar-te30k",
     "img": "elfbar-sweet-king-40k_bubbaloo-tutti-frutti.jpg"
+  },
+  {
+    "id": "elfbar-ice-king-40k-blue-razz-ice-xu4r",
+    "brand": "ELFBAR ICE KING 40K",
+    "flavor": "BLUE RAZZ ICE",
+    "price": 25000,
+    "puffs": "40000",
+    "tag": "elfbar-iceking",
+    "img": "elfbar-ice-king-40k_blue-razz-ice.jfif"
+  },
+  {
+    "id": "elfbar-ice-king-40k-watermelon-ice-0po3",
+    "brand": "ELFBAR ICE KING 40K",
+    "flavor": "WATERMELON ICE",
+    "price": 25000,
+    "puffs": "40000",
+    "tag": "elfbar-iceking",
+    "img": "elfbar-ice-king-40k_watermelon-ice.jfif"
+  },
+  {
+    "id": "elfbar-ice-king-summer-edition-40k-green-apple-slush-icfq",
+    "brand": "ELFBAR ICE KING SUMMER EDITION 40K",
+    "flavor": "GREEN APPLE SLUSH",
+    "price": 25000,
+    "puffs": "40000",
+    "tag": "elfbar-iceking",
+    "img": "elfbar-ice-king-summer-edition-40k_green-apple-slush.jfif"
+  },
+  {
+    "id": "elfbar-ice-king-40k-mango-magic0-sgg4",
+    "brand": "ELFBAR ICE KING 40K",
+    "flavor": "MANGO MAGIC0",
+    "price": 25000,
+    "puffs": "40000",
+    "tag": "elfbar-iceking",
+    "img": "elfbar-ice-king-40k_mango-magic0.jfif"
+  },
+  {
+    "id": "elfbar-ice-king-40k-strawberry-watermelon-ice-1s8q",
+    "brand": "ELFBAR ICE KING 40K",
+    "flavor": "STRAWBERRY WATERMELON ICE",
+    "price": 25000,
+    "puffs": "40000",
+    "tag": "elfbar-iceking",
+    "img": "elfbar-ice-king-40k_strawberry-watermelon-ice.jfif"
+  },
+  {
+    "id": "lfbar-ice-king-40k-dragon-strawnana-mysy",
+    "brand": "LFBAR ICE KING 40K",
+    "flavor": "DRAGON STRAWNANA",
+    "price": 25000,
+    "puffs": "40000",
+    "tag": "elfbar-iceking",
+    "img": "lfbar-ice-king-40k_dragon-strawnana.jfif"
+  },
+  {
+    "id": "elfbar-ice-king-40k-peach-ybe7",
+    "brand": "ELFBAR ICE KING 40K",
+    "flavor": "PEACH",
+    "price": 25000,
+    "puffs": "40000",
+    "tag": "elfbar-iceking",
+    "img": "elfbar-ice-king-40k_peach.jfif"
+  },
+  {
+    "id": "elfbar-ice-king-40k-sour-apple-ice-v2bl",
+    "brand": "ELFBAR ICE KING 40K",
+    "flavor": "SOUR APPLE ICE",
+    "price": 25000,
+    "puffs": "40000",
+    "tag": "elfbar-iceking",
+    "img": "elfbar-ice-king-40k_sour-apple-ice.jfif"
+  },
+  {
+    "id": "elfbar-ice-king-40k-sour-strawberry-dragon-fruit-nuzn",
+    "brand": "ELFBAR ICE KING 40K",
+    "flavor": "SOUR STRAWBERRY DRAGON FRUIT",
+    "price": 25000,
+    "puffs": "40000",
+    "tag": "elfbar-iceking",
+    "img": "elfbar-ice-king-40k_sour-strawberry-dragon-fruit.jfif"
+  },
+  {
+    "id": "elfbar-ice-king-40k-baja-splash-kpiw",
+    "brand": "ELFBAR ICE KING 40K",
+    "flavor": "BAJA SPLASH",
+    "price": 25000,
+    "puffs": "40000",
+    "tag": "elfbar-iceking",
+    "img": "elfbar-ice-king-40k_baja-splash.jfif"
   }
 ]
