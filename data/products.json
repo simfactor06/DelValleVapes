@@ -155,7 +155,7 @@
   },
   {
     "id": "iceking-cherry-strazz",
-    "brand": "Elfbar Ice King",
+    "brand": "ELFBAR ICE KING 40K",
     "flavor": "Cherry Strazz",
     "price": 25000,
     "puffs": "40.000",
@@ -164,7 +164,7 @@
   },
   {
     "id": "iceking-strawberry-ice",
-    "brand": "Elfbar Ice King",
+    "brand": "ELFBAR ICE KING 40K",
     "flavor": "Strawberry Ice",
     "price": 25000,
     "puffs": "40.000",
@@ -307,16 +307,16 @@
     "id": "elfbar-ebcreate-bc-pro-blue-razz-ice-th6o",
     "brand": "ELFBAR BC PRO 40K EBCREATE",
     "flavor": "BLUE RAZZ ICE",
-    "price": 27000,
+    "price": 25000,
     "puffs": "40.000",
-    "tag": "elfbar-iceking",
+    "tag": "elfbar-te30k",
     "img": "elfbar-ebcreate-bc-pro_blue-razz-ice.webp"
   },
   {
     "id": "bc-pro-40k-ebcreate-black-mint-ice-zyer",
     "brand": "ELFBAR BC PRO 40K EBCREATE",
     "flavor": "BLACK MINT ICE",
-    "price": 27000,
+    "price": 25000,
     "puffs": "40000",
     "tag": "elfbar-te30k",
     "img": "bc-pro-40k-ebcreate_black-mint-ice.jpg"
@@ -325,7 +325,7 @@
     "id": "elfbar-bc-pro-40k-ebcreate-black-mint-ice-dkpz",
     "brand": "ELFBAR BC PRO 40K EBCREATE",
     "flavor": "STRAWBERRY RASPBERRY FROST",
-    "price": 27000,
+    "price": 25000,
     "puffs": "40000",
     "tag": "elfbar-te30k",
     "img": "elfbar-bc-pro-40k-ebcreate_strawberry-raspberry-frost.jpg"
@@ -334,7 +334,7 @@
     "id": "elfbar-bc-pro-40k-ebcreate-tripple-berry-30le",
     "brand": "ELFBAR BC PRO 40K EBCREATE",
     "flavor": "TRIPPLE BERRY",
-    "price": 27000,
+    "price": 25000,
     "puffs": "40000",
     "tag": "elfbar-te30k",
     "img": "elfbar-bc-pro-40k-ebcreate_tripple-berry.jpg"
@@ -343,7 +343,7 @@
     "id": "elfbar-bc-pro-40k-ebcreate-blackberry-grape-7eva",
     "brand": "ELFBAR BC PRO 40K EBCREATE",
     "flavor": "BLACKBERRY GRAPE",
-    "price": 27000,
+    "price": 25000,
     "puffs": "40000",
     "tag": "elfbar-te30k",
     "img": "elfbar-bc-pro-40k-ebcreate_blackberry-grape.blackberry grape"
@@ -352,7 +352,7 @@
     "id": "elfbar-bc-pro-40k-ebcreate-sour-apple-ice-dbrc",
     "brand": "ELFBAR BC PRO 40K EBCREATE",
     "flavor": "SOUR APPLE ICE",
-    "price": 27000,
+    "price": 25000,
     "puffs": "40000",
     "tag": "elfbar-te30k",
     "img": "elfbar-bc-pro-40k-ebcreate_sour-apple-ice.jpg"
@@ -361,7 +361,7 @@
     "id": "elfbar-bc-pro-40k-ebcreate-grape-twist-ddl9",
     "brand": "ELFBAR BC PRO 40K EBCREATE",
     "flavor": "GRAPE TWIST",
-    "price": 27000,
+    "price": 25000,
     "puffs": "40000",
     "tag": "elfbar-te30k",
     "img": "elfbar-bc-pro-40k-ebcreate_grape-twist.jpg"
@@ -370,7 +370,7 @@
     "id": "elfbar-pro-40k-ebcreate-bc-pro-pineapple-pomelo-uqov",
     "brand": "ELFBAR BC PRO 40K EBCREATE",
     "flavor": "PINEAPPLE POMELO",
-    "price": 27000,
+    "price": 25000,
     "puffs": "40000",
     "tag": "elfbar-te30k",
     "img": "elfbar-pro-40k-ebcreate-bc-pro_pineapple-pomelo.jpg"
@@ -379,14 +379,14 @@
     "id": "elfbar-bc-pro-40k-ebcreate-tropical-baja-3884",
     "brand": "ELFBAR BC PRO 40K EBCREATE",
     "flavor": "TROPICAL BAJA",
-    "price": 27000,
+    "price": 25000,
     "puffs": "40000",
     "tag": "elfbar-te30k",
     "img": "elfbar-bc-pro-40k-ebcreate_tropical-baja.webp"
   },
   {
     "id": "elfbar-sweet-king-40k-bubbaloo-tutti-frutti-ju5x",
-    "brand": "ELFBAR SWEET KING 40K",
+    "brand": "ELF BAR SWEET KING 40K",
     "flavor": "BUBBALOO TUTTI FRUTTI",
     "price": 24000,
     "puffs": "40000",
@@ -440,7 +440,7 @@
   },
   {
     "id": "lfbar-ice-king-40k-dragon-strawnana-mysy",
-    "brand": "LFBAR ICE KING 40K",
+    "brand": "ELFBAR ICE KING 40K",
     "flavor": "DRAGON STRAWNANA",
     "price": 25000,
     "puffs": "40000",
