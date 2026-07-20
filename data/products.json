@@ -248,30 +248,6 @@
     "tag": "te6000"
   },
   {
-    "id": "ebdesign-te6000-grape-ice",
-    "brand": "EBDesign TE6000",
-    "flavor": "Grape Ice",
-    "price": 9500,
-    "img": "ebdesign_te6000_grape_ice.png",
-    "tag": "te6000"
-  },
-  {
-    "id": "te6000-watermelon-ice",
-    "brand": "TE6000",
-    "flavor": "Watermelon Ice",
-    "price": 9500,
-    "img": "te6000_watermelon_ice.png",
-    "tag": "te6000"
-  },
-  {
-    "id": "ebdesign-te6000-strawberry-ice",
-    "brand": "EBDesign TE6000",
-    "flavor": "Strawberry Ice",
-    "price": 9500,
-    "img": "ebdesign_te6000_strawberry_ice.png",
-    "tag": "te6000"
-  },
-  {
     "id": "ebdesign-te6000-ice-mint",
     "brand": "EBDesign TE6000",
     "flavor": "Ice Mint",
@@ -890,5 +866,77 @@
     "puffs": "40000",
     "tag": "elfbar-iceking",
     "img": "elfbar-trio-40k_pineapple-lime.jfif"
+  },
+  {
+    "id": "elfbar-bc-15k-green-apple-ice-gj02",
+    "brand": "ELFBAR BC 15K",
+    "flavor": "GREEN APPLE ICE",
+    "price": 16000,
+    "puffs": "15000",
+    "tag": "te6000",
+    "img": "elfbar-bc-15k_green-apple-ice.jfif"
+  },
+  {
+    "id": "elfbar-bc-15k-tropical-lemonade-meut",
+    "brand": "ELFBAR BC 15K",
+    "flavor": "TROPICAL LEMONADE",
+    "price": 16000,
+    "puffs": "15000",
+    "tag": "te6000",
+    "img": "elfbar-bc-15k_tropical-lemonade.jfif"
+  },
+  {
+    "id": "elfbar-bc-15k-strawberry-banana-c7dn",
+    "brand": "ELFBAR BC 5K",
+    "flavor": "strawberry banana",
+    "price": 9500,
+    "puffs": "5000",
+    "tag": "te6000",
+    "img": "elfbar-bc-15k_strawberry-banana.jfif"
+  },
+  {
+    "id": "elfbar-bc-5k-blackberry-cherry-g6gf",
+    "brand": "ELFBAR BC 5K",
+    "flavor": "BLACKBERRY CHERRY",
+    "price": 9500,
+    "puffs": "5000",
+    "tag": "te6000",
+    "img": "elfbar-bc-5k_blackberry-cherry.jfif"
+  },
+  {
+    "id": "elfbar-bc-5k-cherry-dragon-fruit-jerv",
+    "brand": "ELFBAR BC 5K",
+    "flavor": "CHERRY DRAGON FRUIT",
+    "price": 9500,
+    "puffs": "5000",
+    "tag": "te6000",
+    "img": "elfbar-bc-5k_cherry-dragon-fruit.jfif"
+  },
+  {
+    "id": "elfbar-bc-5k-nectarine-i4dw",
+    "brand": "ELFBAR BC 5K",
+    "flavor": "NECTARINE",
+    "price": 9500,
+    "puffs": "5000",
+    "tag": "te6000",
+    "img": "elfbar-bc-5k_nectarine.jfif"
+  },
+  {
+    "id": "elfbar-bc-5k-beach-day-jnas",
+    "brand": "ELFBAR BC 5K",
+    "flavor": "BEACH DAY",
+    "price": 9500,
+    "puffs": "5000",
+    "tag": "te6000",
+    "img": "elfbar-bc-5k_beach-day.jfif"
+  },
+  {
+    "id": "elfbar-bc-5k-sour-grape-chew-eo7n",
+    "brand": "ELFBAR BC 5K",
+    "flavor": "SOUR GRAPE CHEW",
+    "price": 9500,
+    "puffs": "5000",
+    "tag": "te6000",
+    "img": "elfbar-bc-5k_sour-grape-chew.jfif"
   }
 ]
