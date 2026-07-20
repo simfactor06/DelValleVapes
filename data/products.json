@@ -64,33 +64,6 @@
     "tag": "ignite"
   },
   {
-    "id": "vnano-watermelon-ice",
-    "brand": "Ignite V Nano",
-    "flavor": "Watermelon Ice",
-    "price": 8000,
-    "puffs": "+1.000",
-    "img": "ignite_vnano_watermelon_ice.png",
-    "tag": "ignite"
-  },
-  {
-    "id": "vnano-green-apple",
-    "brand": "Ignite V Nano",
-    "flavor": "Green Apple",
-    "price": 8000,
-    "puffs": "+1.000",
-    "img": "ignite_vnano_green_apple.png",
-    "tag": "ignite"
-  },
-  {
-    "id": "vnano-pineapple-ice",
-    "brand": "Ignite V Nano",
-    "flavor": "Pineapple Ice",
-    "price": 8000,
-    "puffs": "+1.000",
-    "img": "ignite_vnano_pineapple_ice.png",
-    "tag": "ignite"
-  },
-  {
     "id": "rabbeats-watermelon-ice",
     "brand": "RabBeats RC50000",
     "flavor": "Watermelon Ice",
@@ -905,5 +878,59 @@
     "puffs": "30000",
     "tag": "elfbar-te30k",
     "img": "elfbar-te-30k_acai-banana-ice.jfif"
+  },
+  {
+    "id": "ignite-vnano-1000-cola-ice-7p6e",
+    "brand": "IGNITE VNANO 1000",
+    "flavor": "COLA ICE",
+    "price": 9000,
+    "puffs": "1000",
+    "tag": "ignite",
+    "img": "ignite-vnano-1000_cola-ice.jfif"
+  },
+  {
+    "id": "ignite-vnano1000-cool-menthol-rwtm",
+    "brand": "IGNITE VNANO1000",
+    "flavor": "COOL MENTHOL",
+    "price": 9000,
+    "puffs": "1000",
+    "tag": "ignite",
+    "img": "ignite-vnano1000_cool-menthol.jfif"
+  },
+  {
+    "id": "ignite-v-nano-1000puff-icy-mint-b66g",
+    "brand": "IGNITE V-NANO 1000PUFF",
+    "flavor": "ICY MINT",
+    "price": 9000,
+    "puffs": "1000",
+    "tag": "ignite",
+    "img": "ignite-v-nano-1000puff_icy-mint.jfif"
+  },
+  {
+    "id": "ignite-v-nano-1000puff-green-apple-7pc3",
+    "brand": "IGNITE V-NANO 1000PUFF",
+    "flavor": "GREEN APPLE",
+    "price": 9000,
+    "puffs": "1000",
+    "tag": "ignite",
+    "img": "ignite-v-nano-1000puff_green-apple.jfif"
+  },
+  {
+    "id": "ignite-v-nano-1000puff-strawberry-ice-lnds",
+    "brand": "IGNITE V-NANO 1000PUFF",
+    "flavor": "Strawberry Ice",
+    "price": 9000,
+    "puffs": "1000",
+    "tag": "ignite",
+    "img": "ignite-v-nano-1000puff_strawberry-ice.jfif"
+  },
+  {
+    "id": "ignite-v-nano-1000puff-stawberry-guava-ice-n549",
+    "brand": "IGNITE V-NANO 1000PUFF",
+    "flavor": "STAWBERRY GUAVA ICE",
+    "price": 9000,
+    "puffs": "1000",
+    "tag": "ignite",
+    "img": "ignite-v-nano-1000puff_stawberry-guava-ice.jfif"
   }
 ]
