@@ -818,5 +818,77 @@
     "puffs": "40000",
     "tag": "ignite",
     "img": "ignite-v400-ice_grape-peach.jfif"
+  },
+  {
+    "id": "elf-bar-trio-40k-blue-razz-ice-2g15",
+    "brand": "ELF BAR TRIO 40K",
+    "flavor": "BLUE RAZZ ICE",
+    "price": 25000,
+    "puffs": "40000",
+    "tag": "elfbar-iceking",
+    "img": "elf-bar-trio-40k_blue-razz-ice.jfif"
+  },
+  {
+    "id": "elfbar-trio-40k-watermelon-1ove",
+    "brand": "ELFBAR TRIO 40K",
+    "flavor": "WATERMELON",
+    "price": 25000,
+    "puffs": "40000",
+    "tag": "elfbar-iceking",
+    "img": "elfbar-trio-40k_watermelon.jfif"
+  },
+  {
+    "id": "elfbar-trio-40k-raspberry-watermelon-upgz",
+    "brand": "ELFBAR TRIO 40K",
+    "flavor": "RASPBERRY WATERMELON",
+    "price": 25000,
+    "puffs": "40000",
+    "tag": "elfbar-iceking",
+    "img": "elfbar-trio-40k_raspberry-watermelon.jfif"
+  },
+  {
+    "id": "elfbar-trio-40k-sour-apple-ice-mpsj",
+    "brand": "ELFBAR TRIO 40K",
+    "flavor": "SOUR APPLE ICE",
+    "price": 25000,
+    "puffs": "40000",
+    "tag": "elfbar-iceking",
+    "img": "elfbar-trio-40k_sour-apple-ice.jfif"
+  },
+  {
+    "id": "elfbar-trio-40k-blueberry-pom-slushy-l3di",
+    "brand": "ELFBAR TRIO 40K",
+    "flavor": "BLUEBERRY POM SLUSHY",
+    "price": 25000,
+    "puffs": "40000",
+    "tag": "elfbar-iceking",
+    "img": "elfbar-trio-40k_blueberry-pom-slushy.jfif"
+  },
+  {
+    "id": "elfbar-trio-40k-sakura-grape-mjgh",
+    "brand": "ELFBAR TRIO 40K",
+    "flavor": "SAKURA GRAPE",
+    "price": 25000,
+    "puffs": "40000",
+    "tag": "elfbar-iceking",
+    "img": "elfbar-trio-40k_sakura-grape.jfif"
+  },
+  {
+    "id": "elfbar-trio-40k-scary-berry-t0fl",
+    "brand": "ELFBAR TRIO 40K",
+    "flavor": "SCARY BERRY",
+    "price": 25000,
+    "puffs": "40000",
+    "tag": "elfbar-iceking",
+    "img": "elfbar-trio-40k_scary-berry.jfif"
+  },
+  {
+    "id": "elfbar-trio-40k-pineapple-lime-stcf",
+    "brand": "ELFBAR TRIO 40K",
+    "flavor": "PINEAPPLE LIME",
+    "price": 25000,
+    "puffs": "40000",
+    "tag": "elfbar-iceking",
+    "img": "elfbar-trio-40k_pineapple-lime.jfif"
   }
 ]
