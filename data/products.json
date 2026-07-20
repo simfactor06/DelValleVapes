@@ -881,7 +881,7 @@
   },
   {
     "id": "ignite-vnano-1000-cola-ice-7p6e",
-    "brand": "IGNITE VNANO 1000",
+    "brand": "IGNITE V-NANO 1000PUFF",
     "flavor": "COLA ICE",
     "price": 9000,
     "puffs": "1000",
@@ -890,7 +890,7 @@
   },
   {
     "id": "ignite-vnano1000-cool-menthol-rwtm",
-    "brand": "IGNITE VNANO1000",
+    "brand": "IGNITE V-NANO 1000PUFF",
     "flavor": "COOL MENTHOL",
     "price": 9000,
     "puffs": "1000",
@@ -932,5 +932,41 @@
     "puffs": "1000",
     "tag": "ignite",
     "img": "ignite-v-nano-1000puff_stawberry-guava-ice.jfif"
+  },
+  {
+    "id": "ignite-v-nano-1000puff-pineapple-ice-d86r",
+    "brand": "IGNITE V-NANO 1000PUFF",
+    "flavor": "PINEAPPLE ICE",
+    "price": 9000,
+    "puffs": "1000",
+    "tag": "ignite",
+    "img": "ignite-v-nano-1000puff_pineapple-ice.jfif"
+  },
+  {
+    "id": "ignite-v-nano-1000puff-tropical-fruit-qzms",
+    "brand": "IGNITE V-NANO 1000PUFF",
+    "flavor": "TROPICAL FRUIT",
+    "price": 9000,
+    "puffs": "1000",
+    "tag": "ignite",
+    "img": "ignite-v-nano-1000puff_tropical-fruit.jfif"
+  },
+  {
+    "id": "ignite-v-nano-1000puff-passion-fruit-sour-kiwi-m71j",
+    "brand": "IGNITE V-NANO 1000PUFF",
+    "flavor": "PASSION FRUIT SOUR KIWI",
+    "price": 9000,
+    "puffs": "1000",
+    "tag": "ignite",
+    "img": "ignite-v-nano-1000puff_passion-fruit-sour-kiwi.jfif"
+  },
+  {
+    "id": "ignite-v-nano-1000puff-banana-ice-d625",
+    "brand": "IGNITE V-NANO 1000PUFF",
+    "flavor": "BANANA ICE",
+    "price": 9000,
+    "puffs": "1000",
+    "tag": "ignite",
+    "img": "ignite-v-nano-1000puff_banana-ice.jfif"
   }
 ]
