@@ -34,5 +34,29 @@
     "label": "TE6000 / EBDesign",
     "sub": "6.000 puffs",
     "img": "te6000.jpg"
+  },
+  {
+    "tag": "blvk-45k",
+    "label": "BLVK 45K",
+    "sub": "45.000 puffs",
+    "img": "blvk_45k.jpg"
+  },
+  {
+    "tag": "elfbar-trio-40k",
+    "label": "Elfbar Trío 40K",
+    "sub": "40.000 puffs",
+    "img": "elfbar_trio_40k.jpg"
+  },
+  {
+    "tag": "ignite-v400-ice",
+    "label": "Ignite V400 Ice",
+    "sub": "40.000 puffs",
+    "img": "ignite_v400_ice.jpg"
+  },
+  {
+    "tag": "elfbar-sweet-king",
+    "label": "Elfbar Sweet King",
+    "sub": "40.000 puffs",
+    "img": "elfbar_sweet_king.jpg"
   }
 ]
