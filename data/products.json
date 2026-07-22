@@ -255,7 +255,7 @@
     "flavor": "WATERMELON ICE",
     "price": 26000,
     "puffs": "45.000",
-    "tag": "elfbar-te30k",
+    "tag": "blvk-45k",
     "img": "blvk-just-juice-45k_watermelon-ice.webp"
   },
   {
@@ -264,7 +264,7 @@
     "flavor": "STRAWBERRY WATERMELON",
     "price": 26000,
     "puffs": "45.000",
-    "tag": "elfbar-te30k",
+    "tag": "blvk-45k",
     "img": "blvk-just-juice-45k_strawberry-watermelon.jpg"
   },
   {
@@ -273,7 +273,7 @@
     "flavor": "STRAWBERRY MANGO",
     "price": 26000,
     "puffs": "45.000",
-    "tag": "elfbar-te30k",
+    "tag": "blvk-45k",
     "img": "blvk-just-juice-45k_strawberry-mango.webp"
   },
   {
@@ -363,7 +363,7 @@
     "flavor": "BUBBALOO TUTTI FRUTTI",
     "price": 24000,
     "puffs": "40000",
-    "tag": "elfbar-iceking",
+    "tag": "elfbar-sweet-king",
     "img": "elfbar-sweet-king-40k_bubbaloo-tutti-frutti.jpg"
   },
   {
@@ -642,7 +642,7 @@
     "flavor": "BUBBALOO GRAPE",
     "price": 24000,
     "puffs": "40000",
-    "tag": "elfbar-iceking",
+    "tag": "elfbar-sweet-king",
     "img": "elf-bar-sweet-king-40k_bubbaloo-grape.jfif"
   },
   {
@@ -651,7 +651,7 @@
     "flavor": "LEMON HEADS",
     "price": 24000,
     "puffs": "40000",
-    "tag": "elfbar-iceking",
+    "tag": "elfbar-sweet-king",
     "img": "elf-bar-sweet-king-40k_lemon-heads.jfif"
   },
   {
@@ -660,7 +660,7 @@
     "flavor": "RASPBERRY ORANGE",
     "price": 24000,
     "puffs": "40000",
-    "tag": "elfbar-iceking",
+    "tag": "elfbar-sweet-king",
     "img": "elf-bar-sweet-king-40k_raspberry-orange.jfif"
   },
   {
@@ -669,7 +669,7 @@
     "flavor": "WATERMELON ROLL UP",
     "price": 24000,
     "puffs": "40000",
-    "tag": "elfbar-iceking",
+    "tag": "elfbar-sweet-king",
     "img": "elf-bar-sweet-king-40k_watermelon-roll-up.jfif"
   },
   {
@@ -678,7 +678,7 @@
     "flavor": "WINTERGREEN SAVERS",
     "price": 24000,
     "puffs": "40000",
-    "tag": "elfbar-iceking",
+    "tag": "elfbar-sweet-king",
     "img": "elf-bar-sweet-king-40k_wintergreen-savers.jfif"
   },
   {
@@ -687,7 +687,7 @@
     "flavor": "ICE BLUE RAZZ LEMON",
     "price": 25000,
     "puffs": "40000",
-    "tag": "ignite",
+    "tag": "ignite-v400-ice",
     "img": "ignite-v400_ice-blue-razz-lemon.jfif"
   },
   {
@@ -696,7 +696,7 @@
     "flavor": "ICE STRAWBERRY KIWI",
     "price": 25000,
     "puffs": "40000",
-    "tag": "ignite",
+    "tag": "ignite-v400-ice",
     "img": "ignite-v400_ice-strawberry-kiwi.jfif"
   },
   {
@@ -705,7 +705,7 @@
     "flavor": "MINT",
     "price": 25000,
     "puffs": "40000",
-    "tag": "ignite",
+    "tag": "ignite-v400-ice",
     "img": "ignite-v400-ice_mint.jfif"
   },
   {
@@ -714,7 +714,7 @@
     "flavor": "STRAWBERRY",
     "price": 25000,
     "puffs": "40000",
-    "tag": "ignite",
+    "tag": "ignite-v400-ice",
     "img": "ignite-v400-ice_strawberry.jfif"
   },
   {
@@ -723,7 +723,7 @@
     "flavor": "GRAPE PEACH",
     "price": 25000,
     "puffs": "40000",
-    "tag": "ignite",
+    "tag": "ignite-v400-ice",
     "img": "ignite-v400-ice_grape-peach.jfif"
   },
   {
@@ -732,7 +732,7 @@
     "flavor": "BLUE RAZZ ICE",
     "price": 25000,
     "puffs": "40000",
-    "tag": "elfbar-iceking",
+    "tag": "elfbar-trio-40k",
     "img": "elf-bar-trio-40k_blue-razz-ice.jfif"
   },
   {
@@ -741,7 +741,7 @@
     "flavor": "WATERMELON",
     "price": 25000,
     "puffs": "40000",
-    "tag": "elfbar-iceking",
+    "tag": "elfbar-trio-40k",
     "img": "elfbar-trio-40k_watermelon.jfif"
   },
   {
@@ -750,7 +750,7 @@
     "flavor": "RASPBERRY WATERMELON",
     "price": 25000,
     "puffs": "40000",
-    "tag": "elfbar-iceking",
+    "tag": "elfbar-trio-40k",
     "img": "elfbar-trio-40k_raspberry-watermelon.jfif"
   },
   {
@@ -759,7 +759,7 @@
     "flavor": "SOUR APPLE ICE",
     "price": 25000,
     "puffs": "40000",
-    "tag": "elfbar-iceking",
+    "tag": "elfbar-trio-40k",
     "img": "elfbar-trio-40k_sour-apple-ice.jfif"
   },
   {
@@ -768,7 +768,7 @@
     "flavor": "BLUEBERRY POM SLUSHY",
     "price": 25000,
     "puffs": "40000",
-    "tag": "elfbar-iceking",
+    "tag": "elfbar-trio-40k",
     "img": "elfbar-trio-40k_blueberry-pom-slushy.jfif"
   },
   {
@@ -777,7 +777,7 @@
     "flavor": "SAKURA GRAPE",
     "price": 25000,
     "puffs": "40000",
-    "tag": "elfbar-iceking",
+    "tag": "elfbar-trio-40k",
     "img": "elfbar-trio-40k_sakura-grape.jfif"
   },
   {
@@ -786,7 +786,7 @@
     "flavor": "SCARY BERRY",
     "price": 25000,
     "puffs": "40000",
-    "tag": "elfbar-iceking",
+    "tag": "elfbar-trio-40k",
     "img": "elfbar-trio-40k_scary-berry.jfif"
   },
   {
@@ -795,7 +795,7 @@
     "flavor": "PINEAPPLE LIME",
     "price": 25000,
     "puffs": "40000",
-    "tag": "elfbar-iceking",
+    "tag": "elfbar-trio-40k",
     "img": "elfbar-trio-40k_pineapple-lime.jfif"
   },
   {
