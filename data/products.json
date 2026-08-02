@@ -10,7 +10,7 @@
   {
     "id": "mix-strawberrymango-banana",
     "brand": "Ignite Mix",
-    "flavor": "Strawberry Mango Ice / Banana Ice",
+    "flavor": "Strawberry Mango Ice / Banana Ice (SIN STOCK)",
     "price": 28000,
     "img": "ignite_mix_strawberry_mango_banana.png",
     "tag": "ignite"
@@ -18,7 +18,7 @@
   {
     "id": "mix-banana-strawberry",
     "brand": "Ignite Mix",
-    "flavor": "Banana / Strawberry Ice",
+    "flavor": "Banana / Strawberry Ice (SIN STOCK)",
     "price": 28000,
     "img": "ignite_mix_banana_strawberry.png",
     "tag": "ignite"
@@ -26,7 +26,7 @@
   {
     "id": "mix-grape-strawberry",
     "brand": "Ignite Mix",
-    "flavor": "Grape Ice / Strawberry",
+    "flavor": "Grape Ice / Strawberry (SIN STOCK)",
     "price": 28000,
     "img": "ignite_mix_grape_strawberry.png",
     "tag": "ignite"
@@ -42,7 +42,7 @@
   {
     "id": "mix-grape-watermelon",
     "brand": "Ignite Mix",
-    "flavor": "Grape Ice / Watermelon Ice",
+    "flavor": "Grape Ice / Watermelon Ice (SIN STOCK)",
     "price": 28000,
     "img": "ignite_mix_grape_watermelon.png",
     "tag": "ignite"
@@ -50,7 +50,7 @@
   {
     "id": "mix-strawberrywatermelon-aloegrape",
     "brand": "Ignite Mix",
-    "flavor": "Strawberry Watermelon Ice / Aloe Grape",
+    "flavor": "Strawberry Watermelon Ice / Aloe Grape (SIN STOCK)",
     "price": 28000,
     "img": "ignite_mix_strawberrywatermelon_aloegrape.png",
     "tag": "ignite"
@@ -58,7 +58,7 @@
   {
     "id": "mix-blueberry-raspberryblackberry",
     "brand": "Ignite Mix",
-    "flavor": "Blueberry Ice / Raspberry Blackberry",
+    "flavor": "Blueberry Ice / Raspberry Blackberry (SIN STOCK)",
     "price": 28000,
     "img": "ignite_mix_blueberry_raspberryblackberry.png",
     "tag": "ignite"
