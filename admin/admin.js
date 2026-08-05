@@ -299,14 +299,18 @@
 
     showStatus("Cargando catálogo desde GitHub…", "loading");
     try {
-      const [productsRes, sectionsRes] = await Promise.all([
+      const [productsRes, sectionsRes, configRes] = await Promise.all([
         ghGetFile(session, "data/products.json"),
         ghGetFile(session, "data/sections.json"),
+        ghGetFile(session, "data/config.json"),
       ]);
       state.products = productsRes.content;
       state.productsSha = productsRes.sha;
       state.sections = sectionsRes.content;
       state.sectionsSha = sectionsRes.sha;
+      state.provinces = (configRes.content && configRes.content.provinces) || [
+        { id: "catamarca", label: "Catamarca" },
+      ];
       pendingImages = {};
       dirty = false;
       hideStatus();
@@ -345,6 +349,7 @@
             <div class="a-row__brand">${p.brand}</div>
             <div class="a-row__flavor">${p.flavor}</div>
             <div class="a-row__meta">${p.tag}${p.puffs ? " · " + p.puffs + " puffs" : ""}</div>
+            <div class="a-row__badges">${(state.provinces || []).filter((prov) => (p.provinces || ["catamarca"]).includes(prov.id)).map((prov) => `<span class="a-badge">${prov.label}</span>`).join("")}</div>
           </div>
           <div class="a-row__price">${formatPrice(p.price)}</div>
           <div class="a-row__actions">
@@ -367,6 +372,19 @@
     sel.innerHTML = state.sections.map((s) => `<option value="${s.tag}">${s.label} (${s.tag})</option>`).join("");
   }
 
+  function buildProvinceChecks(selected) {
+    const wrap = $("#pProvinces");
+    const chosen = selected || ["catamarca"];
+    wrap.innerHTML = (state.provinces || []).map((prov) => `
+        <label class="a-check">
+          <input type="checkbox" value="${prov.id}" ${chosen.includes(prov.id) ? "checked" : ""}>
+          <span>${prov.label}</span>
+        </label>`).join("");
+  }
+  function getCheckedProvinces() {
+    return $$("#pProvinces input:checked").map((c) => c.value);
+  }
+
   // ---------------- Product modal ----------------
   let currentEditId = null;
   let currentImageFile = null;
@@ -387,6 +405,7 @@
       $("#pPrice").value = p.price;
       $("#pPuffs").value = p.puffs || "";
       $("#pTag").value = p.tag;
+      buildProvinceChecks(p.provinces || ["catamarca"]);
       $("#pImagePreview").innerHTML = `<img src="../assets/products/${p.img}" alt="">`;
       $("#pDeleteBtn").hidden = false;
     } else {
@@ -397,6 +416,7 @@
       $("#pPrice").value = "";
       $("#pPuffs").value = "";
       $("#pTag").value = state.sections[0] ? state.sections[0].tag : "";
+      buildProvinceChecks(["catamarca"]);
       $("#pDeleteBtn").hidden = true;
     }
 
@@ -428,10 +448,16 @@
     const price = parseInt($("#pPrice").value, 10);
     const puffs = $("#pPuffs").value.trim();
     const tag = $("#pTag").value;
+    const provinces = getCheckedProvinces();
     const errEl = $("#productModalError");
 
     if (!brand || !flavor || !price || !tag) {
       errEl.textContent = "Completá marca, sabor, precio y sección.";
+      errEl.hidden = false;
+      return;
+    }
+    if (provinces.length === 0) {
+      errEl.textContent = "Marcá al menos una provincia donde haya stock.";
       errEl.hidden = false;
       return;
     }
@@ -460,9 +486,10 @@
       p.puffs = puffs || undefined;
       p.tag = tag;
       p.img = imgFilename;
+      p.provinces = provinces;
     } else {
       const id = slugify(brand) + "-" + slugify(flavor) + "-" + Math.random().toString(36).slice(2, 6);
-      state.products.push({ id, brand, flavor, price, puffs: puffs || undefined, tag, img: imgFilename });
+      state.products.push({ id, brand, flavor, price, puffs: puffs || undefined, tag, img: imgFilename, provinces });
     }
 
     markDirty();

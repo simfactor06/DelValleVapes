@@ -7,7 +7,7 @@
 <meta name="description" content="Del Valle Vapes — catálogo de vapes descartables. Elfbar, Ignite, Lost Mary, RabBeats y más. Pedidos por WhatsApp.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;600;700&family=JetBrains+Mono:wght@500;600;700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;600;700&family=JetBrains+Mono:wght@500;600;700&family=Inter:wght@400;500;600;700&family=Outfit:wght@500;600;700;800&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="style.css">
 </head>
 <body>
@@ -27,6 +27,21 @@
   </div>
 </div>
 
+<!-- ============ PANTALLA 1: SELECCIÓN DE PROVINCIA ============ -->
+<section class="prov-screen" id="provincePicker">
+  <img src="assets/brand/logo.png" alt="" class="prov-screen__watermark" aria-hidden="true">
+  <div class="prov-screen__inner">
+    <img src="assets/brand/logo.png" alt="Del Valle Vapes" class="prov-screen__logo">
+    <p class="prov-screen__eyebrow">Bienvenido a Del Valle Vapes</p>
+    <h1 class="prov-screen__title">Elegí tu provincia</h1>
+    <p class="prov-screen__sub">El catálogo y el stock cambian según dónde estés.</p>
+    <div class="prov-screen__grid" id="provinceGrid"></div>
+    <p class="prov-screen__note">🔞 Solo para mayores de 18 años</p>
+  </div>
+</section>
+
+<!-- ============ PANTALLA 2: CATÁLOGO ============ -->
+<div class="catalog-screen" id="catalogScreen" hidden>
 <header class="topbar">
   <div class="topbar__inner">
     <a href="#top" class="brand">
@@ -44,7 +59,11 @@
 <section class="hero" id="top">
   <img src="assets/brand/logo.png" alt="" class="hero__watermark" aria-hidden="true">
   <div class="hero__inner">
-    <p class="hero__eyebrow">Catálogo · Del Valle</p>
+    <button class="prov-tag" id="changeProvinceBtn">
+      <span class="prov-tag__pin">📍</span>
+      <span id="currentProvinceLabel"></span>
+      <span class="prov-tag__change">Cambiar</span>
+    </button>
     <h1 class="hero__title">DEL VALLE<span class="holo">VAPES</span></h1>
     <p class="hero__subtitle">Pedís tu sabor y coordinamos por WhatsApp.</p>
     <div class="hero__marquee" aria-label="Ir a una línea">
@@ -69,6 +88,7 @@
     <div class="filters__inner" id="filterPills"></div>
   </div>
 </nav>
+
 
 <main class="catalog" id="catalog" aria-live="polite" hidden></main>
 
@@ -108,6 +128,19 @@
     </div>
   </div>
 </footer>
+</div><!-- /catalog-screen -->
+
+<!-- Cartel: cambiar de provincia con carrito lleno -->
+<div class="confirm-overlay" id="confirmOverlay" hidden></div>
+<div class="confirm-modal" id="confirmModal" hidden role="alertdialog" aria-labelledby="confirmTitle">
+  <span class="confirm-modal__icon">⚠️</span>
+  <h3 id="confirmTitle">¿Cambiar de provincia?</h3>
+  <p>Tenés productos en el carrito. Si cambiás de provincia se van a borrar, porque el stock es distinto en cada una.</p>
+  <div class="confirm-modal__actions">
+    <button class="btn btn--ghost" id="confirmCancel">No, seguir acá</button>
+    <button class="btn btn--primary" id="confirmOk">Sí, cambiar</button>
+  </div>
+</div>
 
 <script src="app.js"></script>
 </body>

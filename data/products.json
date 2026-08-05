@@ -5,31 +5,47 @@
     "flavor": "Passion Fruit Sour Kiwi / Pineapple Ice",
     "price": 28000,
     "img": "ignite_mix_passionfruit_kiwi_pineapple.png",
-    "tag": "ignite"
+    "tag": "ignite",
+    "provinces": [
+      "catamarca",
+      "cordoba"
+    ]
   },
   {
     "id": "mix-strawberrymango-banana",
     "brand": "Ignite Mix",
-    "flavor": "Strawberry Mango Ice / Banana Ice",
+    "flavor": "Strawberry Mango Ice / Banana Ice (SIN STOCK)",
     "price": 28000,
     "img": "ignite_mix_strawberry_mango_banana.png",
-    "tag": "ignite"
+    "tag": "ignite",
+    "provinces": [
+      "catamarca",
+      "cordoba"
+    ]
   },
   {
     "id": "mix-banana-strawberry",
     "brand": "Ignite Mix",
-    "flavor": "Banana / Strawberry Ice",
+    "flavor": "Banana / Strawberry Ice (SIN STOCK)",
     "price": 28000,
     "img": "ignite_mix_banana_strawberry.png",
-    "tag": "ignite"
+    "tag": "ignite",
+    "provinces": [
+      "catamarca",
+      "cordoba"
+    ]
   },
   {
     "id": "mix-grape-strawberry",
     "brand": "Ignite Mix",
-    "flavor": "Grape Ice / Strawberry",
+    "flavor": "Grape Ice / Strawberry (SIN STOCK)",
     "price": 28000,
     "img": "ignite_mix_grape_strawberry.png",
-    "tag": "ignite"
+    "tag": "ignite",
+    "provinces": [
+      "catamarca",
+      "cordoba"
+    ]
   },
   {
     "id": "mix-icymint-peachgrape",
@@ -37,31 +53,47 @@
     "flavor": "Icy Mint / Peach Grape",
     "price": 28000,
     "img": "ignite_mix_icymint_peachgrape.png",
-    "tag": "ignite"
+    "tag": "ignite",
+    "provinces": [
+      "catamarca",
+      "cordoba"
+    ]
   },
   {
     "id": "mix-grape-watermelon",
     "brand": "Ignite Mix",
-    "flavor": "Grape Ice / Watermelon Ice",
+    "flavor": "Grape Ice / Watermelon Ice (SIN STOCK)",
     "price": 28000,
     "img": "ignite_mix_grape_watermelon.png",
-    "tag": "ignite"
+    "tag": "ignite",
+    "provinces": [
+      "catamarca",
+      "cordoba"
+    ]
   },
   {
     "id": "mix-strawberrywatermelon-aloegrape",
     "brand": "Ignite Mix",
-    "flavor": "Strawberry Watermelon Ice / Aloe Grape",
+    "flavor": "Strawberry Watermelon Ice / Aloe Grape (SIN STOCK)",
     "price": 28000,
     "img": "ignite_mix_strawberrywatermelon_aloegrape.png",
-    "tag": "ignite"
+    "tag": "ignite",
+    "provinces": [
+      "catamarca",
+      "cordoba"
+    ]
   },
   {
     "id": "mix-blueberry-raspberryblackberry",
     "brand": "Ignite Mix",
-    "flavor": "Blueberry Ice / Raspberry Blackberry",
+    "flavor": "Blueberry Ice / Raspberry Blackberry (SIN STOCK)",
     "price": 28000,
     "img": "ignite_mix_blueberry_raspberryblackberry.png",
-    "tag": "ignite"
+    "tag": "ignite",
+    "provinces": [
+      "catamarca",
+      "cordoba"
+    ]
   },
   {
     "id": "rabbeats-watermelon-ice",
@@ -70,7 +102,11 @@
     "price": 23500,
     "puffs": "50000",
     "img": "rabbeats-rc50000_watermelon-ice.jfif",
-    "tag": "rabbeats"
+    "tag": "rabbeats",
+    "provinces": [
+      "catamarca",
+      "cordoba"
+    ]
   },
   {
     "id": "rabbeats-menthol",
@@ -79,7 +115,11 @@
     "price": 23500,
     "puffs": "50000",
     "img": "rabbeats-rc50000_strawberry-kiwi-ice.jfif",
-    "tag": "rabbeats"
+    "tag": "rabbeats",
+    "provinces": [
+      "catamarca",
+      "cordoba"
+    ]
   },
   {
     "id": "rabbeats-green-apple-ice",
@@ -88,7 +128,11 @@
     "price": 23500,
     "puffs": "50000",
     "img": "rabbeats-rc50000_green-apple-ice.jfif",
-    "tag": "rabbeats"
+    "tag": "rabbeats",
+    "provinces": [
+      "catamarca",
+      "cordoba"
+    ]
   },
   {
     "id": "rabbeats-icy-mint",
@@ -97,7 +141,11 @@
     "price": 23500,
     "puffs": "50000",
     "img": "rabbeats-rc50000_triple-berry.jfif",
-    "tag": "rabbeats"
+    "tag": "rabbeats",
+    "provinces": [
+      "catamarca",
+      "cordoba"
+    ]
   },
   {
     "id": "rabbeats-strawberry-kiwi-ice",
@@ -106,7 +154,11 @@
     "price": 23500,
     "puffs": "50000",
     "img": "rabbeats-rc50000_kiwi-passion-fruit-guava.jfif",
-    "tag": "rabbeats"
+    "tag": "rabbeats",
+    "provinces": [
+      "catamarca",
+      "cordoba"
+    ]
   },
   {
     "id": "lostmary-grape-ice",
@@ -115,7 +167,11 @@
     "price": 23000,
     "puffs": "35.000",
     "img": "lost-mary-dura_grape-ice.jfif",
-    "tag": "lostmary"
+    "tag": "lostmary",
+    "provinces": [
+      "catamarca",
+      "cordoba"
+    ]
   },
   {
     "id": "lostmary-miami-mint",
@@ -124,7 +180,11 @@
     "price": 23000,
     "puffs": "35.000",
     "img": "lost-mary-dura_miami-mint.jfif",
-    "tag": "lostmary"
+    "tag": "lostmary",
+    "provinces": [
+      "catamarca",
+      "cordoba"
+    ]
   },
   {
     "id": "iceking-cherry-strazz",
@@ -133,7 +193,11 @@
     "price": 25000,
     "puffs": "40.000",
     "img": "elfbar-ice-king_cherry-strazz.jfif",
-    "tag": "elfbar-iceking"
+    "tag": "elfbar-iceking",
+    "provinces": [
+      "catamarca",
+      "cordoba"
+    ]
   },
   {
     "id": "iceking-strawberry-ice",
@@ -142,7 +206,11 @@
     "price": 25000,
     "puffs": "40.000",
     "img": "elfbar-ice-king_strawberry-ice.jfif",
-    "tag": "elfbar-iceking"
+    "tag": "elfbar-iceking",
+    "provinces": [
+      "catamarca",
+      "cordoba"
+    ]
   },
   {
     "id": "v155-watermelon-mix-naranja",
@@ -150,7 +218,11 @@
     "flavor": "Watermelon Mix (naranja)",
     "price": 20500,
     "img": "ignitev155_watermelon_mix_naranja.png",
-    "tag": "ignite"
+    "tag": "ignite",
+    "provinces": [
+      "catamarca",
+      "cordoba"
+    ]
   },
   {
     "id": "v155-strawberrywatermelon-ice",
@@ -158,7 +230,11 @@
     "flavor": "Strawberry Watermelon Ice",
     "price": 20500,
     "img": "ignitev155_strawberrywatermelon_ice.png",
-    "tag": "ignite"
+    "tag": "ignite",
+    "provinces": [
+      "catamarca",
+      "cordoba"
+    ]
   },
   {
     "id": "v155-strawberry-ice-a",
@@ -166,7 +242,11 @@
     "flavor": "Strawberry Ice",
     "price": 20500,
     "img": "ignitev155_strawberry_ice_a.png",
-    "tag": "ignite"
+    "tag": "ignite",
+    "provinces": [
+      "catamarca",
+      "cordoba"
+    ]
   },
   {
     "id": "te6000-blue-razz-ice",
@@ -175,7 +255,11 @@
     "price": 10000,
     "img": "te6000_blue-razz-ice.jfif",
     "tag": "te6000",
-    "puffs": "6000"
+    "puffs": "6000",
+    "provinces": [
+      "catamarca",
+      "cordoba"
+    ]
   },
   {
     "id": "ebdesign-te6000-ice-mint",
@@ -184,7 +268,11 @@
     "price": 10000,
     "img": "ebdesign-te6000_ice-mint.jfif",
     "tag": "te6000",
-    "puffs": "6000"
+    "puffs": "6000",
+    "provinces": [
+      "catamarca",
+      "cordoba"
+    ]
   },
   {
     "id": "elfbar-duke-35k-blue-razz-ice-35000-ut0f",
@@ -193,7 +281,11 @@
     "price": 23000,
     "puffs": "35.000",
     "tag": "elfbar-duke",
-    "img": "elfbar-duke-35k_blue-razz-ice-35000.jfif"
+    "img": "elfbar-duke-35k_blue-razz-ice-35000.jfif",
+    "provinces": [
+      "catamarca",
+      "cordoba"
+    ]
   },
   {
     "id": "elfbar-duke-35k-strawberry-kiwi-ice-cqsf",
@@ -202,7 +294,11 @@
     "price": 23000,
     "puffs": "35.000",
     "tag": "elfbar-duke",
-    "img": "elfbar-duke-35k_strawberry-kiwi-ice.jpg"
+    "img": "elfbar-duke-35k_strawberry-kiwi-ice.jpg",
+    "provinces": [
+      "catamarca",
+      "cordoba"
+    ]
   },
   {
     "id": "elfbar-duke-35k-peach-mango-watermelon-yfxx",
@@ -211,7 +307,11 @@
     "price": 23000,
     "puffs": "35.000",
     "tag": "elfbar-duke",
-    "img": "elfbar-duke-35k_peach-mango-watermelon.webp"
+    "img": "elfbar-duke-35k_peach-mango-watermelon.webp",
+    "provinces": [
+      "catamarca",
+      "cordoba"
+    ]
   },
   {
     "id": "elfbar-duke-35k-mango-magico-dlx9",
@@ -220,7 +320,11 @@
     "price": 23000,
     "puffs": "35.000",
     "tag": "elfbar-duke",
-    "img": "elfbar-duke-35k_mango-magico.webp"
+    "img": "elfbar-duke-35k_mango-magico.webp",
+    "provinces": [
+      "catamarca",
+      "cordoba"
+    ]
   },
   {
     "id": "elfbar-duke-35k-kiwi-passion-fruit-guavo-v6q1",
@@ -229,7 +333,11 @@
     "price": 23000,
     "puffs": "35.000",
     "tag": "elfbar-duke",
-    "img": "elfbar-duke-35k_kiwi-passion-fruit-guavo.jpg"
+    "img": "elfbar-duke-35k_kiwi-passion-fruit-guavo.jpg",
+    "provinces": [
+      "catamarca",
+      "cordoba"
+    ]
   },
   {
     "id": "elfbar-duke-35k-watermelon-ice-tg6q",
@@ -238,7 +346,11 @@
     "price": 23000,
     "puffs": "35.000",
     "tag": "elfbar-duke",
-    "img": "elfbar-duke-35k_watermelon-ice.jpg"
+    "img": "elfbar-duke-35k_watermelon-ice.jpg",
+    "provinces": [
+      "catamarca",
+      "cordoba"
+    ]
   },
   {
     "id": "elfbar-duke-35k-icy-mint-cafj",
@@ -247,7 +359,11 @@
     "price": 23000,
     "puffs": "35.000",
     "tag": "elfbar-duke",
-    "img": "elfbar-duke-35k_icy-mint.jpg"
+    "img": "elfbar-duke-35k_icy-mint.jpg",
+    "provinces": [
+      "catamarca",
+      "cordoba"
+    ]
   },
   {
     "id": "blvk-just-juice-45k-watermelon-ice-x9rb",
@@ -256,7 +372,11 @@
     "price": 26000,
     "puffs": "45.000",
     "tag": "blvk-45k",
-    "img": "blvk-just-juice-45k_watermelon-ice.webp"
+    "img": "blvk-just-juice-45k_watermelon-ice.webp",
+    "provinces": [
+      "catamarca",
+      "cordoba"
+    ]
   },
   {
     "id": "blvk-just-juice-45k-strawberry-watermelon-6u7g",
@@ -265,7 +385,11 @@
     "price": 26000,
     "puffs": "45.000",
     "tag": "blvk-45k",
-    "img": "blvk-just-juice-45k_strawberry-watermelon.jpg"
+    "img": "blvk-just-juice-45k_strawberry-watermelon.jpg",
+    "provinces": [
+      "catamarca",
+      "cordoba"
+    ]
   },
   {
     "id": "blvk-just-juice-45k-strawberry-mango-tbi1",
@@ -274,7 +398,11 @@
     "price": 26000,
     "puffs": "45.000",
     "tag": "blvk-45k",
-    "img": "blvk-just-juice-45k_strawberry-mango.webp"
+    "img": "blvk-just-juice-45k_strawberry-mango.webp",
+    "provinces": [
+      "catamarca",
+      "cordoba"
+    ]
   },
   {
     "id": "elfbar-ebcreate-bc-pro-blue-razz-ice-th6o",
@@ -283,7 +411,11 @@
     "price": 25000,
     "puffs": "40.000",
     "tag": "ebcreate",
-    "img": "elfbar-ebcreate-bc-pro_blue-razz-ice.webp"
+    "img": "elfbar-ebcreate-bc-pro_blue-razz-ice.webp",
+    "provinces": [
+      "catamarca",
+      "cordoba"
+    ]
   },
   {
     "id": "bc-pro-40k-ebcreate-black-mint-ice-zyer",
@@ -292,7 +424,11 @@
     "price": 25000,
     "puffs": "40000",
     "tag": "ebcreate",
-    "img": "bc-pro-40k-ebcreate_black-mint-ice.jpg"
+    "img": "bc-pro-40k-ebcreate_black-mint-ice.jpg",
+    "provinces": [
+      "catamarca",
+      "cordoba"
+    ]
   },
   {
     "id": "elfbar-bc-pro-40k-ebcreate-black-mint-ice-dkpz",
@@ -301,7 +437,11 @@
     "price": 25000,
     "puffs": "40000",
     "tag": "ebcreate",
-    "img": "elfbar-bc-pro-40k-ebcreate_strawberry-raspberry-frost.jpg"
+    "img": "elfbar-bc-pro-40k-ebcreate_strawberry-raspberry-frost.jpg",
+    "provinces": [
+      "catamarca",
+      "cordoba"
+    ]
   },
   {
     "id": "elfbar-bc-pro-40k-ebcreate-tripple-berry-30le",
@@ -310,7 +450,11 @@
     "price": 25000,
     "puffs": "40000",
     "tag": "ebcreate",
-    "img": "elfbar-bc-pro-40k-ebcreate_tripple-berry.jpg"
+    "img": "elfbar-bc-pro-40k-ebcreate_tripple-berry.jpg",
+    "provinces": [
+      "catamarca",
+      "cordoba"
+    ]
   },
   {
     "id": "elfbar-bc-pro-40k-ebcreate-blackberry-grape-7eva",
@@ -319,7 +463,11 @@
     "price": 25000,
     "puffs": "40000",
     "tag": "ebcreate",
-    "img": "elfbar-bc-pro-40k-ebcreate_blackberry-grape.blackberry grape"
+    "img": "elfbar-bc-pro-40k-ebcreate_blackberry-grape.blackberry grape",
+    "provinces": [
+      "catamarca",
+      "cordoba"
+    ]
   },
   {
     "id": "elfbar-bc-pro-40k-ebcreate-sour-apple-ice-dbrc",
@@ -328,7 +476,11 @@
     "price": 25000,
     "puffs": "40000",
     "tag": "ebcreate",
-    "img": "elfbar-bc-pro-40k-ebcreate_sour-apple-ice.jpg"
+    "img": "elfbar-bc-pro-40k-ebcreate_sour-apple-ice.jpg",
+    "provinces": [
+      "catamarca",
+      "cordoba"
+    ]
   },
   {
     "id": "elfbar-bc-pro-40k-ebcreate-grape-twist-ddl9",
@@ -337,7 +489,11 @@
     "price": 25000,
     "puffs": "40000",
     "tag": "ebcreate",
-    "img": "elfbar-bc-pro-40k-ebcreate_grape-twist.jpg"
+    "img": "elfbar-bc-pro-40k-ebcreate_grape-twist.jpg",
+    "provinces": [
+      "catamarca",
+      "cordoba"
+    ]
   },
   {
     "id": "elfbar-pro-40k-ebcreate-bc-pro-pineapple-pomelo-uqov",
@@ -346,7 +502,11 @@
     "price": 25000,
     "puffs": "40000",
     "tag": "ebcreate",
-    "img": "elfbar-pro-40k-ebcreate-bc-pro_pineapple-pomelo.jpg"
+    "img": "elfbar-pro-40k-ebcreate-bc-pro_pineapple-pomelo.jpg",
+    "provinces": [
+      "catamarca",
+      "cordoba"
+    ]
   },
   {
     "id": "elfbar-bc-pro-40k-ebcreate-tropical-baja-3884",
@@ -355,7 +515,11 @@
     "price": 25000,
     "puffs": "40000",
     "tag": "ebcreate",
-    "img": "elfbar-bc-pro-40k-ebcreate_tropical-baja.webp"
+    "img": "elfbar-bc-pro-40k-ebcreate_tropical-baja.webp",
+    "provinces": [
+      "catamarca",
+      "cordoba"
+    ]
   },
   {
     "id": "elfbar-sweet-king-40k-bubbaloo-tutti-frutti-ju5x",
@@ -364,7 +528,11 @@
     "price": 24000,
     "puffs": "40000",
     "tag": "elfbar-sweet-king",
-    "img": "elfbar-sweet-king-40k_bubbaloo-tutti-frutti.jpg"
+    "img": "elfbar-sweet-king-40k_bubbaloo-tutti-frutti.jpg",
+    "provinces": [
+      "catamarca",
+      "cordoba"
+    ]
   },
   {
     "id": "elfbar-ice-king-40k-blue-razz-ice-xu4r",
@@ -373,7 +541,11 @@
     "price": 25000,
     "puffs": "40000",
     "tag": "elfbar-iceking",
-    "img": "elfbar-ice-king-40k_blue-razz-ice.jfif"
+    "img": "elfbar-ice-king-40k_blue-razz-ice.jfif",
+    "provinces": [
+      "catamarca",
+      "cordoba"
+    ]
   },
   {
     "id": "elfbar-ice-king-40k-watermelon-ice-0po3",
@@ -382,7 +554,11 @@
     "price": 25000,
     "puffs": "40000",
     "tag": "elfbar-iceking",
-    "img": "elfbar-ice-king-40k_watermelon-ice.jfif"
+    "img": "elfbar-ice-king-40k_watermelon-ice.jfif",
+    "provinces": [
+      "catamarca",
+      "cordoba"
+    ]
   },
   {
     "id": "elfbar-ice-king-summer-edition-40k-green-apple-slush-icfq",
@@ -391,7 +567,11 @@
     "price": 25000,
     "puffs": "40000",
     "tag": "elfbar-iceking",
-    "img": "elfbar-ice-king-summer-edition-40k_green-apple-slush.jfif"
+    "img": "elfbar-ice-king-summer-edition-40k_green-apple-slush.jfif",
+    "provinces": [
+      "catamarca",
+      "cordoba"
+    ]
   },
   {
     "id": "elfbar-ice-king-40k-mango-magic0-sgg4",
@@ -400,7 +580,11 @@
     "price": 25000,
     "puffs": "40000",
     "tag": "elfbar-iceking",
-    "img": "elfbar-ice-king-40k_mango-magic0.jfif"
+    "img": "elfbar-ice-king-40k_mango-magic0.jfif",
+    "provinces": [
+      "catamarca",
+      "cordoba"
+    ]
   },
   {
     "id": "elfbar-ice-king-40k-strawberry-watermelon-ice-1s8q",
@@ -409,7 +593,11 @@
     "price": 25000,
     "puffs": "40000",
     "tag": "elfbar-iceking",
-    "img": "elfbar-ice-king-40k_strawberry-watermelon-ice.jfif"
+    "img": "elfbar-ice-king-40k_strawberry-watermelon-ice.jfif",
+    "provinces": [
+      "catamarca",
+      "cordoba"
+    ]
   },
   {
     "id": "lfbar-ice-king-40k-dragon-strawnana-mysy",
@@ -418,7 +606,11 @@
     "price": 25000,
     "puffs": "40000",
     "tag": "elfbar-iceking",
-    "img": "lfbar-ice-king-40k_dragon-strawnana.jfif"
+    "img": "lfbar-ice-king-40k_dragon-strawnana.jfif",
+    "provinces": [
+      "catamarca",
+      "cordoba"
+    ]
   },
   {
     "id": "elfbar-ice-king-40k-peach-ybe7",
@@ -427,7 +619,11 @@
     "price": 25000,
     "puffs": "40000",
     "tag": "elfbar-iceking",
-    "img": "elfbar-ice-king-40k_peach.jfif"
+    "img": "elfbar-ice-king-40k_peach.jfif",
+    "provinces": [
+      "catamarca",
+      "cordoba"
+    ]
   },
   {
     "id": "elfbar-ice-king-40k-sour-apple-ice-v2bl",
@@ -436,7 +632,11 @@
     "price": 25000,
     "puffs": "40000",
     "tag": "elfbar-iceking",
-    "img": "elfbar-ice-king-40k_sour-apple-ice.jfif"
+    "img": "elfbar-ice-king-40k_sour-apple-ice.jfif",
+    "provinces": [
+      "catamarca",
+      "cordoba"
+    ]
   },
   {
     "id": "elfbar-ice-king-40k-sour-strawberry-dragon-fruit-nuzn",
@@ -445,7 +645,11 @@
     "price": 25000,
     "puffs": "40000",
     "tag": "elfbar-iceking",
-    "img": "elfbar-ice-king-40k_sour-strawberry-dragon-fruit.jfif"
+    "img": "elfbar-ice-king-40k_sour-strawberry-dragon-fruit.jfif",
+    "provinces": [
+      "catamarca",
+      "cordoba"
+    ]
   },
   {
     "id": "elfbar-ice-king-40k-baja-splash-kpiw",
@@ -454,7 +658,11 @@
     "price": 25000,
     "puffs": "40000",
     "tag": "elfbar-iceking",
-    "img": "elfbar-ice-king-40k_baja-splash.jfif"
+    "img": "elfbar-ice-king-40k_baja-splash.jfif",
+    "provinces": [
+      "catamarca",
+      "cordoba"
+    ]
   },
   {
     "id": "elfbar-te-30k-strawberry-watermelon-pobb",
@@ -463,7 +671,11 @@
     "price": 22500,
     "puffs": "30000",
     "tag": "elfbar-te30k",
-    "img": "elfbar-te-30k_strawberry-watermelon.jfif"
+    "img": "elfbar-te-30k_strawberry-watermelon.jfif",
+    "provinces": [
+      "catamarca",
+      "cordoba"
+    ]
   },
   {
     "id": "elfbar-te-30k-watermelon-yo5v",
@@ -472,7 +684,11 @@
     "price": 22500,
     "puffs": "30000",
     "tag": "elfbar-te30k",
-    "img": "elfbar-te-30k_watermelon.jfif"
+    "img": "elfbar-te-30k_watermelon.jfif",
+    "provinces": [
+      "catamarca",
+      "cordoba"
+    ]
   },
   {
     "id": "elfbar-te-30k-blueberry-gj7d",
@@ -481,7 +697,11 @@
     "price": 22500,
     "puffs": "30000",
     "tag": "elfbar-te30k",
-    "img": "elfbar-te-30k_blueberry.jfif"
+    "img": "elfbar-te-30k_blueberry.jfif",
+    "provinces": [
+      "catamarca",
+      "cordoba"
+    ]
   },
   {
     "id": "elfbar-te-30k-peach-mango-watermelon-u90m",
@@ -490,7 +710,11 @@
     "price": 22500,
     "puffs": "30000",
     "tag": "elfbar-te30k",
-    "img": "elfbar-te-30k_peach-mango-watermelon.jfif"
+    "img": "elfbar-te-30k_peach-mango-watermelon.jfif",
+    "provinces": [
+      "catamarca",
+      "cordoba"
+    ]
   },
   {
     "id": "elfbar-te-30k-bubbalo-tutti-frutti-krdu",
@@ -499,7 +723,11 @@
     "price": 22500,
     "puffs": "30000",
     "tag": "elfbar-te30k",
-    "img": "elfbar-te-30k_bubbalo-tutti-frutti.jfif"
+    "img": "elfbar-te-30k_bubbalo-tutti-frutti.jfif",
+    "provinces": [
+      "catamarca",
+      "cordoba"
+    ]
   },
   {
     "id": "ignite-v25-blueberry-raspberrry-6eeg",
@@ -508,7 +736,11 @@
     "price": 7500,
     "puffs": "2500",
     "tag": "ignite",
-    "img": "ignite-v25_blueberry-raspberrry.jfif"
+    "img": "ignite-v25_blueberry-raspberrry.jfif",
+    "provinces": [
+      "catamarca",
+      "cordoba"
+    ]
   },
   {
     "id": "ignite-v25-strawberry-watermelon-4kkx",
@@ -517,7 +749,11 @@
     "price": 7500,
     "puffs": "2500",
     "tag": "ignite",
-    "img": "ignite-v25_strawberry-watermelon.jfif"
+    "img": "ignite-v25_strawberry-watermelon.jfif",
+    "provinces": [
+      "catamarca",
+      "cordoba"
+    ]
   },
   {
     "id": "ignite-v25-raspberry-watermelon-0dfa",
@@ -526,7 +762,11 @@
     "price": 7500,
     "puffs": "2500",
     "tag": "ignite",
-    "img": "ignite-v25_raspberry-watermelon.jfif"
+    "img": "ignite-v25_raspberry-watermelon.jfif",
+    "provinces": [
+      "catamarca",
+      "cordoba"
+    ]
   },
   {
     "id": "ignite-v25-passion-fruit-lemon-wo9f",
@@ -535,7 +775,11 @@
     "price": 7500,
     "puffs": "2500",
     "tag": "ignite",
-    "img": "ignite-v25_passion-fruit-lemon.jfif"
+    "img": "ignite-v25_passion-fruit-lemon.jfif",
+    "provinces": [
+      "catamarca",
+      "cordoba"
+    ]
   },
   {
     "id": "ignite-v25-pink-lemonade-8dnc",
@@ -544,7 +788,11 @@
     "price": 7500,
     "puffs": "2500",
     "tag": "ignite",
-    "img": "ignite-v25_pink-lemonade.jfif"
+    "img": "ignite-v25_pink-lemonade.jfif",
+    "provinces": [
+      "catamarca",
+      "cordoba"
+    ]
   },
   {
     "id": "ignite-v25-sour-apple-ice-q6jf",
@@ -553,7 +801,11 @@
     "price": 7500,
     "puffs": "2500",
     "tag": "ignite",
-    "img": "ignite-v25_sour-apple-ice.jfif"
+    "img": "ignite-v25_sour-apple-ice.jfif",
+    "provinces": [
+      "catamarca",
+      "cordoba"
+    ]
   },
   {
     "id": "ignite-v25-very-barries-svuz",
@@ -562,7 +814,11 @@
     "price": 7500,
     "puffs": "2500",
     "tag": "ignite",
-    "img": "ignite-v25_very-barries.jfif"
+    "img": "ignite-v25_very-barries.jfif",
+    "provinces": [
+      "catamarca",
+      "cordoba"
+    ]
   },
   {
     "id": "ignite-v25-blood-orange-ice-du4p",
@@ -571,7 +827,11 @@
     "price": 7500,
     "puffs": "2500",
     "tag": "ignite",
-    "img": "ignite-v25_blood-orange-ice.jfif"
+    "img": "ignite-v25_blood-orange-ice.jfif",
+    "provinces": [
+      "catamarca",
+      "cordoba"
+    ]
   },
   {
     "id": "ignite-v25-strawberry-cheescaske-1kil",
@@ -580,7 +840,11 @@
     "price": 7500,
     "puffs": "2500",
     "tag": "ignite",
-    "img": "ignite-v25_strawberry-cheescaske.jfif"
+    "img": "ignite-v25_strawberry-cheescaske.jfif",
+    "provinces": [
+      "catamarca",
+      "cordoba"
+    ]
   },
   {
     "id": "ignite-v40-blue-razz-ice-pnoz",
@@ -589,7 +853,11 @@
     "price": 10500,
     "puffs": "4000",
     "tag": "ignite",
-    "img": "ignite-v40_blue-razz-ice.jfif"
+    "img": "ignite-v40_blue-razz-ice.jfif",
+    "provinces": [
+      "catamarca",
+      "cordoba"
+    ]
   },
   {
     "id": "ignite-v40-grape-ice-2f19",
@@ -598,7 +866,11 @@
     "price": 10500,
     "puffs": "4000",
     "tag": "ignite",
-    "img": "ignite-v40_grape-ice.jfif"
+    "img": "ignite-v40_grape-ice.jfif",
+    "provinces": [
+      "catamarca",
+      "cordoba"
+    ]
   },
   {
     "id": "ignite-v40-peach-mango-watermelon-8kj7",
@@ -607,7 +879,11 @@
     "price": 10500,
     "puffs": "4000",
     "tag": "ignite",
-    "img": "ignite-v40_peach-mango-watermelon.jfif"
+    "img": "ignite-v40_peach-mango-watermelon.jfif",
+    "provinces": [
+      "catamarca",
+      "cordoba"
+    ]
   },
   {
     "id": "ignite-v40-pineapple-peach-lemonade-3s3d",
@@ -616,7 +892,11 @@
     "price": 10500,
     "puffs": "4000",
     "tag": "ignite",
-    "img": "ignite-v40_pineapple-peach-lemonade.jfif"
+    "img": "ignite-v40_pineapple-peach-lemonade.jfif",
+    "provinces": [
+      "catamarca",
+      "cordoba"
+    ]
   },
   {
     "id": "ignite-v40-strawberry-watermelon-4qkv",
@@ -625,7 +905,11 @@
     "price": 10500,
     "puffs": "4000",
     "tag": "ignite",
-    "img": "ignite-v40_strawberry-watermelon.jfif"
+    "img": "ignite-v40_strawberry-watermelon.jfif",
+    "provinces": [
+      "catamarca",
+      "cordoba"
+    ]
   },
   {
     "id": "ignite-v40-watermelon-jcbp",
@@ -634,7 +918,11 @@
     "price": 10500,
     "puffs": "4000",
     "tag": "ignite",
-    "img": "ignite-v40_watermelon.jfif"
+    "img": "ignite-v40_watermelon.jfif",
+    "provinces": [
+      "catamarca",
+      "cordoba"
+    ]
   },
   {
     "id": "elf-bar-sweet-king-40k-bubbaloo-grape-hgve",
@@ -643,7 +931,11 @@
     "price": 24000,
     "puffs": "40000",
     "tag": "elfbar-sweet-king",
-    "img": "elf-bar-sweet-king-40k_bubbaloo-grape.jfif"
+    "img": "elf-bar-sweet-king-40k_bubbaloo-grape.jfif",
+    "provinces": [
+      "catamarca",
+      "cordoba"
+    ]
   },
   {
     "id": "elf-bar-sweet-king-40k-lemon-heads-ge2b",
@@ -652,7 +944,11 @@
     "price": 24000,
     "puffs": "40000",
     "tag": "elfbar-sweet-king",
-    "img": "elf-bar-sweet-king-40k_lemon-heads.jfif"
+    "img": "elf-bar-sweet-king-40k_lemon-heads.jfif",
+    "provinces": [
+      "catamarca",
+      "cordoba"
+    ]
   },
   {
     "id": "elf-bar-sweet-king-40k-raspberry-orange-xqa2",
@@ -661,7 +957,11 @@
     "price": 24000,
     "puffs": "40000",
     "tag": "elfbar-sweet-king",
-    "img": "elf-bar-sweet-king-40k_raspberry-orange.jfif"
+    "img": "elf-bar-sweet-king-40k_raspberry-orange.jfif",
+    "provinces": [
+      "catamarca",
+      "cordoba"
+    ]
   },
   {
     "id": "elf-bar-sweet-king-40k-watermelon-roll-up-xrq9",
@@ -670,7 +970,11 @@
     "price": 24000,
     "puffs": "40000",
     "tag": "elfbar-sweet-king",
-    "img": "elf-bar-sweet-king-40k_watermelon-roll-up.jfif"
+    "img": "elf-bar-sweet-king-40k_watermelon-roll-up.jfif",
+    "provinces": [
+      "catamarca",
+      "cordoba"
+    ]
   },
   {
     "id": "elf-bar-sweet-king-40k-wintergreen-savers-z0n0",
@@ -679,7 +983,11 @@
     "price": 24000,
     "puffs": "40000",
     "tag": "elfbar-sweet-king",
-    "img": "elf-bar-sweet-king-40k_wintergreen-savers.jfif"
+    "img": "elf-bar-sweet-king-40k_wintergreen-savers.jfif",
+    "provinces": [
+      "catamarca",
+      "cordoba"
+    ]
   },
   {
     "id": "ignite-v400-ice-blue-razz-lemon-t9oi",
@@ -688,7 +996,11 @@
     "price": 25000,
     "puffs": "40000",
     "tag": "ignite-v400-ice",
-    "img": "ignite-v400_ice-blue-razz-lemon.jfif"
+    "img": "ignite-v400_ice-blue-razz-lemon.jfif",
+    "provinces": [
+      "catamarca",
+      "cordoba"
+    ]
   },
   {
     "id": "ignite-v400-ice-strawberry-kiwi-gadm",
@@ -697,7 +1009,11 @@
     "price": 25000,
     "puffs": "40000",
     "tag": "ignite-v400-ice",
-    "img": "ignite-v400_ice-strawberry-kiwi.jfif"
+    "img": "ignite-v400_ice-strawberry-kiwi.jfif",
+    "provinces": [
+      "catamarca",
+      "cordoba"
+    ]
   },
   {
     "id": "ignite-v400-ice-mint-kr65",
@@ -706,7 +1022,11 @@
     "price": 25000,
     "puffs": "40000",
     "tag": "ignite-v400-ice",
-    "img": "ignite-v400-ice_mint.jfif"
+    "img": "ignite-v400-ice_mint.jfif",
+    "provinces": [
+      "catamarca",
+      "cordoba"
+    ]
   },
   {
     "id": "ignite-v400-ice-strawberry-glju",
@@ -715,7 +1035,11 @@
     "price": 25000,
     "puffs": "40000",
     "tag": "ignite-v400-ice",
-    "img": "ignite-v400-ice_strawberry.jfif"
+    "img": "ignite-v400-ice_strawberry.jfif",
+    "provinces": [
+      "catamarca",
+      "cordoba"
+    ]
   },
   {
     "id": "ignite-v400-ice-grape-peach-8mow",
@@ -724,7 +1048,11 @@
     "price": 25000,
     "puffs": "40000",
     "tag": "ignite-v400-ice",
-    "img": "ignite-v400-ice_grape-peach.jfif"
+    "img": "ignite-v400-ice_grape-peach.jfif",
+    "provinces": [
+      "catamarca",
+      "cordoba"
+    ]
   },
   {
     "id": "elf-bar-trio-40k-blue-razz-ice-2g15",
@@ -733,7 +1061,11 @@
     "price": 25000,
     "puffs": "40000",
     "tag": "elfbar-trio-40k",
-    "img": "elf-bar-trio-40k_blue-razz-ice.jfif"
+    "img": "elf-bar-trio-40k_blue-razz-ice.jfif",
+    "provinces": [
+      "catamarca",
+      "cordoba"
+    ]
   },
   {
     "id": "elfbar-trio-40k-watermelon-1ove",
@@ -742,7 +1074,11 @@
     "price": 25000,
     "puffs": "40000",
     "tag": "elfbar-trio-40k",
-    "img": "elfbar-trio-40k_watermelon.jfif"
+    "img": "elfbar-trio-40k_watermelon.jfif",
+    "provinces": [
+      "catamarca",
+      "cordoba"
+    ]
   },
   {
     "id": "elfbar-trio-40k-raspberry-watermelon-upgz",
@@ -751,7 +1087,11 @@
     "price": 25000,
     "puffs": "40000",
     "tag": "elfbar-trio-40k",
-    "img": "elfbar-trio-40k_raspberry-watermelon.jfif"
+    "img": "elfbar-trio-40k_raspberry-watermelon.jfif",
+    "provinces": [
+      "catamarca",
+      "cordoba"
+    ]
   },
   {
     "id": "elfbar-trio-40k-sour-apple-ice-mpsj",
@@ -760,7 +1100,11 @@
     "price": 25000,
     "puffs": "40000",
     "tag": "elfbar-trio-40k",
-    "img": "elfbar-trio-40k_sour-apple-ice.jfif"
+    "img": "elfbar-trio-40k_sour-apple-ice.jfif",
+    "provinces": [
+      "catamarca",
+      "cordoba"
+    ]
   },
   {
     "id": "elfbar-trio-40k-blueberry-pom-slushy-l3di",
@@ -769,7 +1113,11 @@
     "price": 25000,
     "puffs": "40000",
     "tag": "elfbar-trio-40k",
-    "img": "elfbar-trio-40k_blueberry-pom-slushy.jfif"
+    "img": "elfbar-trio-40k_blueberry-pom-slushy.jfif",
+    "provinces": [
+      "catamarca",
+      "cordoba"
+    ]
   },
   {
     "id": "elfbar-trio-40k-sakura-grape-mjgh",
@@ -778,7 +1126,11 @@
     "price": 25000,
     "puffs": "40000",
     "tag": "elfbar-trio-40k",
-    "img": "elfbar-trio-40k_sakura-grape.jfif"
+    "img": "elfbar-trio-40k_sakura-grape.jfif",
+    "provinces": [
+      "catamarca",
+      "cordoba"
+    ]
   },
   {
     "id": "elfbar-trio-40k-scary-berry-t0fl",
@@ -787,7 +1139,11 @@
     "price": 25000,
     "puffs": "40000",
     "tag": "elfbar-trio-40k",
-    "img": "elfbar-trio-40k_scary-berry.jfif"
+    "img": "elfbar-trio-40k_scary-berry.jfif",
+    "provinces": [
+      "catamarca",
+      "cordoba"
+    ]
   },
   {
     "id": "elfbar-trio-40k-pineapple-lime-stcf",
@@ -796,7 +1152,11 @@
     "price": 25000,
     "puffs": "40000",
     "tag": "elfbar-trio-40k",
-    "img": "elfbar-trio-40k_pineapple-lime.jfif"
+    "img": "elfbar-trio-40k_pineapple-lime.jfif",
+    "provinces": [
+      "catamarca",
+      "cordoba"
+    ]
   },
   {
     "id": "elfbar-bc-15k-green-apple-ice-gj02",
@@ -805,7 +1165,11 @@
     "price": 16000,
     "puffs": "15000",
     "tag": "te6000",
-    "img": "elfbar-bc-15k_green-apple-ice.jfif"
+    "img": "elfbar-bc-15k_green-apple-ice.jfif",
+    "provinces": [
+      "catamarca",
+      "cordoba"
+    ]
   },
   {
     "id": "elfbar-bc-15k-tropical-lemonade-meut",
@@ -814,7 +1178,11 @@
     "price": 16000,
     "puffs": "15000",
     "tag": "te6000",
-    "img": "elfbar-bc-15k_tropical-lemonade.jfif"
+    "img": "elfbar-bc-15k_tropical-lemonade.jfif",
+    "provinces": [
+      "catamarca",
+      "cordoba"
+    ]
   },
   {
     "id": "elfbar-bc-15k-strawberry-banana-c7dn",
@@ -823,7 +1191,11 @@
     "price": 9500,
     "puffs": "5000",
     "tag": "te6000",
-    "img": "elfbar-bc-15k_strawberry-banana.jfif"
+    "img": "elfbar-bc-15k_strawberry-banana.jfif",
+    "provinces": [
+      "catamarca",
+      "cordoba"
+    ]
   },
   {
     "id": "elfbar-bc-5k-blackberry-cherry-g6gf",
@@ -832,7 +1204,11 @@
     "price": 9500,
     "puffs": "5000",
     "tag": "te6000",
-    "img": "elfbar-bc-5k_blackberry-cherry.jfif"
+    "img": "elfbar-bc-5k_blackberry-cherry.jfif",
+    "provinces": [
+      "catamarca",
+      "cordoba"
+    ]
   },
   {
     "id": "elfbar-bc-5k-cherry-dragon-fruit-jerv",
@@ -841,7 +1217,11 @@
     "price": 9500,
     "puffs": "5000",
     "tag": "te6000",
-    "img": "elfbar-bc-5k_cherry-dragon-fruit.jfif"
+    "img": "elfbar-bc-5k_cherry-dragon-fruit.jfif",
+    "provinces": [
+      "catamarca",
+      "cordoba"
+    ]
   },
   {
     "id": "elfbar-bc-5k-nectarine-i4dw",
@@ -850,7 +1230,11 @@
     "price": 9500,
     "puffs": "5000",
     "tag": "te6000",
-    "img": "elfbar-bc-5k_nectarine.jfif"
+    "img": "elfbar-bc-5k_nectarine.jfif",
+    "provinces": [
+      "catamarca",
+      "cordoba"
+    ]
   },
   {
     "id": "elfbar-bc-5k-beach-day-jnas",
@@ -859,7 +1243,11 @@
     "price": 9500,
     "puffs": "5000",
     "tag": "te6000",
-    "img": "elfbar-bc-5k_beach-day.jfif"
+    "img": "elfbar-bc-5k_beach-day.jfif",
+    "provinces": [
+      "catamarca",
+      "cordoba"
+    ]
   },
   {
     "id": "elfbar-bc-5k-sour-grape-chew-eo7n",
@@ -868,7 +1256,11 @@
     "price": 9500,
     "puffs": "5000",
     "tag": "te6000",
-    "img": "elfbar-bc-5k_sour-grape-chew.jfif"
+    "img": "elfbar-bc-5k_sour-grape-chew.jfif",
+    "provinces": [
+      "catamarca",
+      "cordoba"
+    ]
   },
   {
     "id": "elfbar-te-30k-acai-banana-ice-85kh",
@@ -877,7 +1269,11 @@
     "price": 22500,
     "puffs": "30000",
     "tag": "elfbar-te30k",
-    "img": "elfbar-te-30k_acai-banana-ice.jfif"
+    "img": "elfbar-te-30k_acai-banana-ice.jfif",
+    "provinces": [
+      "catamarca",
+      "cordoba"
+    ]
   },
   {
     "id": "ignite-vnano-1000-cola-ice-7p6e",
@@ -886,7 +1282,11 @@
     "price": 9000,
     "puffs": "1000",
     "tag": "ignite",
-    "img": "ignite-vnano-1000_cola-ice.jfif"
+    "img": "ignite-vnano-1000_cola-ice.jfif",
+    "provinces": [
+      "catamarca",
+      "cordoba"
+    ]
   },
   {
     "id": "ignite-vnano1000-cool-menthol-rwtm",
@@ -895,7 +1295,11 @@
     "price": 9000,
     "puffs": "1000",
     "tag": "ignite",
-    "img": "ignite-vnano1000_cool-menthol.jfif"
+    "img": "ignite-vnano1000_cool-menthol.jfif",
+    "provinces": [
+      "catamarca",
+      "cordoba"
+    ]
   },
   {
     "id": "ignite-v-nano-1000puff-icy-mint-b66g",
@@ -904,7 +1308,11 @@
     "price": 9000,
     "puffs": "1000",
     "tag": "ignite",
-    "img": "ignite-v-nano-1000puff_icy-mint.jfif"
+    "img": "ignite-v-nano-1000puff_icy-mint.jfif",
+    "provinces": [
+      "catamarca",
+      "cordoba"
+    ]
   },
   {
     "id": "ignite-v-nano-1000puff-green-apple-7pc3",
@@ -913,7 +1321,11 @@
     "price": 9000,
     "puffs": "1000",
     "tag": "ignite",
-    "img": "ignite-v-nano-1000puff_green-apple.jfif"
+    "img": "ignite-v-nano-1000puff_green-apple.jfif",
+    "provinces": [
+      "catamarca",
+      "cordoba"
+    ]
   },
   {
     "id": "ignite-v-nano-1000puff-strawberry-ice-lnds",
@@ -922,7 +1334,11 @@
     "price": 9000,
     "puffs": "1000",
     "tag": "ignite",
-    "img": "ignite-v-nano-1000puff_strawberry-ice.jfif"
+    "img": "ignite-v-nano-1000puff_strawberry-ice.jfif",
+    "provinces": [
+      "catamarca",
+      "cordoba"
+    ]
   },
   {
     "id": "ignite-v-nano-1000puff-stawberry-guava-ice-n549",
@@ -931,7 +1347,11 @@
     "price": 9000,
     "puffs": "1000",
     "tag": "ignite",
-    "img": "ignite-v-nano-1000puff_stawberry-guava-ice.jfif"
+    "img": "ignite-v-nano-1000puff_stawberry-guava-ice.jfif",
+    "provinces": [
+      "catamarca",
+      "cordoba"
+    ]
   },
   {
     "id": "ignite-v-nano-1000puff-pineapple-ice-d86r",
@@ -940,7 +1360,11 @@
     "price": 9000,
     "puffs": "1000",
     "tag": "ignite",
-    "img": "ignite-v-nano-1000puff_pineapple-ice.jfif"
+    "img": "ignite-v-nano-1000puff_pineapple-ice.jfif",
+    "provinces": [
+      "catamarca",
+      "cordoba"
+    ]
   },
   {
     "id": "ignite-v-nano-1000puff-tropical-fruit-qzms",
@@ -949,7 +1373,11 @@
     "price": 9000,
     "puffs": "1000",
     "tag": "ignite",
-    "img": "ignite-v-nano-1000puff_tropical-fruit.jfif"
+    "img": "ignite-v-nano-1000puff_tropical-fruit.jfif",
+    "provinces": [
+      "catamarca",
+      "cordoba"
+    ]
   },
   {
     "id": "ignite-v-nano-1000puff-passion-fruit-sour-kiwi-m71j",
@@ -958,7 +1386,11 @@
     "price": 9000,
     "puffs": "1000",
     "tag": "ignite",
-    "img": "ignite-v-nano-1000puff_passion-fruit-sour-kiwi.jfif"
+    "img": "ignite-v-nano-1000puff_passion-fruit-sour-kiwi.jfif",
+    "provinces": [
+      "catamarca",
+      "cordoba"
+    ]
   },
   {
     "id": "ignite-v-nano-1000puff-banana-ice-d625",
@@ -967,6 +1399,10 @@
     "price": 9000,
     "puffs": "1000",
     "tag": "ignite",
-    "img": "ignite-v-nano-1000puff_banana-ice.jfif"
+    "img": "ignite-v-nano-1000puff_banana-ice.jfif",
+    "provinces": [
+      "catamarca",
+      "cordoba"
+    ]
   }
 ]

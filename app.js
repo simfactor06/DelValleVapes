@@ -4,11 +4,15 @@
   let PRODUCTS = [];
   let SECTIONS = [];
   let WHATSAPP_NUMBER = "";
+  let PROVINCES = [];
 
   const catalogEl = document.getElementById("catalog");
   const emptyStateEl = document.getElementById("emptyState");
   const pillsWrapEl = document.getElementById("filterPillsWrap");
   const pillsEl = document.getElementById("filterPills");
+  const provincePickerEl = document.getElementById("provincePicker");
+  const provinceGridEl = document.getElementById("provinceGrid");
+  const catalogScreenEl = document.getElementById("catalogScreen");
   const sectionPickerEl = document.getElementById("sectionPicker");
   const sectionsGridEl = document.getElementById("sectionsGrid");
   const filtersEl = document.getElementById("filters");
@@ -17,6 +21,24 @@
 
   let activeTag = null; // null = landing (no catalog shown yet)
   let activeModel = "all"; // sub-filter within a section (by product.brand)
+
+  // ---------- Province state ----------
+  const PROVINCE_KEY = "dvv_province_v1";
+  let activeProvince = null;
+  try { activeProvince = localStorage.getItem(PROVINCE_KEY) || null; } catch (e) { activeProvince = null; }
+
+  function productsForProvince() {
+    if (!activeProvince) return [];
+    return PRODUCTS.filter((p) => (p.provinces || ["catamarca"]).includes(activeProvince));
+  }
+  function sectionsInProvince() {
+    const inProv = productsForProvince();
+    return SECTIONS.filter((s) => inProv.some((p) => p.tag === s.tag));
+  }
+  function currentWhatsapp() {
+    const prov = PROVINCES.find((p) => p.id === activeProvince);
+    return (prov && prov.whatsappNumber) || WHATSAPP_NUMBER;
+  }
 
   // ---------- Cart state ----------
   const CART_KEY = "dvv_cart_v1";
@@ -126,8 +148,10 @@
     const body = lines
       .map(({ product, qty }) => `• ${qty}x ${product.brand} - ${product.flavor} — ${formatPrice(product.price * qty)}`)
       .join("\n");
-    const msg = `Hola! Quiero hacer este pedido:\n${body}\n\nTotal: ${formatPrice(total)}`;
-    return `https://wa.me/${WHATSAPP_NUMBER}?text=${encodeURIComponent(msg)}`;
+    const provLabel = (PROVINCES.find((p) => p.id === activeProvince) || {}).label || "";
+    const provLine = provLabel ? ` (${provLabel})` : "";
+    const msg = `Hola! Quiero hacer este pedido${provLine}:\n${body}\n\nTotal: ${formatPrice(total)}`;
+    return `https://wa.me/${currentWhatsapp()}?text=${encodeURIComponent(msg)}`;
   }
 
   function openCart() {
@@ -157,6 +181,8 @@
 
   // ---------- Catalog filtering/render ----------
   function matches(product) {
+    const provOk = !activeProvince || (product.provinces || ["catamarca"]).includes(activeProvince);
+    if (!provOk) return false;
     const tagOk = activeTag === "all" || product.tag === activeTag;
     if (!tagOk) return false;
     const modelOk = activeModel === "all" || product.brand === activeModel;
@@ -233,13 +259,13 @@
     pillsEl.innerHTML = "";
     const allBtn = makePill("Todos", "all", activeTag === "all");
     pillsEl.appendChild(allBtn);
-    SECTIONS.forEach((s) => {
+    sectionsInProvince().forEach((s) => {
       pillsEl.appendChild(makePill(s.label, s.tag, activeTag === s.tag, () => showCatalog(s.tag)));
     });
   }
 
   function buildPillsForModels(tag) {
-    const brandsInSection = [...new Set(PRODUCTS.filter((p) => p.tag === tag).map((p) => p.brand))];
+    const brandsInSection = [...new Set(productsForProvince().filter((p) => p.tag === tag).map((p) => p.brand))];
     pillsEl.innerHTML = "";
     if (brandsInSection.length <= 1) {
       pillsWrapEl.hidden = true;
@@ -307,8 +333,9 @@
 
   function buildSectionTiles() {
     sectionsGridEl.innerHTML = "";
-    SECTIONS.forEach((s) => {
-      const count = PRODUCTS.filter((p) => p.tag === s.tag).length;
+    const inProv = productsForProvince();
+    sectionsInProvince().forEach((s) => {
+      const count = inProv.filter((p) => p.tag === s.tag).length;
       const card = document.createElement("button");
       card.className = "section-card";
       card.setAttribute("aria-label", `Ver ${s.label}`);
@@ -330,7 +357,7 @@
 
   function buildHeroBrandLinks() {
     const el = document.getElementById("heroBrandLinks");
-    const linksHtml = SECTIONS.map((s) => `<a href="#" data-tag="${s.tag}">${s.label}</a>`).join("");
+    const linksHtml = sectionsInProvince().map((s) => `<a href="#" data-tag="${s.tag}">${s.label}</a>`).join("");
 
     function attachClicks() {
       el.querySelectorAll("a").forEach((a) => {
@@ -371,6 +398,88 @@
   document.getElementById("cartClear").addEventListener("click", clearCart);
   renderCartBadge();
 
+  // ---------- Province picker (full-screen toggle) ----------
+  function buildProvinceTiles() {
+    provinceGridEl.innerHTML = "";
+    PROVINCES.forEach((prov) => {
+      const count = PRODUCTS.filter((p) => (p.provinces || ["catamarca"]).includes(prov.id)).length;
+      const empty = count === 0;
+      const card = document.createElement("button");
+      card.className = "prov-card" + (empty ? " prov-card--empty" : "");
+      card.setAttribute("aria-label", `Elegir ${prov.label}`);
+      card.innerHTML = `
+        <span class="prov-card__pin">📍</span>
+        <span class="prov-card__name">${prov.label}</span>
+        <span class="prov-card__count">${empty ? "Próximamente" : count + " productos"}</span>
+      `;
+      if (empty) {
+        card.setAttribute("aria-disabled", "true");
+      } else {
+        card.addEventListener("click", () => selectProvince(prov.id));
+      }
+      provinceGridEl.appendChild(card);
+    });
+  }
+
+  function enterCatalogScreen() {
+    document.body.classList.add("catalog-active");
+    catalogScreenEl.hidden = false;
+    provincePickerEl.hidden = true;
+  }
+
+  function selectProvince(id) {
+    activeProvince = id;
+    try { localStorage.setItem(PROVINCE_KEY, id); } catch (e) {}
+    const prov = PROVINCES.find((p) => p.id === id);
+    document.getElementById("currentProvinceLabel").textContent = prov ? prov.label : "";
+    buildHeroBrandLinks();
+    buildSectionTiles();
+    updateWhatsappLinks();
+    enterCatalogScreen();
+    showSections();
+    window.scrollTo({ top: 0, behavior: "auto" });
+  }
+
+  function goToProvincePicker() {
+    activeProvince = null;
+    activeTag = null;
+    try { localStorage.removeItem(PROVINCE_KEY); } catch (e) {}
+    document.body.classList.remove("catalog-active");
+    catalogScreenEl.hidden = true;
+    provincePickerEl.hidden = false;
+    window.scrollTo({ top: 0, behavior: "auto" });
+  }
+
+  function requestProvinceChange() {
+    if (cartCount() > 0) openConfirm();
+    else goToProvincePicker();
+  }
+  function openConfirm() {
+    document.getElementById("confirmOverlay").hidden = false;
+    document.getElementById("confirmModal").hidden = false;
+  }
+  function closeConfirm() {
+    document.getElementById("confirmOverlay").hidden = true;
+    document.getElementById("confirmModal").hidden = true;
+  }
+  document.getElementById("changeProvinceBtn").addEventListener("click", requestProvinceChange);
+  document.getElementById("confirmCancel").addEventListener("click", closeConfirm);
+  document.getElementById("confirmOverlay").addEventListener("click", closeConfirm);
+  document.getElementById("confirmOk").addEventListener("click", () => {
+    clearCart();
+    closeConfirm();
+    goToProvincePicker();
+  });
+
+  function updateWhatsappLinks() {
+    const wa = currentWhatsapp();
+    const genericWa = `https://wa.me/${wa}?text=${encodeURIComponent("Hola! Quería consultar por el catálogo de Del Valle Vapes.")}`;
+    const footerLink = document.getElementById("footerWhatsapp");
+    footerLink.href = genericWa;
+    footerLink.textContent = formatWaDisplay(wa);
+    document.getElementById("whatsappFab").href = genericWa;
+  }
+
   // ---------- Age gate (data-independent, wire immediately) ----------
   const AGE_KEY = "dvv_age_verified";
   const yesBtn = document.getElementById("ageYes");
@@ -400,18 +509,28 @@
       PRODUCTS = products;
       SECTIONS = sections;
       WHATSAPP_NUMBER = config.whatsappNumber;
+      PROVINCES = config.provinces || [{ id: "catamarca", label: "Catamarca", whatsappNumber: config.whatsappNumber }];
 
-      buildHeroBrandLinks();
-      buildSectionTiles();
+      buildProvinceTiles();
+      updateWhatsappLinks();
 
-      const genericWa = `https://wa.me/${WHATSAPP_NUMBER}?text=${encodeURIComponent("Hola! Quería consultar por el catálogo de Del Valle Vapes.")}`;
-      const footerLink = document.getElementById("footerWhatsapp");
-      footerLink.href = genericWa;
-      footerLink.textContent = formatWaDisplay(WHATSAPP_NUMBER);
-      document.getElementById("whatsappFab").href = genericWa;
+      // If a valid province was chosen before (and still has stock), skip straight to catalog.
+      const chosen = PROVINCES.find((p) => p.id === activeProvince);
+      const chosenHasStock = chosen && PRODUCTS.some((p) => (p.provinces || ["catamarca"]).includes(activeProvince));
+      if (chosenHasStock) {
+        document.getElementById("currentProvinceLabel").textContent = chosen.label;
+        buildHeroBrandLinks();
+        buildSectionTiles();
+        updateWhatsappLinks();
+        enterCatalogScreen();
+        showSections();
+      } else {
+        activeProvince = null;
+        goToProvincePicker();
+      }
     } catch (err) {
       console.error("Error cargando el catálogo:", err);
-      sectionsGridEl.innerHTML = `<p style="color:#a6a2bd">No se pudo cargar el catálogo. Recargá la página o avisale a Simon.</p>`;
+      provinceGridEl.innerHTML = `<p style="color:#a6a2bd">No se pudo cargar el catálogo. Recargá la página o avisale a Simon.</p>`;
     }
   }
 

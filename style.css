@@ -15,6 +15,7 @@
   --text-faint: #6f6b87;
 
   --font-display: 'Space Grotesk', sans-serif;
+  --font-elegant: 'Outfit', sans-serif;
   --font-body: 'Inter', sans-serif;
   --font-led: 'JetBrains Mono', monospace;
 
@@ -131,6 +132,127 @@ body.verified .age-gate{ display:none; }
 }
 .brand:hover .brand__name::after{ width:100%; }
 .brand__name em{ font-style:normal; color: var(--frost-cyan); }
+
+/* ===== Pantalla de provincia (paso 1) ===== */
+.prov-screen{
+  position:relative; min-height:100vh; min-height:100dvh; overflow:hidden;
+  display:flex; align-items:center; justify-content:center; padding:2rem 1.25rem;
+  background:
+    radial-gradient(70% 60% at 50% 0%, rgba(185,140,255,.28), transparent 60%),
+    radial-gradient(60% 50% at 85% 20%, rgba(111,243,255,.18), transparent 60%),
+    radial-gradient(50% 40% at 15% 80%, rgba(255,92,147,.14), transparent 60%),
+    var(--bg-void);
+  background-size: 160% 160%, 160% 160%, 160% 160%, 100% 100%;
+  animation: heroBreathe 16s ease-in-out infinite;
+}
+body.catalog-active .prov-screen{ display:none; }
+.prov-screen__watermark{
+  position:absolute; top:50%; left:50%; width:min(1100px, 170vw); height:auto;
+  transform:translate(-50%,-50%); opacity:.045; z-index:0; pointer-events:none; filter: blur(1px);
+}
+.prov-screen__inner{
+  position:relative; z-index:1; max-width:680px; width:100%; text-align:center;
+  animation: provFadeUp .6s cubic-bezier(.2,.8,.2,1) both;
+}
+@keyframes provFadeUp{
+  from{ opacity:0; transform: translateY(24px); }
+  to{ opacity:1; transform: translateY(0); }
+}
+.prov-screen__logo{
+  width:90px; height:90px; object-fit:contain; margin:0 auto 1.5rem;
+  filter: drop-shadow(0 0 24px rgba(185,140,255,.45));
+}
+.prov-screen__eyebrow{
+  font-family: var(--font-led); color: var(--frost-cyan); letter-spacing:.22em;
+  text-transform:uppercase; font-size:.72rem; margin:0 0 1rem;
+}
+.prov-screen__title{
+  font-family: var(--font-elegant); font-weight:800; letter-spacing:-.02em;
+  font-size: clamp(2.6rem, 9vw, 4.5rem); line-height:1; margin:0 0 1rem;
+  background: linear-gradient(120deg, #fff 20%, var(--frost-cyan) 55%, var(--holo-violet));
+  -webkit-background-clip:text; background-clip:text; color:transparent;
+}
+.prov-screen__sub{
+  font-family: var(--font-elegant); font-weight:500;
+  color: var(--text-dim); font-size:1.1rem; margin:0 auto 2.75rem; max-width:440px; line-height:1.5;
+}
+.prov-screen__grid{
+  display:grid; grid-template-columns: repeat(2, 1fr); gap:1.25rem; max-width:560px; margin:0 auto;
+}
+.prov-card{
+  position:relative; cursor:pointer; overflow:hidden;
+  border:1px solid var(--border); border-radius:20px;
+  background: linear-gradient(160deg, rgba(28,28,41,.9), rgba(21,21,31,.9));
+  padding: 2.5rem 1.25rem; text-align:center;
+  transition: transform .22s cubic-bezier(.2,.8,.2,1), box-shadow .22s ease, border-color .22s ease;
+}
+.prov-card::before{
+  content:""; position:absolute; inset:0; border-radius:20px; padding:1px;
+  background: linear-gradient(140deg, var(--holo-violet), var(--frost-cyan), transparent 60%);
+  -webkit-mask: linear-gradient(#000 0 0) content-box, linear-gradient(#000 0 0);
+  -webkit-mask-composite: xor; mask-composite: exclude;
+  opacity:0; transition: opacity .22s ease; pointer-events:none;
+}
+.prov-card:hover{ transform: translateY(-6px); border-color:transparent;
+  box-shadow: 0 20px 44px rgba(0,0,0,.5), 0 0 34px rgba(185,140,255,.22); }
+.prov-card:hover::before{ opacity:1; }
+.prov-card:focus-visible{ outline:2px solid var(--frost-cyan); outline-offset:3px; }
+.prov-card__pin{ font-size:2.8rem; display:block; margin-bottom:.7rem; filter: drop-shadow(0 4px 10px rgba(0,0,0,.5)); }
+.prov-card__name{
+  font-family: var(--font-elegant); font-weight:700; font-size:1.7rem; display:block; margin-bottom:.35rem;
+}
+.prov-card__count{ font-family: var(--font-led); font-size:.82rem; color: var(--frost-cyan); }
+.prov-card--empty{ opacity:.5; cursor:not-allowed; }
+.prov-card--empty:hover{ transform:none; box-shadow:none; border-color: var(--border); }
+.prov-card--empty:hover::before{ opacity:0; }
+.prov-card--empty .prov-card__count{ color: var(--ember-pink); }
+.prov-screen__note{
+  margin-top:2.5rem; font-family: var(--font-elegant); font-weight:500;
+  color: var(--text-faint); font-size:.85rem;
+}
+
+/* ===== Catálogo (paso 2) toggle ===== */
+.catalog-screen[hidden]{ display:none; }
+
+/* Etiqueta de provincia dentro del hero */
+.prov-tag{
+  display:inline-flex; align-items:center; gap:.5rem; margin:0 auto 1.25rem;
+  background: var(--surface); border:1px solid var(--border); border-radius:999px;
+  padding:.45rem .5rem .45rem .9rem; cursor:pointer; color: var(--text);
+  font-family: var(--font-display); font-weight:600; font-size:.9rem;
+  transition: border-color .2s ease, transform .15s ease;
+}
+.prov-tag:hover{ border-color: var(--frost-cyan); }
+.prov-tag:active{ transform: scale(.97); }
+.prov-tag__pin{ font-size:1rem; }
+.prov-tag__change{
+  font-size:.75rem; color:#0a0a10; font-weight:700;
+  background: linear-gradient(135deg, var(--holo-violet), var(--frost-cyan));
+  padding:.25rem .6rem; border-radius:999px;
+}
+
+/* ===== Cartel de confirmación ===== */
+.confirm-overlay{
+  position:fixed; inset:0; background: rgba(6,6,10,.78); backdrop-filter: blur(5px); z-index:95;
+}
+.confirm-modal{
+  position:fixed; top:50%; left:50%; transform:translate(-50%,-50%); z-index:96;
+  width:min(420px, 92vw); background: var(--surface); border:1px solid var(--border);
+  border-radius:18px; padding: 2rem 1.75rem; text-align:center;
+  animation: provFadeUp .25s ease both;
+}
+.confirm-modal__icon{ font-size:2.4rem; display:block; margin-bottom:.75rem; }
+.confirm-modal h3{ font-family: var(--font-elegant); font-weight:700; font-size:1.35rem; margin:0 0 .6rem; }
+.confirm-modal p{ color: var(--text-dim); font-size:.95rem; line-height:1.55; margin:0 0 1.75rem; }
+.confirm-modal__actions{ display:flex; gap:.75rem; justify-content:center; flex-wrap:wrap; }
+.confirm-modal__actions .btn{ flex:1; min-width:130px; }
+
+@media (max-width:520px){
+  .prov-screen__grid{ gap:.9rem; }
+  .prov-card{ padding:2rem 1rem; }
+  .prov-card__name{ font-size:1.35rem; }
+  .prov-card__pin{ font-size:2.3rem; }
+}
 
 /* ===== Hero ===== */
 .hero{
