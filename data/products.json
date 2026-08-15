@@ -267,7 +267,7 @@
   {
     "id": "elfbar-duke-35k-strawberry-kiwi-ice-cqsf",
     "brand": "ELFBAR DUKE 35K",
-    "flavor": "STRAWBERRY KIWI ICE",
+    "flavor": "STRAWBERRY KIWI ICE (SIN STOCK)",
     "price": 23000,
     "puffs": "35.000",
     "tag": "elfbar-duke",
@@ -279,7 +279,7 @@
   {
     "id": "elfbar-duke-35k-peach-mango-watermelon-yfxx",
     "brand": "ELFBAR DUKE 35K",
-    "flavor": "PEACH MANGO WATERMELON",
+    "flavor": "PEACH MANGO WATERMELON (SIN STOCK)",
     "price": 23000,
     "puffs": "35.000",
     "tag": "elfbar-duke",
@@ -291,7 +291,7 @@
   {
     "id": "elfbar-duke-35k-mango-magico-dlx9",
     "brand": "ELFBAR DUKE 35K",
-    "flavor": "MANGO MAGICO",
+    "flavor": "MANGO MAGICO (SIN STOCK)",
     "price": 23000,
     "puffs": "35.000",
     "tag": "elfbar-duke",
@@ -315,7 +315,7 @@
   {
     "id": "elfbar-duke-35k-watermelon-ice-tg6q",
     "brand": "ELFBAR DUKE 35K",
-    "flavor": "WATERMELON ICE",
+    "flavor": "WATERMELON ICE (SIN STOCK)",
     "price": 23000,
     "puffs": "35.000",
     "tag": "elfbar-duke",
@@ -340,7 +340,7 @@
     "id": "blvk-just-juice-45k-watermelon-ice-x9rb",
     "brand": "BLVK JUST JUICE 45K",
     "flavor": "WATERMELON ICE",
-    "price": 26000,
+    "price": 28000,
     "puffs": "45.000",
     "tag": "blvk-45k",
     "img": "blvk-just-juice-45k_watermelon-ice.webp",
@@ -352,7 +352,7 @@
     "id": "blvk-just-juice-45k-strawberry-watermelon-6u7g",
     "brand": "BLVK JUST JUICE 45K",
     "flavor": "STRAWBERRY WATERMELON",
-    "price": 26000,
+    "price": 28000,
     "puffs": "45.000",
     "tag": "blvk-45k",
     "img": "blvk-just-juice-45k_strawberry-watermelon.jpg",
@@ -364,7 +364,7 @@
     "id": "blvk-just-juice-45k-strawberry-mango-tbi1",
     "brand": "BLVK JUST JUICE 45K",
     "flavor": "STRAWBERRY MANGO",
-    "price": 26000,
+    "price": 28000,
     "puffs": "45.000",
     "tag": "blvk-45k",
     "img": "blvk-just-juice-45k_strawberry-mango.webp",
@@ -483,7 +483,7 @@
   {
     "id": "elfbar-sweet-king-40k-bubbaloo-tutti-frutti-ju5x",
     "brand": "ELFBAR SWEET KING 40K",
-    "flavor": "BUBBALOO TUTTI FRUTTI",
+    "flavor": "BUBBALOO TUTTI FRUTTI (SIN STOCK)",
     "price": 24000,
     "puffs": "40000",
     "tag": "elfbar-sweet-king",
@@ -615,7 +615,7 @@
   {
     "id": "elfbar-te-30k-strawberry-watermelon-pobb",
     "brand": "ELFBAR TE 30K",
-    "flavor": "STRAWBERRY WATERMELON",
+    "flavor": "STRAWBERRY WATERMELON (SIN STOCK)",
     "price": 22500,
     "puffs": "30000",
     "tag": "elfbar-te30k",
@@ -663,7 +663,7 @@
   {
     "id": "elfbar-te-30k-bubbalo-tutti-frutti-krdu",
     "brand": "ELFBAR TE 30K",
-    "flavor": "BUBBALO TUTTI FRUTTI",
+    "flavor": "BUBBALO TUTTI FRUTTI (SIN STOCK)",
     "price": 22500,
     "puffs": "30000",
     "tag": "elfbar-te30k",
@@ -891,7 +891,7 @@
   {
     "id": "elf-bar-sweet-king-40k-watermelon-roll-up-xrq9",
     "brand": "ELFBAR SWEET KING 40K",
-    "flavor": "WATERMELON ROLL UP",
+    "flavor": "WATERMELON ROLL UP (SIN STOCK)",
     "price": 24000,
     "puffs": "40000",
     "tag": "elfbar-sweet-king",
@@ -903,7 +903,7 @@
   {
     "id": "elf-bar-sweet-king-40k-wintergreen-savers-z0n0",
     "brand": "ELFBAR SWEET KING 40K",
-    "flavor": "WINTERGREEN SAVERS (SIN STOCK)",
+    "flavor": "WINTERGREEN SAVERS",
     "price": 24000,
     "puffs": "40000",
     "tag": "elfbar-sweet-king",
@@ -1292,6 +1292,18 @@
     "puffs": "1000",
     "tag": "ignite",
     "img": "ignite-v-nano-1000puff_banana-ice.jfif",
+    "provinces": [
+      "catamarca"
+    ]
+  },
+  {
+    "id": "elfbar-duke-35k-grape-ice-klkd",
+    "brand": "ELFBAR DUKE 35K",
+    "flavor": "GRAPE ICE",
+    "price": 23000,
+    "puffs": "35000",
+    "tag": "elfbar-duke",
+    "img": "elfbar-duke-35k_grape-ice.jfif",
     "provinces": [
       "catamarca"
     ]
