@@ -1307,5 +1307,17 @@
     "provinces": [
       "catamarca"
     ]
+  },
+  {
+    "id": "elfbar-ice-king-40k-mango-magico-vsjd",
+    "brand": "ELFBAR ICE KING 40K",
+    "flavor": "MANGO MAGICO",
+    "price": 25000,
+    "puffs": "40000",
+    "tag": "elfbar-iceking",
+    "img": "elfbar-ice-king-40k_mango-magico.jfif",
+    "provinces": [
+      "cordoba"
+    ]
   }
 ]
