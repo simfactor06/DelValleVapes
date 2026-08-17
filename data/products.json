@@ -138,7 +138,7 @@
   {
     "id": "rabbeats-strawberry-kiwi-ice",
     "brand": "RabBeats RC50000",
-    "flavor": "KIWI PASSION FRUIT GUAVA",
+    "flavor": "MIAMI MINT",
     "price": 23500,
     "puffs": "50000",
     "img": "rabbeats-rc50000_kiwi-passion-fruit-guava.jfif",
@@ -1540,6 +1540,18 @@
     "provinces": [
       "catamarca",
       "cordoba"
+    ]
+  },
+  {
+    "id": "rabbeats-rc50000-strawberry-ice-sokt",
+    "brand": "RabBeats RC50000",
+    "flavor": "STRAWBERRY ICE",
+    "price": 23500,
+    "puffs": "50000",
+    "tag": "rabbeats",
+    "img": "rabbeats-rc50000_strawberry-ice.jfif",
+    "provinces": [
+      "catamarca"
     ]
   }
 ]
