@@ -1,7 +1,7 @@
 [
   {
     "id": "mix-passionfruit-pineapple",
-    "brand": "Ignite Mix",
+    "brand": "IGNITE V400 V-MIX",
     "flavor": "Passion Fruit Sour Kiwi / Pineapple Ice",
     "price": 28000,
     "img": "ignite_mix_passionfruit_kiwi_pineapple.png",
@@ -12,7 +12,7 @@
   },
   {
     "id": "mix-strawberrymango-banana",
-    "brand": "Ignite Mix",
+    "brand": "IGNITE V400 V-MIX",
     "flavor": "Strawberry Mango Ice / Banana Ice (SIN STOCK)",
     "price": 28000,
     "img": "ignite_mix_strawberry_mango_banana.png",
@@ -23,7 +23,7 @@
   },
   {
     "id": "mix-banana-strawberry",
-    "brand": "Ignite Mix",
+    "brand": "IGNITE V400 V-MIX",
     "flavor": "Banana / Strawberry Ice (SIN STOCK)",
     "price": 28000,
     "img": "ignite_mix_banana_strawberry.png",
@@ -34,7 +34,7 @@
   },
   {
     "id": "mix-grape-strawberry",
-    "brand": "Ignite Mix",
+    "brand": "IGNITE V400 V-MIX",
     "flavor": "Grape Ice / Strawberry (SIN STOCK)",
     "price": 28000,
     "img": "ignite_mix_grape_strawberry.png",
@@ -45,7 +45,7 @@
   },
   {
     "id": "mix-icymint-peachgrape",
-    "brand": "Ignite Mix",
+    "brand": "IGNITE V400 V-MIX",
     "flavor": "Icy Mint / Peach Grape",
     "price": 28000,
     "img": "ignite_mix_icymint_peachgrape.png",
@@ -56,7 +56,7 @@
   },
   {
     "id": "mix-grape-watermelon",
-    "brand": "Ignite Mix",
+    "brand": "IGNITE V400 V-MIX",
     "flavor": "Grape Ice / Watermelon Ice (SIN STOCK)",
     "price": 28000,
     "img": "ignite_mix_grape_watermelon.png",
@@ -67,7 +67,7 @@
   },
   {
     "id": "mix-strawberrywatermelon-aloegrape",
-    "brand": "Ignite Mix",
+    "brand": "IGNITE V400 V-MIX",
     "flavor": "Strawberry Watermelon Ice / Aloe Grape (SIN STOCK)",
     "price": 28000,
     "img": "ignite_mix_strawberrywatermelon_aloegrape.png",
@@ -78,7 +78,7 @@
   },
   {
     "id": "mix-blueberry-raspberryblackberry",
-    "brand": "Ignite Mix",
+    "brand": "IGNITE V400 V-MIX",
     "flavor": "Blueberry Ice / Raspberry Blackberry (SIN STOCK)",
     "price": 28000,
     "img": "ignite_mix_blueberry_raspberryblackberry.png",
@@ -261,7 +261,7 @@
     "tag": "elfbar-duke",
     "img": "elfbar-duke-35k_blue-razz-ice-35000.jfif",
     "provinces": [
-      "catamarca"
+      "cordoba"
     ]
   },
   {
@@ -309,7 +309,7 @@
     "tag": "elfbar-duke",
     "img": "elfbar-duke-35k_kiwi-passion-fruit-guavo.jpg",
     "provinces": [
-      "catamarca"
+      "cordoba"
     ]
   },
   {
@@ -333,7 +333,7 @@
     "tag": "elfbar-duke",
     "img": "elfbar-duke-35k_icy-mint.jpg",
     "provinces": [
-      "catamarca"
+      "cordoba"
     ]
   },
   {
@@ -1328,6 +1328,42 @@
     "puffs": "40000",
     "tag": "ignite-v400-ice",
     "img": "ignite-v400-v-mix_watermelon-ice-grape-ice.jfif",
+    "provinces": [
+      "cordoba"
+    ]
+  },
+  {
+    "id": "ignite-v400-v-mix-mango-ice-peach-watermelon-ice-kvgg",
+    "brand": "IGNITE V400 V-MIX",
+    "flavor": "MANGO ICE+PEACH WATERMELON ICE",
+    "price": 28000,
+    "puffs": "40000",
+    "tag": "ignite-v400-ice",
+    "img": "ignite-v400-v-mix_mango-ice-peach-watermelon-ice.jfif",
+    "provinces": [
+      "cordoba"
+    ]
+  },
+  {
+    "id": "ignite-v400-v-mix-cherry-ice-watermelon-ice-ii9u",
+    "brand": "IGNITE V400 V-MIX",
+    "flavor": "CHERRY ICE+WATERMELON ICE",
+    "price": 28000,
+    "puffs": "40000",
+    "tag": "ignite-v400-ice",
+    "img": "ignite-v400-v-mix_cherry-ice-watermelon-ice.jfif",
+    "provinces": [
+      "cordoba"
+    ]
+  },
+  {
+    "id": "elfbar-duke-35k-grape-ice-xc4c",
+    "brand": "ELFBAR DUKE 35K",
+    "flavor": "GRAPE ICE",
+    "price": 23000,
+    "puffs": "35000",
+    "tag": "elfbar-duke",
+    "img": "elfbar-duke-35k_grape-ice.jfif",
     "provinces": [
       "cordoba"
     ]
