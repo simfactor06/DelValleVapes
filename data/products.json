@@ -1460,5 +1460,41 @@
     "provinces": [
       "catamarca"
     ]
+  },
+  {
+    "id": "blvk-just-juice-45k-grape-ice-i5eo",
+    "brand": "BLVK JUST JUICE 45K",
+    "flavor": "GRAPE ICE",
+    "price": 28000,
+    "puffs": "45000",
+    "tag": "blvk-45k",
+    "img": "blvk-just-juice-45k_grape-ice.jfif",
+    "provinces": [
+      "catamarca"
+    ]
+  },
+  {
+    "id": "blvk-just-juice-45k-kiwi-passion-fruit-iun5",
+    "brand": "BLVK JUST JUICE 45K",
+    "flavor": "KIWI PASSION FRUIT",
+    "price": 28000,
+    "puffs": "45000",
+    "tag": "blvk-45k",
+    "img": "blvk-just-juice-45k_kiwi-passion-fruit.jfif",
+    "provinces": [
+      "catamarca"
+    ]
+  },
+  {
+    "id": "blvk-just-juice-45k-blue-mint-8ajq",
+    "brand": "BLVK JUST JUICE 45K",
+    "flavor": "BLUE MINT",
+    "price": 28000,
+    "puffs": "45000",
+    "tag": "blvk-45k",
+    "img": "blvk-just-juice-45k_blue-mint.jfif",
+    "provinces": [
+      "catamarca"
+    ]
   }
 ]
