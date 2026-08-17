@@ -502,7 +502,8 @@
     "tag": "elfbar-iceking",
     "img": "elfbar-ice-king-40k_blue-razz-ice.jfif",
     "provinces": [
-      "catamarca"
+      "catamarca",
+      "cordoba"
     ]
   },
   {
@@ -514,7 +515,8 @@
     "tag": "elfbar-iceking",
     "img": "elfbar-ice-king-40k_watermelon-ice.jfif",
     "provinces": [
-      "catamarca"
+      "catamarca",
+      "cordoba"
     ]
   },
   {
@@ -538,7 +540,8 @@
     "tag": "elfbar-iceking",
     "img": "elfbar-ice-king-40k_mango-magic0.jfif",
     "provinces": [
-      "catamarca"
+      "catamarca",
+      "cordoba"
     ]
   },
   {
@@ -550,13 +553,14 @@
     "tag": "elfbar-iceking",
     "img": "elfbar-ice-king-40k_strawberry-watermelon-ice.jfif",
     "provinces": [
-      "catamarca"
+      "catamarca",
+      "cordoba"
     ]
   },
   {
     "id": "lfbar-ice-king-40k-dragon-strawnana-mysy",
     "brand": "ELFBAR ICE KING 40K",
-    "flavor": "DRAGON STRAWNANA",
+    "flavor": "DRAGON STRAWNANA (SIN STOCK)",
     "price": 25000,
     "puffs": "40000",
     "tag": "elfbar-iceking",
@@ -568,7 +572,7 @@
   {
     "id": "elfbar-ice-king-40k-peach-ybe7",
     "brand": "ELFBAR ICE KING 40K",
-    "flavor": "PEACH",
+    "flavor": "PEACH (SIN STOCK)",
     "price": 25000,
     "puffs": "40000",
     "tag": "elfbar-iceking",
@@ -580,7 +584,7 @@
   {
     "id": "elfbar-ice-king-40k-sour-apple-ice-v2bl",
     "brand": "ELFBAR ICE KING 40K",
-    "flavor": "SOUR APPLE ICE",
+    "flavor": "SOUR APPLE ICE (SIN STOCK)",
     "price": 25000,
     "puffs": "40000",
     "tag": "elfbar-iceking",
@@ -598,13 +602,14 @@
     "tag": "elfbar-iceking",
     "img": "elfbar-ice-king-40k_sour-strawberry-dragon-fruit.jfif",
     "provinces": [
-      "catamarca"
+      "catamarca",
+      "cordoba"
     ]
   },
   {
     "id": "elfbar-ice-king-40k-baja-splash-kpiw",
     "brand": "ELFBAR ICE KING 40K",
-    "flavor": "BAJA SPLASH",
+    "flavor": "BAJA SPLASH (SIN STOCK)",
     "price": 25000,
     "puffs": "40000",
     "tag": "elfbar-iceking",
@@ -1495,6 +1500,45 @@
     "img": "blvk-just-juice-45k_blue-mint.jfif",
     "provinces": [
       "catamarca"
+    ]
+  },
+  {
+    "id": "elfbar-ice-king-40k-green-apple-ice-vvec",
+    "brand": "ELFBAR ICE KING 40K",
+    "flavor": "GREEN APPLE ICE",
+    "price": 25000,
+    "puffs": "40000",
+    "tag": "elfbar-iceking",
+    "img": "elfbar-ice-king-40k_green-apple-ice.jfif",
+    "provinces": [
+      "catamarca",
+      "cordoba"
+    ]
+  },
+  {
+    "id": "elfbar-ice-king-40k-tigers-blood-jg2a",
+    "brand": "ELFBAR ICE KING 40K",
+    "flavor": "TIGERS BLOOD",
+    "price": 25000,
+    "puffs": "40000",
+    "tag": "elfbar-iceking",
+    "img": "elfbar-ice-king-40k_tigers-blood.jfif",
+    "provinces": [
+      "catamarca",
+      "cordoba"
+    ]
+  },
+  {
+    "id": "elfbar-ice-king-40k-grape-ice-blqk",
+    "brand": "ELFBAR ICE KING 40K",
+    "flavor": "GRAPE ICE",
+    "price": 25000,
+    "puffs": "40000",
+    "tag": "elfbar-iceking",
+    "img": "elfbar-ice-king-40k_grape-ice.jfif",
+    "provinces": [
+      "catamarca",
+      "cordoba"
     ]
   }
 ]
