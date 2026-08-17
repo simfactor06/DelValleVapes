@@ -174,7 +174,7 @@
   {
     "id": "iceking-cherry-strazz",
     "brand": "ELFBAR ICE KING 40K",
-    "flavor": "Cherry Strazz",
+    "flavor": "Cherry Strazz (SIN STOCK)",
     "price": 25000,
     "puffs": "40.000",
     "img": "elfbar-ice-king_cherry-strazz.jfif",
@@ -186,13 +186,14 @@
   {
     "id": "iceking-strawberry-ice",
     "brand": "ELFBAR ICE KING 40K",
-    "flavor": "Strawberry Ice",
+    "flavor": "STRAWBERRY ICE",
     "price": 25000,
     "puffs": "40.000",
     "img": "elfbar-ice-king_strawberry-ice.jfif",
     "tag": "elfbar-iceking",
     "provinces": [
-      "catamarca"
+      "catamarca",
+      "cordoba"
     ]
   },
   {
