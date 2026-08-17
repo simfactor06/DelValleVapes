@@ -1448,5 +1448,17 @@
       "catamarca",
       "cordoba"
     ]
+  },
+  {
+    "id": "blvk-just-juice-45k-strawberry-ice-rdo6",
+    "brand": "BLVK JUST JUICE 45K",
+    "flavor": "STRAWBERRY ICE",
+    "price": 28000,
+    "puffs": "45000",
+    "tag": "blvk-45k",
+    "img": "blvk-just-juice-45k_strawberry-ice.jfif",
+    "provinces": [
+      "catamarca"
+    ]
   }
 ]
