@@ -7,7 +7,7 @@
     "img": "ignite_mix_passionfruit_kiwi_pineapple.png",
     "tag": "ignite",
     "provinces": [
-      "catamarca"
+      "cordoba"
     ]
   },
   {
@@ -51,7 +51,7 @@
     "img": "ignite_mix_icymint_peachgrape.png",
     "tag": "ignite",
     "provinces": [
-      "catamarca"
+      "cordoba"
     ]
   },
   {
@@ -168,7 +168,7 @@
     "img": "lost-mary-dura_miami-mint.jfif",
     "tag": "lostmary",
     "provinces": [
-      "catamarca"
+      "cordoba"
     ]
   },
   {
@@ -945,7 +945,7 @@
     "tag": "ignite-v400-ice",
     "img": "ignite-v400-ice_mint.jfif",
     "provinces": [
-      "catamarca"
+      "cordoba"
     ]
   },
   {
@@ -969,7 +969,7 @@
     "tag": "ignite-v400-ice",
     "img": "ignite-v400-ice_grape-peach.jfif",
     "provinces": [
-      "catamarca"
+      "cordoba"
     ]
   },
   {
@@ -1071,7 +1071,7 @@
   {
     "id": "elfbar-bc-15k-green-apple-ice-gj02",
     "brand": "ELFBAR BC 15K",
-    "flavor": "GREEN APPLE ICE",
+    "flavor": "GREEN APPLE ICE (SIN STOCK)",
     "price": 16000,
     "puffs": "15000",
     "tag": "te6000",
@@ -1306,18 +1306,6 @@
     "img": "elfbar-duke-35k_grape-ice.jfif",
     "provinces": [
       "catamarca"
-    ]
-  },
-  {
-    "id": "elfbar-ice-king-40k-mango-magico-vsjd",
-    "brand": "ELFBAR ICE KING 40K",
-    "flavor": "MANGO MAGICO",
-    "price": 25000,
-    "puffs": "40000",
-    "tag": "elfbar-iceking",
-    "img": "elfbar-ice-king-40k_mango-magico.jfif",
-    "provinces": [
-      "cordoba"
     ]
   }
 ]
