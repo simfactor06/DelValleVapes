@@ -375,7 +375,7 @@
   {
     "id": "elfbar-ebcreate-bc-pro-blue-razz-ice-th6o",
     "brand": "ELFBAR BC PRO 40K EBCREATE",
-    "flavor": "BLUE RAZZ ICE",
+    "flavor": "BLUE RAZZ ICE (SIN STOCK)",
     "price": 25000,
     "puffs": "40.000",
     "tag": "ebcreate",
@@ -387,7 +387,7 @@
   {
     "id": "bc-pro-40k-ebcreate-black-mint-ice-zyer",
     "brand": "ELFBAR BC PRO 40K EBCREATE",
-    "flavor": "BLACK MINT ICE",
+    "flavor": "BLACK MINT ICE (SIN STOCK)",
     "price": 25000,
     "puffs": "40000",
     "tag": "ebcreate",
@@ -405,7 +405,8 @@
     "tag": "ebcreate",
     "img": "elfbar-bc-pro-40k-ebcreate_strawberry-raspberry-frost.jpg",
     "provinces": [
-      "catamarca"
+      "catamarca",
+      "cordoba"
     ]
   },
   {
@@ -423,7 +424,7 @@
   {
     "id": "elfbar-bc-pro-40k-ebcreate-blackberry-grape-7eva",
     "brand": "ELFBAR BC PRO 40K EBCREATE",
-    "flavor": "BLACKBERRY GRAPE",
+    "flavor": "BLACKBERRY GRAPE (SIN STOCK)",
     "price": 25000,
     "puffs": "40000",
     "tag": "ebcreate",
@@ -435,7 +436,7 @@
   {
     "id": "elfbar-bc-pro-40k-ebcreate-sour-apple-ice-dbrc",
     "brand": "ELFBAR BC PRO 40K EBCREATE",
-    "flavor": "SOUR APPLE ICE",
+    "flavor": "SOUR APPLE ICE (SIN STOCK)",
     "price": 25000,
     "puffs": "40000",
     "tag": "ebcreate",
@@ -447,7 +448,7 @@
   {
     "id": "elfbar-bc-pro-40k-ebcreate-grape-twist-ddl9",
     "brand": "ELFBAR BC PRO 40K EBCREATE",
-    "flavor": "GRAPE TWIST",
+    "flavor": "GRAPE TWIST (SIN STOCK)",
     "price": 25000,
     "puffs": "40000",
     "tag": "ebcreate",
@@ -465,13 +466,13 @@
     "tag": "ebcreate",
     "img": "elfbar-pro-40k-ebcreate-bc-pro_pineapple-pomelo.jpg",
     "provinces": [
-      "catamarca"
+      "cordoba"
     ]
   },
   {
     "id": "elfbar-bc-pro-40k-ebcreate-tropical-baja-3884",
     "brand": "ELFBAR BC PRO 40K EBCREATE",
-    "flavor": "TROPICAL BAJA",
+    "flavor": "TROPICAL BAJA (SIN STOCK)",
     "price": 25000,
     "puffs": "40000",
     "tag": "ebcreate",
@@ -1378,6 +1379,71 @@
     "puffs": "30000",
     "tag": "elfbar-te30k",
     "img": "elfbar-te-30k_cherry-strazz.jfif",
+    "provinces": [
+      "catamarca",
+      "cordoba"
+    ]
+  },
+  {
+    "id": "elfbar-bc-pro-40k-ebcreate-watermelon-ice-qrsf",
+    "brand": "ELFBAR BC PRO 40K EBCREATE",
+    "flavor": "WATERMELON ICE",
+    "price": 25000,
+    "puffs": "40000",
+    "tag": "ebcreate",
+    "img": "elfbar-bc-pro-40k-ebcreate_watermelon-ice.jfif",
+    "provinces": [
+      "catamarca",
+      "cordoba"
+    ]
+  },
+  {
+    "id": "elfbar-bc-pro-40k-ebcreate-strawberry-kiwi-dl8w",
+    "brand": "ELFBAR BC PRO 40K EBCREATE",
+    "flavor": "STRAWBERRY KIWI",
+    "price": 25000,
+    "puffs": "40000",
+    "tag": "ebcreate",
+    "img": "elfbar-bc-pro-40k-ebcreate_strawberry-kiwi.jfif",
+    "provinces": [
+      "catamarca",
+      "cordoba"
+    ]
+  },
+  {
+    "id": "elfbar-bc-pro-40k-ebcreate-winter-mint-299f",
+    "brand": "ELFBAR BC PRO 40K EBCREATE",
+    "flavor": "WINTER MINT",
+    "price": 25000,
+    "puffs": "40000",
+    "tag": "ebcreate",
+    "img": "elfbar-bc-pro-40k-ebcreate_winter-mint.jfif",
+    "provinces": [
+      "catamarca",
+      "cordoba"
+    ]
+  },
+  {
+    "id": "elfbar-bc-pro-40k-ebcreate-aurora-berries-knxo",
+    "brand": "ELFBAR BC PRO 40K EBCREATE",
+    "flavor": "AURORA BERRIES",
+    "price": 25000,
+    "puffs": "40000",
+    "tag": "ebcreate",
+    "img": "elfbar-bc-pro-40k-ebcreate_aurora-berries.jfif",
+    "provinces": [
+      "catamarca",
+      "cordoba"
+    ]
+  },
+  {
+    "id": "elfbar-bc-pro-40k-ebcreate-pink-lemonade-o846",
+    "brand": "ELFBAR BC PRO 40K EBCREATE",
+    "flavor": "PINK LEMONADE",
+    "price": 25000,
+    "puffs": "40000",
+    "tag": "ebcreate",
+    "img": "elfbar-bc-pro-40k-ebcreate_pink-lemonade.jfif",
     "provinces": [
       "catamarca",
       "cordoba"
