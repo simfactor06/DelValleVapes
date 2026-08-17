@@ -1307,5 +1307,29 @@
     "provinces": [
       "catamarca"
     ]
+  },
+  {
+    "id": "ignite-v155-orange-slim-green-apple-ppco",
+    "brand": "IGNITE V155 ORANGE SLIM",
+    "flavor": "GREEN APPLE",
+    "price": 21500,
+    "puffs": "15000",
+    "tag": "ignite",
+    "img": "ignite-v155-orange-slim_green-apple.jfif",
+    "provinces": [
+      "cordoba"
+    ]
+  },
+  {
+    "id": "ignite-v400-v-mix-watermelon-ice-grape-ice-d51y",
+    "brand": "IGNITE V400 V-MIX",
+    "flavor": "WATERMELON ICE+GRAPE ICE",
+    "price": 28000,
+    "puffs": "40000",
+    "tag": "ignite-v400-ice",
+    "img": "ignite-v400-v-mix_watermelon-ice-grape-ice.jfif",
+    "provinces": [
+      "cordoba"
+    ]
   }
 ]
