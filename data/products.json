@@ -1551,5 +1551,30 @@
     "provinces": [
       "catamarca"
     ]
+  },
+  {
+    "id": "elfbar-te-30k-bubbaloo-grape-l5ct",
+    "brand": "ELFBAR TE 30K",
+    "flavor": "BUBBALOO GRAPE",
+    "price": 22500,
+    "puffs": "30000",
+    "tag": "elfbar-te30k",
+    "img": "elfbar-te-30k_bubbaloo-grape.webp",
+    "provinces": [
+      "catamarca"
+    ]
+  },
+  {
+    "id": "elfbar-ice-king-40k-miami-mint-nbar",
+    "brand": "ELFBAR ICE KING 40K",
+    "flavor": "Miami Mint",
+    "price": 25000,
+    "puffs": "40000",
+    "tag": "elfbar-iceking",
+    "img": "elfbar-ice-king-40k_miami-mint.webp",
+    "provinces": [
+      "catamarca",
+      "cordoba"
+    ]
   }
 ]
