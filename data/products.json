@@ -7,7 +7,7 @@
     "img": "ignite_mix_passionfruit_kiwi_pineapple.png",
     "tag": "ignite-v400-ice",
     "provinces": [
-      "cordoba"
+      "catamarca"
     ]
   },
   {
@@ -57,12 +57,12 @@
   {
     "id": "mix-grape-watermelon",
     "brand": "IGNITE V400 V-MIX",
-    "flavor": "Grape Ice / Watermelon Ice (SIN STOCK)",
+    "flavor": "Grape Ice / Watermelon Ice",
     "price": 28000,
     "img": "ignite_mix_grape_watermelon.png",
     "tag": "ignite-v400-ice",
     "provinces": [
-      "catamarca"
+      "cordoba"
     ]
   },
   {
@@ -192,8 +192,7 @@
     "img": "elfbar-ice-king_strawberry-ice.jfif",
     "tag": "elfbar-iceking",
     "provinces": [
-      "catamarca",
-      "cordoba"
+      "catamarca"
     ]
   },
   {
@@ -255,7 +254,7 @@
   },
   {
     "id": "elfbar-duke-35k-blue-razz-ice-35000-ut0f",
-    "brand": "ELFBAR DUKE 35K",
+    "brand": "ELFBAR DUKE 35K ( SIN STOCK )",
     "flavor": "Blue Razz Ice 35000",
     "price": 23000,
     "puffs": "35.000",
@@ -303,7 +302,7 @@
   },
   {
     "id": "elfbar-duke-35k-kiwi-passion-fruit-guavo-v6q1",
-    "brand": "ELFBAR DUKE 35K",
+    "brand": "ELFBAR DUKE 35K ( SIN STOCK )",
     "flavor": "KIWI PASSION FRUIT GUAVO",
     "price": 23000,
     "puffs": "35.000",
@@ -328,7 +327,7 @@
   {
     "id": "elfbar-duke-35k-icy-mint-cafj",
     "brand": "ELFBAR DUKE 35K",
-    "flavor": "ICY MINT",
+    "flavor": "ICY MINT ( SIN STOCK )",
     "price": 23000,
     "puffs": "35.000",
     "tag": "elfbar-duke",
@@ -406,8 +405,7 @@
     "tag": "ebcreate",
     "img": "elfbar-bc-pro-40k-ebcreate_strawberry-raspberry-frost.jpg",
     "provinces": [
-      "catamarca",
-      "cordoba"
+      "catamarca"
     ]
   },
   {
@@ -419,7 +417,8 @@
     "tag": "ebcreate",
     "img": "elfbar-bc-pro-40k-ebcreate_tripple-berry.jpg",
     "provinces": [
-      "catamarca"
+      "catamarca",
+      "cordoba"
     ]
   },
   {
@@ -541,20 +540,18 @@
     "tag": "elfbar-iceking",
     "img": "elfbar-ice-king-40k_mango-magic0.jfif",
     "provinces": [
-      "catamarca",
-      "cordoba"
+      "catamarca"
     ]
   },
   {
     "id": "elfbar-ice-king-40k-strawberry-watermelon-ice-1s8q",
     "brand": "ELFBAR ICE KING 40K",
-    "flavor": "STRAWBERRY WATERMELON ICE  (SIN STOCK)",
+    "flavor": "STRAWBERRY WATERMELON ICE",
     "price": 25000,
     "puffs": "40000",
     "tag": "elfbar-iceking",
     "img": "elfbar-ice-king-40k_strawberry-watermelon-ice.jfif",
     "provinces": [
-      "catamarca",
       "cordoba"
     ]
   },
@@ -585,13 +582,13 @@
   {
     "id": "elfbar-ice-king-40k-sour-apple-ice-v2bl",
     "brand": "ELFBAR ICE KING 40K",
-    "flavor": "SOUR APPLE ICE (SIN STOCK)",
+    "flavor": "SOUR APPLE ICE",
     "price": 25000,
     "puffs": "40000",
     "tag": "elfbar-iceking",
     "img": "elfbar-ice-king-40k_sour-apple-ice.jfif",
     "provinces": [
-      "catamarca"
+      "cordoba"
     ]
   },
   {
@@ -603,8 +600,7 @@
     "tag": "elfbar-iceking",
     "img": "elfbar-ice-king-40k_sour-strawberry-dragon-fruit.jfif",
     "provinces": [
-      "catamarca",
-      "cordoba"
+      "catamarca"
     ]
   },
   {
@@ -1332,7 +1328,7 @@
   {
     "id": "ignite-v400-v-mix-watermelon-ice-grape-ice-d51y",
     "brand": "IGNITE V400 V-MIX",
-    "flavor": "WATERMELON ICE+GRAPE ICE",
+    "flavor": "WATERMELON ICE+GRAPE ICE ( SIN STOCK )",
     "price": 28000,
     "puffs": "40000",
     "tag": "ignite-v400-ice",
@@ -1344,7 +1340,7 @@
   {
     "id": "ignite-v400-v-mix-mango-ice-peach-watermelon-ice-kvgg",
     "brand": "IGNITE V400 V-MIX",
-    "flavor": "MANGO ICE+PEACH WATERMELON ICE",
+    "flavor": "MANGO ICE+PEACH WATERMELON ICE ( SIN STOCK )",
     "price": 28000,
     "puffs": "40000",
     "tag": "ignite-v400-ice",
@@ -1367,7 +1363,7 @@
   },
   {
     "id": "elfbar-duke-35k-grape-ice-xc4c",
-    "brand": "ELFBAR DUKE 35K",
+    "brand": "ELFBAR DUKE 35K ( SIN STOCK )",
     "flavor": "GRAPE ICE",
     "price": 23000,
     "puffs": "35000",
@@ -1380,7 +1376,7 @@
   {
     "id": "elfbar-te-30k-cherry-strazz-wjmn",
     "brand": "ELFBAR TE 30K",
-    "flavor": "CHERRY STRAZZ",
+    "flavor": "CHERRY STRAZZ ( SIN STOCK )",
     "price": 22500,
     "puffs": "30000",
     "tag": "elfbar-te30k",
@@ -1437,8 +1433,7 @@
     "tag": "ebcreate",
     "img": "elfbar-bc-pro-40k-ebcreate_aurora-berries.jfif",
     "provinces": [
-      "catamarca",
-      "cordoba"
+      "catamarca"
     ]
   },
   {
@@ -1536,8 +1531,7 @@
     "tag": "elfbar-iceking",
     "img": "elfbar-ice-king-40k_grape-ice.jfif",
     "provinces": [
-      "catamarca",
-      "cordoba"
+      "catamarca"
     ]
   },
   {
