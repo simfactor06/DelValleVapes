@@ -186,7 +186,7 @@
   {
     "id": "iceking-strawberry-ice",
     "brand": "ELFBAR ICE KING 40K",
-    "flavor": "STRAWBERRY ICE",
+    "flavor": "STRAWBERRY ICE (SIN STOCK)",
     "price": 25000,
     "puffs": "40.000",
     "img": "elfbar-ice-king_strawberry-ice.jfif",
@@ -630,7 +630,7 @@
   {
     "id": "elfbar-te-30k-watermelon-yo5v",
     "brand": "ELFBAR TE 30K",
-    "flavor": "WATERMELON",
+    "flavor": "WATERMELON (SIN STOCK)",
     "price": 22500,
     "puffs": "30000",
     "tag": "elfbar-te30k",
@@ -1525,7 +1525,7 @@
   {
     "id": "elfbar-ice-king-40k-grape-ice-blqk",
     "brand": "ELFBAR ICE KING 40K",
-    "flavor": "GRAPE ICE",
+    "flavor": "GRAPE ICE (SIN STOCK)",
     "price": 25000,
     "puffs": "40000",
     "tag": "elfbar-iceking",
