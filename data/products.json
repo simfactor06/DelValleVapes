@@ -546,7 +546,7 @@
   {
     "id": "elfbar-ice-king-40k-strawberry-watermelon-ice-1s8q",
     "brand": "ELFBAR ICE KING 40K",
-    "flavor": "STRAWBERRY WATERMELON ICE",
+    "flavor": "STRAWBERRY WATERMELON ICE (SIN STOCK)",
     "price": 25000,
     "puffs": "40000",
     "tag": "elfbar-iceking",
@@ -630,13 +630,12 @@
   {
     "id": "elfbar-te-30k-watermelon-yo5v",
     "brand": "ELFBAR TE 30K",
-    "flavor": "WATERMELON (SIN STOCK)",
+    "flavor": "WATERMELON",
     "price": 22500,
     "puffs": "30000",
     "tag": "elfbar-te30k",
     "img": "elfbar-te-30k_watermelon.jfif",
     "provinces": [
-      "catamarca",
       "cordoba"
     ]
   },
@@ -968,7 +967,7 @@
   {
     "id": "ignite-v400-ice-grape-peach-8mow",
     "brand": "IGNITE V400 ICE",
-    "flavor": "GRAPE PEACH",
+    "flavor": "GRAPE PEACH (SIN STOCK)",
     "price": 25000,
     "puffs": "40000",
     "tag": "ignite-v400-ice",
@@ -1316,7 +1315,7 @@
   {
     "id": "ignite-v155-orange-slim-green-apple-ppco",
     "brand": "IGNITE V155 ORANGE SLIM",
-    "flavor": "GREEN APPLE",
+    "flavor": "GREEN APPLE (SIN STOCK)",
     "price": 21500,
     "puffs": "15000",
     "tag": "ignite",
@@ -1513,7 +1512,7 @@
   {
     "id": "elfbar-ice-king-40k-tigers-blood-jg2a",
     "brand": "ELFBAR ICE KING 40K",
-    "flavor": "TIGERS BLOOD",
+    "flavor": "TIGERS BLOOD (SIN STOCK)",
     "price": 25000,
     "puffs": "40000",
     "tag": "elfbar-iceking",
