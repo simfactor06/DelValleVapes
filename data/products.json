@@ -96,7 +96,8 @@
     "img": "rabbeats-rc50000_watermelon-ice.jfif",
     "tag": "rabbeats",
     "provinces": [
-      "catamarca"
+      "catamarca",
+      "cordoba"
     ]
   },
   {
@@ -108,19 +109,21 @@
     "img": "rabbeats-rc50000_strawberry-kiwi-ice.jfif",
     "tag": "rabbeats",
     "provinces": [
-      "catamarca"
+      "catamarca",
+      "cordoba"
     ]
   },
   {
     "id": "rabbeats-green-apple-ice",
     "brand": "RabBeats RC50000",
-    "flavor": "Green Apple Ice",
+    "flavor": "SAKURA GRAPE",
     "price": 23500,
     "puffs": "50000",
     "img": "rabbeats-rc50000_green-apple-ice.jfif",
     "tag": "rabbeats",
     "provinces": [
-      "catamarca"
+      "catamarca",
+      "cordoba"
     ]
   },
   {
@@ -132,7 +135,8 @@
     "img": "rabbeats-rc50000_triple-berry.jfif",
     "tag": "rabbeats",
     "provinces": [
-      "catamarca"
+      "catamarca",
+      "cordoba"
     ]
   },
   {
@@ -144,7 +148,8 @@
     "img": "rabbeats-rc50000_kiwi-passion-fruit-guava.jfif",
     "tag": "rabbeats",
     "provinces": [
-      "catamarca"
+      "catamarca",
+      "cordoba"
     ]
   },
   {
@@ -180,7 +185,8 @@
     "img": "elfbar-ice-king_cherry-strazz.jfif",
     "tag": "elfbar-iceking",
     "provinces": [
-      "catamarca"
+      "catamarca",
+      "cordoba"
     ]
   },
   {
@@ -502,7 +508,8 @@
     "tag": "elfbar-iceking",
     "img": "elfbar-ice-king-40k_blue-razz-ice.jfif",
     "provinces": [
-      "catamarca"
+      "catamarca",
+      "cordoba"
     ]
   },
   {
@@ -514,7 +521,8 @@
     "tag": "elfbar-iceking",
     "img": "elfbar-ice-king-40k_watermelon-ice.jfif",
     "provinces": [
-      "catamarca"
+      "catamarca",
+      "cordoba"
     ]
   },
   {
@@ -550,6 +558,7 @@
     "tag": "elfbar-iceking",
     "img": "elfbar-ice-king-40k_strawberry-watermelon-ice.jfif",
     "provinces": [
+      "catamarca",
       "cordoba"
     ]
   },
@@ -622,7 +631,8 @@
     "tag": "elfbar-te30k",
     "img": "elfbar-te-30k_strawberry-watermelon.jfif",
     "provinces": [
-      "catamarca"
+      "catamarca",
+      "cordoba"
     ]
   },
   {
@@ -659,7 +669,8 @@
     "tag": "elfbar-te30k",
     "img": "elfbar-te-30k_peach-mango-watermelon.jfif",
     "provinces": [
-      "catamarca"
+      "catamarca",
+      "cordoba"
     ]
   },
   {
@@ -671,7 +682,8 @@
     "tag": "elfbar-te30k",
     "img": "elfbar-te-30k_bubbalo-tutti-frutti.jfif",
     "provinces": [
-      "catamarca"
+      "catamarca",
+      "cordoba"
     ]
   },
   {
@@ -1379,6 +1391,7 @@
     "tag": "elfbar-te30k",
     "img": "elfbar-te-30k_cherry-strazz.jfif",
     "provinces": [
+      "catamarca",
       "cordoba"
     ]
   },
@@ -1540,7 +1553,8 @@
     "tag": "rabbeats",
     "img": "rabbeats-rc50000_strawberry-ice.jfif",
     "provinces": [
-      "catamarca"
+      "catamarca",
+      "cordoba"
     ]
   },
   {
@@ -1563,6 +1577,71 @@
     "puffs": "40000",
     "tag": "elfbar-iceking",
     "img": "elfbar-ice-king-40k_miami-mint.webp",
+    "provinces": [
+      "catamarca",
+      "cordoba"
+    ]
+  },
+  {
+    "id": "rabbeats-rc50000-blueberry-lemon-a4y6",
+    "brand": "RabBeats RC50000",
+    "flavor": "BLUEBERRY LEMON",
+    "price": 23000,
+    "puffs": "50000",
+    "tag": "rabbeats",
+    "img": "rabbeats-rc50000_blueberry-lemon.jfif",
+    "provinces": [
+      "catamarca",
+      "cordoba"
+    ]
+  },
+  {
+    "id": "elfbar-ice-king-summer-edition-40k-triple-berry-qm8n",
+    "brand": "ELFBAR ICE KING SUMMER EDITION 40K",
+    "flavor": "TRIPLE BERRY",
+    "price": 25000,
+    "puffs": "40000",
+    "tag": "elfbar-iceking",
+    "img": "elfbar-ice-king-summer-edition-40k_triple-berry.jfif",
+    "provinces": [
+      "catamarca",
+      "cordoba"
+    ]
+  },
+  {
+    "id": "elfbar-ice-king-summer-edition-40k-strawberry-spark-l908",
+    "brand": "ELFBAR ICE KING SUMMER EDITION 40K",
+    "flavor": "STRAWBERRY SPARK",
+    "price": 25000,
+    "puffs": "40000",
+    "tag": "elfbar-iceking",
+    "img": "elfbar-ice-king-summer-edition-40k_strawberry-spark.jfif",
+    "provinces": [
+      "catamarca",
+      "cordoba"
+    ]
+  },
+  {
+    "id": "elfbar-ice-king-40k-cherry-strazz-ixtd",
+    "brand": "ELFBAR ICE KING 40K",
+    "flavor": "STRAWBERRY WATERMELON",
+    "price": 25000,
+    "puffs": "40000",
+    "tag": "elfbar-iceking",
+    "img": "elfbar-ice-king-40k_strawberry-watermelon.jfif",
+    "provinces": [
+      "catamarca",
+      "cordoba"
+    ]
+  },
+  {
+    "id": "elfbar-ice-king-40k-blueberry-3ak2",
+    "brand": "ELFBAR ICE KING 40K",
+    "flavor": "BLUEBERRY",
+    "price": 25000,
+    "puffs": "40000",
+    "tag": "elfbar-iceking",
+    "img": "elfbar-ice-king-40k_blueberry.jfif",
     "provinces": [
       "catamarca",
       "cordoba"
