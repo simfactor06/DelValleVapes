@@ -260,8 +260,8 @@
   },
   {
     "id": "elfbar-duke-35k-blue-razz-ice-35000-ut0f",
-    "brand": "ELFBAR DUKE 35K ( SIN STOCK )",
-    "flavor": "Blue Razz Ice 35000",
+    "brand": "ELFBAR DUKE 35K",
+    "flavor": "Blue Razz Ice (SIN STOCK)",
     "price": 23000,
     "puffs": "35.000",
     "tag": "elfbar-duke",
@@ -308,7 +308,7 @@
   },
   {
     "id": "elfbar-duke-35k-kiwi-passion-fruit-guavo-v6q1",
-    "brand": "ELFBAR DUKE 35K ( SIN STOCK )",
+    "brand": "ELFBAR DUKE 35K",
     "flavor": "KIWI PASSION FRUIT GUAVO",
     "price": 23000,
     "puffs": "35.000",
@@ -333,11 +333,11 @@
   {
     "id": "elfbar-duke-35k-icy-mint-cafj",
     "brand": "ELFBAR DUKE 35K",
-    "flavor": "ICY MINT ( SIN STOCK )",
+    "flavor": "COCONAUT STRAWBERRY",
     "price": 23000,
     "puffs": "35.000",
     "tag": "elfbar-duke",
-    "img": "elfbar-duke-35k_icy-mint.jpg",
+    "img": "elfbar-duke-35k_coconaut-strawberry.jfif",
     "provinces": [
       "cordoba"
     ]
@@ -1372,8 +1372,8 @@
   },
   {
     "id": "elfbar-duke-35k-grape-ice-xc4c",
-    "brand": "ELFBAR DUKE 35K ( SIN STOCK )",
-    "flavor": "GRAPE ICE",
+    "brand": "ELFBAR DUKE 35K",
+    "flavor": "GRAPE ICE (SIN STOCK)",
     "price": 23000,
     "puffs": "35000",
     "tag": "elfbar-duke",
