@@ -96,8 +96,7 @@
     "img": "rabbeats-rc50000_watermelon-ice.jfif",
     "tag": "rabbeats",
     "provinces": [
-      "catamarca",
-      "cordoba"
+      "catamarca"
     ]
   },
   {
@@ -109,8 +108,7 @@
     "img": "rabbeats-rc50000_strawberry-kiwi-ice.jfif",
     "tag": "rabbeats",
     "provinces": [
-      "catamarca",
-      "cordoba"
+      "catamarca"
     ]
   },
   {
@@ -122,8 +120,7 @@
     "img": "rabbeats-rc50000_green-apple-ice.jfif",
     "tag": "rabbeats",
     "provinces": [
-      "catamarca",
-      "cordoba"
+      "catamarca"
     ]
   },
   {
@@ -135,8 +132,7 @@
     "img": "rabbeats-rc50000_triple-berry.jfif",
     "tag": "rabbeats",
     "provinces": [
-      "catamarca",
-      "cordoba"
+      "catamarca"
     ]
   },
   {
@@ -148,8 +144,7 @@
     "img": "rabbeats-rc50000_kiwi-passion-fruit-guava.jfif",
     "tag": "rabbeats",
     "provinces": [
-      "catamarca",
-      "cordoba"
+      "catamarca"
     ]
   },
   {
@@ -185,8 +180,7 @@
     "img": "elfbar-ice-king_cherry-strazz.jfif",
     "tag": "elfbar-iceking",
     "provinces": [
-      "catamarca",
-      "cordoba"
+      "catamarca"
     ]
   },
   {
@@ -423,8 +417,7 @@
     "tag": "ebcreate",
     "img": "elfbar-bc-pro-40k-ebcreate_tripple-berry.jpg",
     "provinces": [
-      "catamarca",
-      "cordoba"
+      "catamarca"
     ]
   },
   {
@@ -466,7 +459,7 @@
   {
     "id": "elfbar-pro-40k-ebcreate-bc-pro-pineapple-pomelo-uqov",
     "brand": "ELFBAR BC PRO 40K EBCREATE",
-    "flavor": "PINEAPPLE POMELO",
+    "flavor": "PINEAPPLE POMELO (SIN STOCK)",
     "price": 25000,
     "puffs": "40000",
     "tag": "ebcreate",
@@ -508,8 +501,7 @@
     "tag": "elfbar-iceking",
     "img": "elfbar-ice-king-40k_blue-razz-ice.jfif",
     "provinces": [
-      "catamarca",
-      "cordoba"
+      "catamarca"
     ]
   },
   {
@@ -521,8 +513,7 @@
     "tag": "elfbar-iceking",
     "img": "elfbar-ice-king-40k_watermelon-ice.jfif",
     "provinces": [
-      "catamarca",
-      "cordoba"
+      "catamarca"
     ]
   },
   {
@@ -558,8 +549,7 @@
     "tag": "elfbar-iceking",
     "img": "elfbar-ice-king-40k_strawberry-watermelon-ice.jfif",
     "provinces": [
-      "catamarca",
-      "cordoba"
+      "catamarca"
     ]
   },
   {
@@ -631,8 +621,7 @@
     "tag": "elfbar-te30k",
     "img": "elfbar-te-30k_strawberry-watermelon.jfif",
     "provinces": [
-      "catamarca",
-      "cordoba"
+      "catamarca"
     ]
   },
   {
@@ -656,8 +645,7 @@
     "tag": "elfbar-te30k",
     "img": "elfbar-te-30k_blueberry.jfif",
     "provinces": [
-      "catamarca",
-      "cordoba"
+      "catamarca"
     ]
   },
   {
@@ -669,8 +657,7 @@
     "tag": "elfbar-te30k",
     "img": "elfbar-te-30k_peach-mango-watermelon.jfif",
     "provinces": [
-      "catamarca",
-      "cordoba"
+      "catamarca"
     ]
   },
   {
@@ -682,8 +669,7 @@
     "tag": "elfbar-te30k",
     "img": "elfbar-te-30k_bubbalo-tutti-frutti.jfif",
     "provinces": [
-      "catamarca",
-      "cordoba"
+      "catamarca"
     ]
   },
   {
@@ -1181,7 +1167,7 @@
   {
     "id": "elfbar-te-30k-acai-banana-ice-85kh",
     "brand": "ELFBAR TE 30K",
-    "flavor": "ACAI BANANA ICE",
+    "flavor": "ACAI BANANA ICE (SIN STOCK)",
     "price": 22500,
     "puffs": "30000",
     "tag": "elfbar-te30k",
@@ -1391,8 +1377,7 @@
     "tag": "elfbar-te30k",
     "img": "elfbar-te-30k_cherry-strazz.jfif",
     "provinces": [
-      "catamarca",
-      "cordoba"
+      "catamarca"
     ]
   },
   {
@@ -1430,8 +1415,7 @@
     "tag": "ebcreate",
     "img": "elfbar-bc-pro-40k-ebcreate_winter-mint.jfif",
     "provinces": [
-      "catamarca",
-      "cordoba"
+      "catamarca"
     ]
   },
   {
@@ -1455,8 +1439,7 @@
     "tag": "ebcreate",
     "img": "elfbar-bc-pro-40k-ebcreate_pink-lemonade.jfif",
     "provinces": [
-      "catamarca",
-      "cordoba"
+      "catamarca"
     ]
   },
   {
@@ -1516,8 +1499,7 @@
     "tag": "elfbar-iceking",
     "img": "elfbar-ice-king-40k_green-apple-ice.jfif",
     "provinces": [
-      "catamarca",
-      "cordoba"
+      "catamarca"
     ]
   },
   {
@@ -1553,8 +1535,7 @@
     "tag": "rabbeats",
     "img": "rabbeats-rc50000_strawberry-ice.jfif",
     "provinces": [
-      "catamarca",
-      "cordoba"
+      "catamarca"
     ]
   },
   {
@@ -1578,8 +1559,7 @@
     "tag": "elfbar-iceking",
     "img": "elfbar-ice-king-40k_miami-mint.webp",
     "provinces": [
-      "catamarca",
-      "cordoba"
+      "catamarca"
     ]
   },
   {
@@ -1591,8 +1571,7 @@
     "tag": "rabbeats",
     "img": "rabbeats-rc50000_blueberry-lemon.jfif",
     "provinces": [
-      "catamarca",
-      "cordoba"
+      "catamarca"
     ]
   },
   {
@@ -1604,8 +1583,7 @@
     "tag": "elfbar-iceking",
     "img": "elfbar-ice-king-summer-edition-40k_triple-berry.jfif",
     "provinces": [
-      "catamarca",
-      "cordoba"
+      "catamarca"
     ]
   },
   {
@@ -1617,8 +1595,7 @@
     "tag": "elfbar-iceking",
     "img": "elfbar-ice-king-summer-edition-40k_strawberry-spark.jfif",
     "provinces": [
-      "catamarca",
-      "cordoba"
+      "catamarca"
     ]
   },
   {
@@ -1630,8 +1607,7 @@
     "tag": "elfbar-iceking",
     "img": "elfbar-ice-king-40k_strawberry-watermelon.jfif",
     "provinces": [
-      "catamarca",
-      "cordoba"
+      "catamarca"
     ]
   },
   {
@@ -1643,8 +1619,7 @@
     "tag": "elfbar-iceking",
     "img": "elfbar-ice-king-40k_blueberry.jfif",
     "provinces": [
-      "catamarca",
-      "cordoba"
+      "catamarca"
     ]
   }
 ]
