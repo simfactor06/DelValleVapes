@@ -96,7 +96,8 @@
     "img": "rabbeats-rc50000_watermelon-ice.jfif",
     "tag": "rabbeats",
     "provinces": [
-      "catamarca"
+      "catamarca",
+      "cordoba"
     ]
   },
   {
@@ -108,7 +109,8 @@
     "img": "rabbeats-rc50000_strawberry-kiwi-ice.jfif",
     "tag": "rabbeats",
     "provinces": [
-      "catamarca"
+      "catamarca",
+      "cordoba"
     ]
   },
   {
@@ -120,7 +122,8 @@
     "img": "rabbeats-rc50000_green-apple-ice.jfif",
     "tag": "rabbeats",
     "provinces": [
-      "catamarca"
+      "catamarca",
+      "cordoba"
     ]
   },
   {
@@ -132,7 +135,8 @@
     "img": "rabbeats-rc50000_triple-berry.jfif",
     "tag": "rabbeats",
     "provinces": [
-      "catamarca"
+      "catamarca",
+      "cordoba"
     ]
   },
   {
@@ -144,7 +148,8 @@
     "img": "rabbeats-rc50000_kiwi-passion-fruit-guava.jfif",
     "tag": "rabbeats",
     "provinces": [
-      "catamarca"
+      "catamarca",
+      "cordoba"
     ]
   },
   {
@@ -180,7 +185,8 @@
     "img": "elfbar-ice-king_cherry-strazz.jfif",
     "tag": "elfbar-iceking",
     "provinces": [
-      "catamarca"
+      "catamarca",
+      "cordoba"
     ]
   },
   {
@@ -303,7 +309,7 @@
   {
     "id": "elfbar-duke-35k-kiwi-passion-fruit-guavo-v6q1",
     "brand": "ELFBAR DUKE 35K",
-    "flavor": "KIWI PASSION FRUIT GUAVO (SIN STOCK)",
+    "flavor": "KIWI PASSION FRUIT GUAVO",
     "price": 23000,
     "puffs": "35.000",
     "tag": "elfbar-duke",
@@ -327,7 +333,7 @@
   {
     "id": "elfbar-duke-35k-icy-mint-cafj",
     "brand": "ELFBAR DUKE 35K",
-    "flavor": "COCONAUT STRAWBERRY ( SIN STOCK )",
+    "flavor": "COCONAUT STRAWBERRY",
     "price": 23000,
     "puffs": "35.000",
     "tag": "elfbar-duke",
@@ -513,7 +519,8 @@
     "tag": "elfbar-iceking",
     "img": "elfbar-ice-king-40k_watermelon-ice.jfif",
     "provinces": [
-      "catamarca"
+      "catamarca",
+      "cordoba"
     ]
   },
   {
@@ -549,7 +556,8 @@
     "tag": "elfbar-iceking",
     "img": "elfbar-ice-king-40k_strawberry-watermelon-ice.jfif",
     "provinces": [
-      "catamarca"
+      "catamarca",
+      "cordoba"
     ]
   },
   {
@@ -621,7 +629,8 @@
     "tag": "elfbar-te30k",
     "img": "elfbar-te-30k_strawberry-watermelon.jfif",
     "provinces": [
-      "catamarca"
+      "catamarca",
+      "cordoba"
     ]
   },
   {
@@ -645,7 +654,8 @@
     "tag": "elfbar-te30k",
     "img": "elfbar-te-30k_blueberry.jfif",
     "provinces": [
-      "catamarca"
+      "catamarca",
+      "cordoba"
     ]
   },
   {
@@ -657,7 +667,8 @@
     "tag": "elfbar-te30k",
     "img": "elfbar-te-30k_peach-mango-watermelon.jfif",
     "provinces": [
-      "catamarca"
+      "catamarca",
+      "cordoba"
     ]
   },
   {
@@ -669,7 +680,8 @@
     "tag": "elfbar-te30k",
     "img": "elfbar-te-30k_bubbalo-tutti-frutti.jfif",
     "provinces": [
-      "catamarca"
+      "catamarca",
+      "cordoba"
     ]
   },
   {
@@ -1377,7 +1389,8 @@
     "tag": "elfbar-te30k",
     "img": "elfbar-te-30k_cherry-strazz.jfif",
     "provinces": [
-      "catamarca"
+      "catamarca",
+      "cordoba"
     ]
   },
   {
@@ -1402,8 +1415,7 @@
     "tag": "ebcreate",
     "img": "elfbar-bc-pro-40k-ebcreate_strawberry-kiwi.jfif",
     "provinces": [
-      "catamarca",
-      "cordoba"
+      "catamarca"
     ]
   },
   {
@@ -1535,7 +1547,8 @@
     "tag": "rabbeats",
     "img": "rabbeats-rc50000_strawberry-ice.jfif",
     "provinces": [
-      "catamarca"
+      "catamarca",
+      "cordoba"
     ]
   },
   {
@@ -1571,7 +1584,8 @@
     "tag": "rabbeats",
     "img": "rabbeats-rc50000_blueberry-lemon.jfif",
     "provinces": [
-      "catamarca"
+      "catamarca",
+      "cordoba"
     ]
   },
   {
@@ -1583,7 +1597,8 @@
     "tag": "elfbar-iceking",
     "img": "elfbar-ice-king-summer-edition-40k_triple-berry.jfif",
     "provinces": [
-      "catamarca"
+      "catamarca",
+      "cordoba"
     ]
   },
   {
@@ -1595,7 +1610,8 @@
     "tag": "elfbar-iceking",
     "img": "elfbar-ice-king-summer-edition-40k_strawberry-spark.jfif",
     "provinces": [
-      "catamarca"
+      "catamarca",
+      "cordoba"
     ]
   },
   {
@@ -1607,7 +1623,8 @@
     "tag": "elfbar-iceking",
     "img": "elfbar-ice-king-40k_strawberry-watermelon.jfif",
     "provinces": [
-      "catamarca"
+      "catamarca",
+      "cordoba"
     ]
   },
   {
@@ -1619,7 +1636,8 @@
     "tag": "elfbar-iceking",
     "img": "elfbar-ice-king-40k_blueberry.jfif",
     "provinces": [
-      "catamarca"
+      "catamarca",
+      "cordoba"
     ]
   }
 ]
