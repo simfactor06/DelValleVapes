@@ -1639,5 +1639,18 @@
       "catamarca",
       "cordoba"
     ]
+  },
+  {
+    "id": "elfbar-duke-watermelon-lemon-ice-pxwl",
+    "brand": "ELFBAR DUKE",
+    "flavor": "WATERMELON LEMON ICE",
+    "price": 23000,
+    "puffs": "35000",
+    "tag": "elfbar-duke",
+    "img": "elfbar-duke_watermelon-lemon-ice.jpeg",
+    "provinces": [
+      "catamarca",
+      "cordoba"
+    ]
   }
 ]
