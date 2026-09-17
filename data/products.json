@@ -90,7 +90,7 @@
   {
     "id": "rabbeats-watermelon-ice",
     "brand": "RabBeats RC50000",
-    "flavor": "Watermelon Ice (SIN STOCK)",
+    "flavor": "Watermelon Ice",
     "price": 23500,
     "puffs": "50000",
     "img": "rabbeats-rc50000_watermelon-ice.jfif",
@@ -116,7 +116,7 @@
   {
     "id": "rabbeats-green-apple-ice",
     "brand": "RabBeats RC50000",
-    "flavor": "SAKURA GRAPE (SIN STOCK)",
+    "flavor": "SAKURA GRAPE",
     "price": 23500,
     "puffs": "50000",
     "img": "rabbeats-rc50000_green-apple-ice.jfif",
@@ -129,7 +129,7 @@
   {
     "id": "rabbeats-icy-mint",
     "brand": "RabBeats RC50000",
-    "flavor": "TRIPLE BERRY (SIN STOCK)",
+    "flavor": "TRIPLE BERRY",
     "price": 23500,
     "puffs": "50000",
     "img": "rabbeats-rc50000_triple-berry.jfif",
@@ -148,8 +148,7 @@
     "img": "rabbeats-rc50000_kiwi-passion-fruit-guava.jfif",
     "tag": "rabbeats",
     "provinces": [
-      "catamarca",
-      "cordoba"
+      "catamarca"
     ]
   },
   {
@@ -1399,8 +1398,7 @@
     "tag": "ebcreate",
     "img": "elfbar-bc-pro-40k-ebcreate_watermelon-ice.jfif",
     "provinces": [
-      "catamarca",
-      "cordoba"
+      "catamarca"
     ]
   },
   {
