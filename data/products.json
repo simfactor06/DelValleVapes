@@ -185,8 +185,7 @@
     "img": "elfbar-ice-king_cherry-strazz.jfif",
     "tag": "elfbar-iceking",
     "provinces": [
-      "catamarca",
-      "cordoba"
+      "catamarca"
     ]
   },
   {
@@ -667,14 +666,13 @@
     "tag": "elfbar-te30k",
     "img": "elfbar-te-30k_peach-mango-watermelon.jfif",
     "provinces": [
-      "catamarca",
-      "cordoba"
+      "catamarca"
     ]
   },
   {
     "id": "elfbar-te-30k-bubbalo-tutti-frutti-krdu",
     "brand": "ELFBAR TE 30K",
-    "flavor": "BUBBALO TUTTI FRUTTI (SIN STOCK)",
+    "flavor": "BUBBALO TUTTI FRUTTI",
     "price": 22500,
     "puffs": "30000",
     "tag": "elfbar-te30k",
@@ -1389,8 +1387,7 @@
     "tag": "elfbar-te30k",
     "img": "elfbar-te-30k_cherry-strazz.jfif",
     "provinces": [
-      "catamarca",
-      "cordoba"
+      "catamarca"
     ]
   },
   {
