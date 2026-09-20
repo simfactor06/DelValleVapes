@@ -403,7 +403,7 @@
   {
     "id": "elfbar-bc-pro-40k-ebcreate-black-mint-ice-dkpz",
     "brand": "ELFBAR BC PRO 40K EBCREATE",
-    "flavor": "STRAWBERRY RASPBERRY FROST",
+    "flavor": "STRAWBERRY RASPBERRY FROST (SIN STOCK)",
     "price": 22500,
     "puffs": "40000",
     "tag": "ebcreate",
@@ -511,7 +511,7 @@
   {
     "id": "elfbar-ice-king-40k-watermelon-ice-0po3",
     "brand": "ELFBAR ICE KING 40K",
-    "flavor": "WATERMELON ICE",
+    "flavor": "WATERMELON ICE (SIN STOCK)",
     "price": 25000,
     "puffs": "40000",
     "tag": "elfbar-iceking",
@@ -671,7 +671,7 @@
   {
     "id": "elfbar-te-30k-bubbalo-tutti-frutti-krdu",
     "brand": "ELFBAR TE 30K",
-    "flavor": "BUBBALO TUTTI FRUTTI",
+    "flavor": "BUBBALO TUTTI FRUTTI (SIN STOCK)",
     "price": 22500,
     "puffs": "30000",
     "tag": "elfbar-te30k",
@@ -1091,7 +1091,7 @@
   {
     "id": "elfbar-bc-15k-tropical-lemonade-meut",
     "brand": "ELFBAR BC 15K",
-    "flavor": "TROPICAL LEMONADE",
+    "flavor": "TROPICAL LEMONADE (SIN STOCK)",
     "price": 16000,
     "puffs": "15000",
     "tag": "te6000",
@@ -1572,7 +1572,7 @@
   {
     "id": "rabbeats-rc50000-blueberry-lemon-a4y6",
     "brand": "RabBeats RC50000",
-    "flavor": "BLUEBERRY LEMON",
+    "flavor": "BLUEBERRY LEMON (SIN STOCK)",
     "price": 23000,
     "puffs": "50000",
     "tag": "rabbeats",
@@ -1585,7 +1585,7 @@
   {
     "id": "elfbar-ice-king-summer-edition-40k-triple-berry-qm8n",
     "brand": "ELFBAR ICE KING SUMMER EDITION 40K",
-    "flavor": "TRIPLE BERRY",
+    "flavor": "TRIPLE BERRY (SIN STOCK)",
     "price": 25000,
     "puffs": "40000",
     "tag": "elfbar-iceking",
@@ -1598,7 +1598,7 @@
   {
     "id": "elfbar-ice-king-summer-edition-40k-strawberry-spark-l908",
     "brand": "ELFBAR ICE KING SUMMER EDITION 40K",
-    "flavor": "STRAWBERRY SPARK",
+    "flavor": "STRAWBERRY SPARK (SIN STOCK)",
     "price": 25000,
     "puffs": "40000",
     "tag": "elfbar-iceking",
