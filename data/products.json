@@ -404,13 +404,14 @@
   {
     "id": "elfbar-bc-pro-40k-ebcreate-black-mint-ice-dkpz",
     "brand": "ELFBAR BC PRO 40K EBCREATE",
-    "flavor": "STRAWBERRY RASPBERRY FROST (SIN STOCK)",
+    "flavor": "WATERMELON PEACH FROST",
     "price": 22500,
     "puffs": "40000",
     "tag": "ebcreate",
     "img": "elfbar-bc-pro-40k-ebcreate_strawberry-raspberry-frost.jpg",
     "provinces": [
-      "catamarca"
+      "catamarca",
+      "cordoba"
     ]
   },
   {
@@ -1640,6 +1641,19 @@
     "puffs": "35000",
     "tag": "elfbar-duke",
     "img": "elfbar-duke_watermelon-lemon-ice.jpeg",
+    "provinces": [
+      "catamarca",
+      "cordoba"
+    ]
+  },
+  {
+    "id": "elfbar-bc-pro-40k-ebcreate-raspberry-mallo-gz49",
+    "brand": "ELFBAR BC PRO 40K EBCREATE",
+    "flavor": "RASPBERRY MALLO",
+    "price": 22500,
+    "puffs": "40000",
+    "tag": "ebcreate",
+    "img": "elfbar-bc-pro-40k-ebcreate_raspberry-mallo.jfif",
     "provinces": [
       "catamarca",
       "cordoba"
