@@ -173,7 +173,8 @@
     "img": "lost-mary-dura_miami-mint.jfif",
     "tag": "lostmary",
     "provinces": [
-      "catamarca"
+      "catamarca",
+      "cordoba"
     ]
   },
   {
@@ -185,19 +186,21 @@
     "img": "elfbar-ice-king_cherry-strazz.jfif",
     "tag": "elfbar-iceking",
     "provinces": [
-      "catamarca"
+      "catamarca",
+      "cordoba"
     ]
   },
   {
     "id": "iceking-strawberry-ice",
     "brand": "ELFBAR ICE KING 40K",
-    "flavor": "STRAWBERRY ICE (SIN STOCK)",
+    "flavor": "STRAWBERRY ICE",
     "price": 25000,
     "puffs": "40.000",
     "img": "elfbar-ice-king_strawberry-ice.jfif",
     "tag": "elfbar-iceking",
     "provinces": [
-      "catamarca"
+      "catamarca",
+      "cordoba"
     ]
   },
   {
@@ -544,7 +547,8 @@
     "tag": "elfbar-iceking",
     "img": "elfbar-ice-king-40k_mango-magic0.jfif",
     "provinces": [
-      "catamarca"
+      "catamarca",
+      "cordoba"
     ]
   },
   {
@@ -556,8 +560,7 @@
     "tag": "elfbar-iceking",
     "img": "elfbar-ice-king-40k_strawberry-watermelon-ice.jfif",
     "provinces": [
-      "catamarca",
-      "cordoba"
+      "catamarca"
     ]
   },
   {
@@ -605,7 +608,8 @@
     "tag": "elfbar-iceking",
     "img": "elfbar-ice-king-40k_sour-strawberry-dragon-fruit.jfif",
     "provinces": [
-      "catamarca"
+      "catamarca",
+      "cordoba"
     ]
   },
   {
@@ -654,8 +658,7 @@
     "tag": "elfbar-te30k",
     "img": "elfbar-te-30k_blueberry.jfif",
     "provinces": [
-      "catamarca",
-      "cordoba"
+      "catamarca"
     ]
   },
   {
@@ -679,7 +682,8 @@
     "tag": "elfbar-te30k",
     "img": "elfbar-te-30k_bubbalo-tutti-frutti.jfif",
     "provinces": [
-      "catamarca"
+      "catamarca",
+      "cordoba"
     ]
   },
   {
@@ -1387,7 +1391,8 @@
     "tag": "elfbar-te30k",
     "img": "elfbar-te-30k_cherry-strazz.jfif",
     "provinces": [
-      "catamarca"
+      "catamarca",
+      "cordoba"
     ]
   },
   {
@@ -1507,7 +1512,8 @@
     "tag": "elfbar-iceking",
     "img": "elfbar-ice-king-40k_green-apple-ice.jfif",
     "provinces": [
-      "catamarca"
+      "catamarca",
+      "cordoba"
     ]
   },
   {
@@ -1568,7 +1574,8 @@
     "tag": "elfbar-iceking",
     "img": "elfbar-ice-king-40k_miami-mint.webp",
     "provinces": [
-      "catamarca"
+      "catamarca",
+      "cordoba"
     ]
   },
   {
@@ -1587,7 +1594,7 @@
   {
     "id": "elfbar-ice-king-summer-edition-40k-triple-berry-qm8n",
     "brand": "ELFBAR ICE KING SUMMER EDITION 40K",
-    "flavor": "TRIPLE BERRY",
+    "flavor": "TRIPLE BERRY ( SIN STOCK)",
     "price": 25000,
     "puffs": "40000",
     "tag": "elfbar-iceking",
@@ -1629,8 +1636,7 @@
     "tag": "elfbar-iceking",
     "img": "elfbar-ice-king-40k_blueberry.jfif",
     "provinces": [
-      "catamarca",
-      "cordoba"
+      "catamarca"
     ]
   },
   {
@@ -1656,6 +1662,18 @@
     "img": "elfbar-bc-pro-40k-ebcreate_raspberry-mallo.jfif",
     "provinces": [
       "catamarca",
+      "cordoba"
+    ]
+  },
+  {
+    "id": "elfbar-te-30k-peach-mango-watermelon-g15h",
+    "brand": "ELFBAR TE 30k",
+    "flavor": "PEACH MANGO WATERMELON",
+    "price": 22500,
+    "puffs": "30.000",
+    "tag": "elfbar-te30k",
+    "img": "elfbar-te-30k_peach-mango-watermelon.webp",
+    "provinces": [
       "cordoba"
     ]
   }
