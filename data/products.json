@@ -193,7 +193,7 @@
   {
     "id": "iceking-strawberry-ice",
     "brand": "ELFBAR ICE KING 40K",
-    "flavor": "STRAWBERRY ICE",
+    "flavor": "STRAWBERRY ICE (SIN STOCK)",
     "price": 25000,
     "puffs": "40.000",
     "img": "elfbar-ice-king_strawberry-ice.jfif",
@@ -359,7 +359,7 @@
   {
     "id": "blvk-just-juice-45k-strawberry-watermelon-6u7g",
     "brand": "BLVK JUST JUICE 45K",
-    "flavor": "STRAWBERRY WATERMELON",
+    "flavor": "STRAWBERRY WATERMELON (SIN STOCK)",
     "price": 28000,
     "puffs": "45.000",
     "tag": "blvk-45k",
@@ -554,7 +554,7 @@
   {
     "id": "elfbar-ice-king-40k-strawberry-watermelon-ice-1s8q",
     "brand": "ELFBAR ICE KING 40K",
-    "flavor": "STRAWBERRY WATERMELON ICE",
+    "flavor": "STRAWBERRY WATERMELON ICE (SIN STOCK)",
     "price": 25000,
     "puffs": "40000",
     "tag": "elfbar-iceking",
@@ -723,7 +723,7 @@
   {
     "id": "ignite-v25-passion-fruit-lemon-wo9f",
     "brand": "IGNITE V25",
-    "flavor": "PASSION FRUIT LEMON",
+    "flavor": "PASSION FRUIT LEMON (SIN STOCK)",
     "price": 7500,
     "puffs": "2500",
     "tag": "ignite",
@@ -735,7 +735,7 @@
   {
     "id": "ignite-v25-pink-lemonade-8dnc",
     "brand": "IGNITE V25",
-    "flavor": "PINK LEMONADE",
+    "flavor": "PINK LEMONADE (SIN STOCK)",
     "price": 7500,
     "puffs": "2500",
     "tag": "ignite",
@@ -783,7 +783,7 @@
   {
     "id": "ignite-v25-strawberry-cheescaske-1kil",
     "brand": "IGNITE V25",
-    "flavor": "STRAWBERRY CHEESCASKE",
+    "flavor": "STRAWBERRY CHEESCASKE (SIN STOCK)",
     "price": 7500,
     "puffs": "2500",
     "tag": "ignite",
@@ -1469,7 +1469,7 @@
   {
     "id": "blvk-just-juice-45k-grape-ice-i5eo",
     "brand": "BLVK JUST JUICE 45K",
-    "flavor": "GRAPE ICE",
+    "flavor": "GRAPE ICE (SIN STOCK)",
     "price": 28000,
     "puffs": "45000",
     "tag": "blvk-45k",
@@ -1493,7 +1493,7 @@
   {
     "id": "blvk-just-juice-45k-blue-mint-8ajq",
     "brand": "BLVK JUST JUICE 45K",
-    "flavor": "BLUE MINT",
+    "flavor": "BLUE MINT (SIN STOCK)",
     "price": 28000,
     "puffs": "45000",
     "tag": "blvk-45k",
