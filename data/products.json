@@ -90,7 +90,7 @@
   {
     "id": "rabbeats-watermelon-ice",
     "brand": "RabBeats RC50000",
-    "flavor": "Watermelon Ice",
+    "flavor": "Watermelon Ice (SIN STOCK)",
     "price": 23500,
     "puffs": "50000",
     "img": "rabbeats-rc50000_watermelon-ice.jfif",
@@ -180,7 +180,7 @@
   {
     "id": "iceking-cherry-strazz",
     "brand": "ELFBAR ICE KING 40K",
-    "flavor": "Cherry Strazz",
+    "flavor": "Cherry Strazz (SIN STOCK)",
     "price": 25000,
     "puffs": "40.000",
     "img": "elfbar-ice-king_cherry-strazz.jfif",
@@ -516,7 +516,7 @@
   {
     "id": "elfbar-ice-king-40k-watermelon-ice-0po3",
     "brand": "ELFBAR ICE KING 40K",
-    "flavor": "WATERMELON ICE",
+    "flavor": "WATERMELON ICE (SIN STOCK)",
     "price": 25000,
     "puffs": "40000",
     "tag": "elfbar-iceking",
@@ -1035,7 +1035,7 @@
   {
     "id": "elfbar-trio-40k-blueberry-pom-slushy-l3di",
     "brand": "ELFBAR TRIO 40K",
-    "flavor": "BLUEBERRY POM SLUSHY",
+    "flavor": "BLUEBERRY POM SLUSHY (SIN STOCK)",
     "price": 25000,
     "puffs": "40000",
     "tag": "elfbar-trio-40k",
@@ -1408,7 +1408,7 @@
   {
     "id": "elfbar-bc-pro-40k-ebcreate-strawberry-kiwi-dl8w",
     "brand": "ELFBAR BC PRO 40K EBCREATE",
-    "flavor": "STRAWBERRY KIWI",
+    "flavor": "STRAWBERRY KIWI (SIN STOCK)",
     "price": 22500,
     "puffs": "40000",
     "tag": "ebcreate",
@@ -1567,7 +1567,7 @@
   {
     "id": "elfbar-ice-king-40k-miami-mint-nbar",
     "brand": "ELFBAR ICE KING 40K",
-    "flavor": "Miami Mint",
+    "flavor": "Miami Mint (SIN STOCK)",
     "price": 25000,
     "puffs": "40000",
     "tag": "elfbar-iceking",
