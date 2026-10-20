@@ -103,7 +103,7 @@
   {
     "id": "rabbeats-menthol",
     "brand": "RabBeats RC50000",
-    "flavor": "STRAWBERRY KIWI ICE (SIN STOCK)",
+    "flavor": "STRAWBERRY KIWI ICE",
     "price": 23500,
     "puffs": "50000",
     "img": "rabbeats-rc50000_strawberry-kiwi-ice.jfif",
@@ -116,7 +116,7 @@
   {
     "id": "rabbeats-green-apple-ice",
     "brand": "RabBeats RC50000",
-    "flavor": "SAKURA GRAPE",
+    "flavor": "GREEN APPLE",
     "price": 23500,
     "puffs": "50000",
     "img": "rabbeats-rc50000_green-apple-ice.jfif",
@@ -129,7 +129,7 @@
   {
     "id": "rabbeats-icy-mint",
     "brand": "RabBeats RC50000",
-    "flavor": "TRIPLE BERRY  (SIN STOCK)",
+    "flavor": "TRIPLE BERRY",
     "price": 23500,
     "puffs": "50000",
     "img": "rabbeats-rc50000_triple-berry.jfif",
@@ -193,7 +193,7 @@
   {
     "id": "iceking-strawberry-ice",
     "brand": "ELFBAR ICE KING 40K",
-    "flavor": "STRAWBERRY ICE (SIN STOCK)",
+    "flavor": "STRAWBERRY ICE",
     "price": 26000,
     "puffs": "40.000",
     "img": "elfbar-ice-king_strawberry-ice.jfif",
@@ -359,7 +359,7 @@
   {
     "id": "blvk-just-juice-45k-strawberry-watermelon-6u7g",
     "brand": "BLVK JUST JUICE 45K",
-    "flavor": "STRAWBERRY WATERMELON (SIN STOCK)",
+    "flavor": "STRAWBERRY WATERMELON",
     "price": 28000,
     "puffs": "45.000",
     "tag": "blvk-45k",
@@ -504,7 +504,7 @@
   {
     "id": "elfbar-ice-king-40k-blue-razz-ice-xu4r",
     "brand": "ELFBAR ICE KING 40K",
-    "flavor": "BLUE RAZZ ICE (SIN STOCK)",
+    "flavor": "BLUE RAZZ ICE",
     "price": 26000,
     "puffs": "40000",
     "tag": "elfbar-iceking",
@@ -554,7 +554,7 @@
   {
     "id": "elfbar-ice-king-40k-strawberry-watermelon-ice-1s8q",
     "brand": "ELFBAR ICE KING 40K",
-    "flavor": "STRAWBERRY WATERMELON ICE (SIN STOCK)",
+    "flavor": "STRAWBERRY WATERMELON ICE",
     "price": 26000,
     "puffs": "40000",
     "tag": "elfbar-iceking",
@@ -1457,7 +1457,7 @@
   {
     "id": "blvk-just-juice-45k-strawberry-ice-rdo6",
     "brand": "BLVK JUST JUICE 45K",
-    "flavor": "STRAWBERRY ICE (SIN STOCK)",
+    "flavor": "STRAWBERRY ICE",
     "price": 28000,
     "puffs": "45000",
     "tag": "blvk-45k",
@@ -1469,7 +1469,7 @@
   {
     "id": "blvk-just-juice-45k-grape-ice-i5eo",
     "brand": "BLVK JUST JUICE 45K",
-    "flavor": "GRAPE ICE (SIN STOCK)",
+    "flavor": "GRAPE ICE",
     "price": 28000,
     "puffs": "45000",
     "tag": "blvk-45k",
@@ -1518,7 +1518,7 @@
   {
     "id": "elfbar-ice-king-40k-tigers-blood-jg2a",
     "brand": "ELFBAR ICE KING 40K",
-    "flavor": "TIGERS BLOOD (SIN STOCK)",
+    "flavor": "TIGERS BLOOD",
     "price": 26000,
     "puffs": "40000",
     "tag": "elfbar-iceking",
@@ -1530,7 +1530,7 @@
   {
     "id": "elfbar-ice-king-40k-grape-ice-blqk",
     "brand": "ELFBAR ICE KING 40K",
-    "flavor": "GRAPE ICE (SIN STOCK)",
+    "flavor": "GRAPE ICE",
     "price": 26000,
     "puffs": "40000",
     "tag": "elfbar-iceking",
@@ -1542,7 +1542,7 @@
   {
     "id": "rabbeats-rc50000-strawberry-ice-sokt",
     "brand": "RabBeats RC50000",
-    "flavor": "STRAWBERRY ICE (SIN STOCK)",
+    "flavor": "STRAWBERRY ICE",
     "price": 23500,
     "puffs": "50000",
     "tag": "rabbeats",
@@ -1555,7 +1555,7 @@
   {
     "id": "elfbar-te-30k-bubbaloo-grape-l5ct",
     "brand": "ELFBAR TE 30K",
-    "flavor": "BUBBALOO GRAPE (SIN STOCK)",
+    "flavor": "BUBBALOO GRAPE",
     "price": 22500,
     "puffs": "30000",
     "tag": "elfbar-te30k",
@@ -1567,7 +1567,7 @@
   {
     "id": "elfbar-ice-king-40k-miami-mint-nbar",
     "brand": "ELFBAR ICE KING 40K",
-    "flavor": "Miami Mint (SIN STOCK)",
+    "flavor": "Miami Mint",
     "price": 26000,
     "puffs": "40000",
     "tag": "elfbar-iceking",
