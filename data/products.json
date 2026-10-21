@@ -180,13 +180,12 @@
   {
     "id": "iceking-cherry-strazz",
     "brand": "ELFBAR ICE KING 40K",
-    "flavor": "Cherry Strazz (SIN STOCK)",
+    "flavor": "Cherry Strazz",
     "price": 26000,
     "puffs": "40.000",
     "img": "elfbar-ice-king_cherry-strazz.jfif",
     "tag": "elfbar-iceking",
     "provinces": [
-      "catamarca",
       "cordoba"
     ]
   },
@@ -510,13 +509,14 @@
     "tag": "elfbar-iceking",
     "img": "elfbar-ice-king-40k_blue-razz-ice.jfif",
     "provinces": [
-      "catamarca"
+      "catamarca",
+      "cordoba"
     ]
   },
   {
     "id": "elfbar-ice-king-40k-watermelon-ice-0po3",
     "brand": "ELFBAR ICE KING 40K",
-    "flavor": "WATERMELON ICE (SIN STOCK)",
+    "flavor": "WATERMELON ICE",
     "price": 26000,
     "puffs": "40000",
     "tag": "elfbar-iceking",
@@ -1671,6 +1671,18 @@
     "puffs": "30.000",
     "tag": "elfbar-te30k",
     "img": "elfbar-te-30k_peach-mango-watermelon.webp",
+    "provinces": [
+      "cordoba"
+    ]
+  },
+  {
+    "id": "elfbar-ice-king-cherry-fuse-c4un",
+    "brand": "ELFBAR ICE KING 40K",
+    "flavor": "CHERRY FUSE",
+    "price": 26000,
+    "puffs": "40000",
+    "tag": "elfbar-iceking",
+    "img": "elfbar-ice-king_cherry-fuse.jpeg",
     "provinces": [
       "cordoba"
     ]
