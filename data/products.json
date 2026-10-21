@@ -626,7 +626,7 @@
   {
     "id": "elfbar-te-30k-strawberry-watermelon-pobb",
     "brand": "ELFBAR TE 30K",
-    "flavor": "STRAWBERRY WATERMELON",
+    "flavor": "STRAWBERRY WATERMELON ICE",
     "price": 22500,
     "puffs": "30000",
     "tag": "elfbar-te30k",
@@ -651,13 +651,14 @@
   {
     "id": "elfbar-te-30k-blueberry-gj7d",
     "brand": "ELFBAR TE 30K",
-    "flavor": "GREEN APPLE",
+    "flavor": "GREEN APPLE ICE",
     "price": 22500,
     "puffs": "30000",
     "tag": "elfbar-te30k",
     "img": "elfbar-te-30k_blueberry.jfif",
     "provinces": [
-      "catamarca"
+      "catamarca",
+      "cordoba"
     ]
   },
   {
@@ -1389,8 +1390,7 @@
     "tag": "elfbar-te30k",
     "img": "elfbar-te-30k_cherry-strazz.jfif",
     "provinces": [
-      "catamarca",
-      "cordoba"
+      "catamarca"
     ]
   },
   {
@@ -1561,7 +1561,8 @@
     "tag": "elfbar-te30k",
     "img": "elfbar-te-30k_bubbaloo-grape.webp",
     "provinces": [
-      "catamarca"
+      "catamarca",
+      "cordoba"
     ]
   },
   {
