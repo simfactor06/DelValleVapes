@@ -1687,5 +1687,41 @@
     "provinces": [
       "cordoba"
     ]
+  },
+  {
+    "id": "elfbar-te-30k-watermelon-ice-pvib",
+    "brand": "ELFBAR TE 30K",
+    "flavor": "WATERMELON ICE",
+    "price": 22500,
+    "puffs": "30000",
+    "tag": "elfbar-te30k",
+    "img": "elfbar-te-30k_watermelon-ice.png",
+    "provinces": [
+      "cordoba"
+    ]
+  },
+  {
+    "id": "elfbar-te-30k-strawberry-ice-d0ci",
+    "brand": "ELFBAR TE 30K",
+    "flavor": "STRAWBERRY ICE",
+    "price": 22500,
+    "puffs": "30000",
+    "tag": "elfbar-te30k",
+    "img": "elfbar-te-30k_strawberry-ice.webp",
+    "provinces": [
+      "cordoba"
+    ]
+  },
+  {
+    "id": "elfbar-te-30k-guava-passion-fruit-kiwi-r36a",
+    "brand": "ELFBAR TE 30K",
+    "flavor": "GUAVA PASSION FRUIT KIWI",
+    "price": 22500,
+    "puffs": "30000",
+    "tag": "elfbar-te30k",
+    "img": "elfbar-te-30k_guava-passion-fruit-kiwi.webp",
+    "provinces": [
+      "cordoba"
+    ]
   }
 ]
