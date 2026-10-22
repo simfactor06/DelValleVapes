@@ -180,7 +180,7 @@
   {
     "id": "iceking-cherry-strazz",
     "brand": "ELFBAR ICE KING 40K",
-    "flavor": "Cherry Strazz",
+    "flavor": "Cherry Strazz ( SIN STOCK )",
     "price": 26000,
     "puffs": "40.000",
     "img": "elfbar-ice-king_cherry-strazz.jfif",
@@ -639,7 +639,7 @@
   {
     "id": "elfbar-te-30k-watermelon-yo5v",
     "brand": "ELFBAR TE 30K",
-    "flavor": "MIAMI MINT",
+    "flavor": "MIAMI MINT  ( SIN STOCK )",
     "price": 22500,
     "puffs": "30000",
     "tag": "elfbar-te30k",
@@ -1438,8 +1438,7 @@
     "tag": "ebcreate",
     "img": "elfbar-bc-pro-40k-ebcreate_aurora-berries.jfif",
     "provinces": [
-      "catamarca",
-      "cordoba"
+      "catamarca"
     ]
   },
   {
