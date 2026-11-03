@@ -509,8 +509,7 @@
     "tag": "elfbar-iceking",
     "img": "elfbar-ice-king-40k_blue-razz-ice.jfif",
     "provinces": [
-      "catamarca",
-      "cordoba"
+      "catamarca"
     ]
   },
   {
@@ -1602,7 +1601,7 @@
   {
     "id": "elfbar-ice-king-summer-edition-40k-strawberry-spark-l908",
     "brand": "ELFBAR ICE KING SUMMER EDITION 40K",
-    "flavor": "STRAWBERRY SPARK",
+    "flavor": "STRAWBERRY SPARK ( SIN STOCK )",
     "price": 26000,
     "puffs": "40000",
     "tag": "elfbar-iceking",
