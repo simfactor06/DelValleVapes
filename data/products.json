@@ -90,7 +90,7 @@
   {
     "id": "rabbeats-watermelon-ice",
     "brand": "RabBeats RC50000",
-    "flavor": "Watermelon Ice",
+    "flavor": "Watermelon Ice (SIN STOCK)",
     "price": 23500,
     "puffs": "50000",
     "img": "rabbeats-rc50000_watermelon-ice.jfif",
@@ -103,7 +103,7 @@
   {
     "id": "rabbeats-menthol",
     "brand": "RabBeats RC50000",
-    "flavor": "STRAWBERRY KIWI ICE",
+    "flavor": "STRAWBERRY KIWI ICE (SIN STOCK)",
     "price": 23500,
     "puffs": "50000",
     "img": "rabbeats-rc50000_strawberry-kiwi-ice.jfif",
@@ -141,7 +141,7 @@
   {
     "id": "rabbeats-strawberry-kiwi-ice",
     "brand": "RabBeats RC50000",
-    "flavor": "MIAMI MINT",
+    "flavor": "MIAMI MINT (SIN STOCK)",
     "price": 23500,
     "puffs": "50000",
     "img": "rabbeats-rc50000_kiwi-passion-fruit-guava.jfif",
@@ -344,7 +344,7 @@
   {
     "id": "blvk-just-juice-45k-watermelon-ice-x9rb",
     "brand": "BLVK JUST JUICE 45K",
-    "flavor": "GREEN APPLE",
+    "flavor": "GREEN APPLE (SIN STOCK)",
     "price": 28000,
     "puffs": "45.000",
     "tag": "blvk-45k",
@@ -356,7 +356,7 @@
   {
     "id": "blvk-just-juice-45k-strawberry-watermelon-6u7g",
     "brand": "BLVK JUST JUICE 45K",
-    "flavor": "STRAWBERRY WATERMELON",
+    "flavor": "STRAWBERRY WATERMELON (SIN STOCK)",
     "price": 28000,
     "puffs": "45.000",
     "tag": "blvk-45k",
@@ -404,7 +404,7 @@
   {
     "id": "elfbar-bc-pro-40k-ebcreate-black-mint-ice-dkpz",
     "brand": "ELFBAR BC PRO 40K EBCREATE",
-    "flavor": "WATERMELON PEACH FROST",
+    "flavor": "WATERMELON PEACH FROST (SIN STOCK)",
     "price": 22500,
     "puffs": "40000",
     "tag": "ebcreate",
@@ -417,7 +417,7 @@
   {
     "id": "elfbar-bc-pro-40k-ebcreate-tripple-berry-30le",
     "brand": "ELFBAR BC PRO 40K EBCREATE",
-    "flavor": "TRIPPLE BERRY",
+    "flavor": "TRIPPLE BERRY (SIN STOCK)",
     "price": 22500,
     "puffs": "40000",
     "tag": "ebcreate",
@@ -519,7 +519,6 @@
     "tag": "elfbar-iceking",
     "img": "elfbar-ice-king-40k_watermelon-ice.jfif",
     "provinces": [
-      "catamarca",
       "cordoba"
     ]
   },
@@ -544,7 +543,6 @@
     "tag": "elfbar-iceking",
     "img": "elfbar-ice-king-40k_mango-magic0.jfif",
     "provinces": [
-      "catamarca",
       "cordoba"
     ]
   },
@@ -947,7 +945,7 @@
   {
     "id": "ignite-v400-ice-mint-kr65",
     "brand": "IGNITE V400 ICE",
-    "flavor": "MINT",
+    "flavor": "MINT (SIN STOCK)",
     "price": 25000,
     "puffs": "40000",
     "tag": "ignite-v400-ice",
@@ -1379,7 +1377,7 @@
   {
     "id": "elfbar-te-30k-cherry-strazz-wjmn",
     "brand": "ELFBAR TE 30K",
-    "flavor": "CHERRY STRAZZ",
+    "flavor": "CHERRY STRAZZ (SIN STOCK)",
     "price": 22500,
     "puffs": "30000",
     "tag": "elfbar-te30k",
@@ -1391,7 +1389,7 @@
   {
     "id": "elfbar-bc-pro-40k-ebcreate-watermelon-ice-qrsf",
     "brand": "ELFBAR BC PRO 40K EBCREATE",
-    "flavor": "WATERMELON ICE",
+    "flavor": "WATERMELON ICE (SIN STOCK)",
     "price": 22500,
     "puffs": "40000",
     "tag": "ebcreate",
@@ -1427,7 +1425,7 @@
   {
     "id": "elfbar-bc-pro-40k-ebcreate-aurora-berries-knxo",
     "brand": "ELFBAR BC PRO 40K EBCREATE",
-    "flavor": "AURORA BERRIES",
+    "flavor": "AURORA BERRIES (SIN STOCK)",
     "price": 22500,
     "puffs": "40000",
     "tag": "ebcreate",
@@ -1452,7 +1450,7 @@
   {
     "id": "blvk-just-juice-45k-strawberry-ice-rdo6",
     "brand": "BLVK JUST JUICE 45K",
-    "flavor": "STRAWBERRY ICE",
+    "flavor": "STRAWBERRY ICE (SIN STOCK)",
     "price": 28000,
     "puffs": "45000",
     "tag": "blvk-45k",
@@ -1464,7 +1462,7 @@
   {
     "id": "blvk-just-juice-45k-grape-ice-i5eo",
     "brand": "BLVK JUST JUICE 45K",
-    "flavor": "GRAPE ICE",
+    "flavor": "GRAPE ICE (SIN STOCK)",
     "price": 28000,
     "puffs": "45000",
     "tag": "blvk-45k",
@@ -1525,7 +1523,7 @@
   {
     "id": "elfbar-ice-king-40k-grape-ice-blqk",
     "brand": "ELFBAR ICE KING 40K",
-    "flavor": "GRAPE ICE",
+    "flavor": "GRAPE ICE (SIN STOCK)",
     "price": 26000,
     "puffs": "40000",
     "tag": "elfbar-iceking",
@@ -1550,7 +1548,7 @@
   {
     "id": "elfbar-te-30k-bubbaloo-grape-l5ct",
     "brand": "ELFBAR TE 30K",
-    "flavor": "BUBBALOO GRAPE",
+    "flavor": "BUBBALOO GRAPE (SIN STOCK)",
     "price": 22500,
     "puffs": "30000",
     "tag": "elfbar-te30k",
@@ -1568,14 +1566,13 @@
     "tag": "elfbar-iceking",
     "img": "elfbar-ice-king-40k_miami-mint.webp",
     "provinces": [
-      "catamarca",
       "cordoba"
     ]
   },
   {
     "id": "rabbeats-rc50000-blueberry-lemon-a4y6",
     "brand": "RabBeats RC50000",
-    "flavor": "BLUEBERRY LEMON",
+    "flavor": "BLUEBERRY LEMON (SIN STOCK)",
     "price": 23000,
     "puffs": "50000",
     "tag": "rabbeats",
@@ -1623,7 +1620,7 @@
   {
     "id": "elfbar-ice-king-40k-blueberry-3ak2",
     "brand": "ELFBAR ICE KING 40K",
-    "flavor": "BLUEBERRY",
+    "flavor": "BLUEBERRY (SIN STOCK)",
     "price": 26000,
     "puffs": "40000",
     "tag": "elfbar-iceking",
