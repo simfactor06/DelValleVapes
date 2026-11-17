@@ -1,97 +1,9 @@
 [
   {
-    "id": "mix-passionfruit-pineapple",
-    "brand": "IGNITE V400 V-MIX",
-    "flavor": "Passion Fruit Sour Kiwi / Pineapple Ice (SIN STOCK)",
-    "price": 28000,
-    "img": "ignite_mix_passionfruit_kiwi_pineapple.png",
-    "tag": "ignite-v400-ice",
-    "provinces": [
-      "catamarca"
-    ]
-  },
-  {
-    "id": "mix-strawberrymango-banana",
-    "brand": "IGNITE V400 V-MIX",
-    "flavor": "Strawberry Mango Ice / Banana Ice (SIN STOCK)",
-    "price": 28000,
-    "img": "ignite_mix_strawberry_mango_banana.png",
-    "tag": "ignite-v400-ice",
-    "provinces": [
-      "catamarca"
-    ]
-  },
-  {
-    "id": "mix-banana-strawberry",
-    "brand": "IGNITE V400 V-MIX",
-    "flavor": "Banana / Strawberry Ice (SIN STOCK)",
-    "price": 28000,
-    "img": "ignite_mix_banana_strawberry.png",
-    "tag": "ignite-v400-ice",
-    "provinces": [
-      "catamarca"
-    ]
-  },
-  {
-    "id": "mix-grape-strawberry",
-    "brand": "IGNITE V400 V-MIX",
-    "flavor": "Grape Ice / Strawberry (SIN STOCK)",
-    "price": 28000,
-    "img": "ignite_mix_grape_strawberry.png",
-    "tag": "ignite-v400-ice",
-    "provinces": [
-      "catamarca"
-    ]
-  },
-  {
-    "id": "mix-icymint-peachgrape",
-    "brand": "IGNITE V400 V-MIX",
-    "flavor": "Icy Mint / Peach Grape",
-    "price": 28000,
-    "img": "ignite_mix_icymint_peachgrape.png",
-    "tag": "ignite-v400-ice",
-    "provinces": [
-      "cordoba"
-    ]
-  },
-  {
-    "id": "mix-grape-watermelon",
-    "brand": "IGNITE V400 V-MIX",
-    "flavor": "Grape Ice / Watermelon Ice",
-    "price": 28000,
-    "img": "ignite_mix_grape_watermelon.png",
-    "tag": "ignite-v400-ice",
-    "provinces": [
-      "cordoba"
-    ]
-  },
-  {
-    "id": "mix-strawberrywatermelon-aloegrape",
-    "brand": "IGNITE V400 V-MIX",
-    "flavor": "Strawberry Watermelon Ice / Aloe Grape (SIN STOCK)",
-    "price": 28000,
-    "img": "ignite_mix_strawberrywatermelon_aloegrape.png",
-    "tag": "ignite-v400-ice",
-    "provinces": [
-      "catamarca"
-    ]
-  },
-  {
-    "id": "mix-blueberry-raspberryblackberry",
-    "brand": "IGNITE V400 V-MIX",
-    "flavor": "Blueberry Ice / Raspberry Blackberry (SIN STOCK)",
-    "price": 28000,
-    "img": "ignite_mix_blueberry_raspberryblackberry.png",
-    "tag": "ignite-v400-ice",
-    "provinces": [
-      "catamarca"
-    ]
-  },
-  {
     "id": "rabbeats-watermelon-ice",
     "brand": "RabBeats RC50000",
-    "flavor": "Watermelon Ice (SIN STOCK)",
-    "price": 23500,
+    "flavor": "Watermelon Ice",
+    "price": 24500,
     "puffs": "50000",
     "img": "rabbeats-rc50000_watermelon-ice.jfif",
     "tag": "rabbeats",
@@ -103,8 +15,8 @@
   {
     "id": "rabbeats-menthol",
     "brand": "RabBeats RC50000",
-    "flavor": "STRAWBERRY KIWI ICE (SIN STOCK)",
-    "price": 23500,
+    "flavor": "STRAWBERRY KIWI ICE",
+    "price": 24500,
     "puffs": "50000",
     "img": "rabbeats-rc50000_strawberry-kiwi-ice.jfif",
     "tag": "rabbeats",
@@ -117,7 +29,7 @@
     "id": "rabbeats-green-apple-ice",
     "brand": "RabBeats RC50000",
     "flavor": "GREEN APPLE",
-    "price": 23500,
+    "price": 24500,
     "puffs": "50000",
     "img": "rabbeats-rc50000_green-apple-ice.jfif",
     "tag": "rabbeats",
@@ -128,8 +40,8 @@
   {
     "id": "rabbeats-icy-mint",
     "brand": "RabBeats RC50000",
-    "flavor": "TRIPLE BERRY",
-    "price": 23500,
+    "flavor": "TRIPLE BERRY  (SIN STOCK)",
+    "price": 24500,
     "puffs": "50000",
     "img": "rabbeats-rc50000_triple-berry.jfif",
     "tag": "rabbeats",
@@ -141,8 +53,8 @@
   {
     "id": "rabbeats-strawberry-kiwi-ice",
     "brand": "RabBeats RC50000",
-    "flavor": "MIAMI MINT (SIN STOCK)",
-    "price": 23500,
+    "flavor": "MIAMI MINT",
+    "price": 24500,
     "puffs": "50000",
     "img": "rabbeats-rc50000_kiwi-passion-fruit-guava.jfif",
     "tag": "rabbeats",
@@ -151,35 +63,10 @@
     ]
   },
   {
-    "id": "lostmary-grape-ice",
-    "brand": "Lost Mary Dura",
-    "flavor": "Grape Ice (SIN STOCK)",
-    "price": 23000,
-    "puffs": "35.000",
-    "img": "lost-mary-dura_grape-ice.jfif",
-    "tag": "lostmary",
-    "provinces": [
-      "catamarca"
-    ]
-  },
-  {
-    "id": "lostmary-miami-mint",
-    "brand": "Lost Mary Dura",
-    "flavor": "Miami Mint",
-    "price": 23000,
-    "puffs": "35.000",
-    "img": "lost-mary-dura_miami-mint.jfif",
-    "tag": "lostmary",
-    "provinces": [
-      "catamarca",
-      "cordoba"
-    ]
-  },
-  {
     "id": "iceking-cherry-strazz",
     "brand": "ELFBAR ICE KING 40K",
     "flavor": "Cherry FUSE",
-    "price": 26000,
+    "price": 27000,
     "puffs": "40.000",
     "img": "elfbar-ice-king_cherry-strazz.jfif",
     "tag": "elfbar-iceking",
@@ -190,71 +77,14 @@
   {
     "id": "iceking-strawberry-ice",
     "brand": "ELFBAR ICE KING 40K",
-    "flavor": "STRAWBERRY ICE",
-    "price": 26000,
+    "flavor": "STRAWBERRY ICE (SIN STOCK)",
+    "price": 27000,
     "puffs": "40.000",
     "img": "elfbar-ice-king_strawberry-ice.jfif",
     "tag": "elfbar-iceking",
     "provinces": [
       "catamarca",
       "cordoba"
-    ]
-  },
-  {
-    "id": "v155-watermelon-mix-naranja",
-    "brand": "Ignite V155 Ultra Slim",
-    "flavor": "Watermelon Mix (naranja) (SIN STOCK)",
-    "price": 20500,
-    "img": "ignitev155_watermelon_mix_naranja.png",
-    "tag": "ignite",
-    "provinces": [
-      "catamarca"
-    ]
-  },
-  {
-    "id": "v155-strawberrywatermelon-ice",
-    "brand": "Ignite V155 Ultra Slim",
-    "flavor": "Strawberry Watermelon Ice (SIN STOCK)",
-    "price": 20500,
-    "img": "ignitev155_strawberrywatermelon_ice.png",
-    "tag": "ignite",
-    "provinces": [
-      "catamarca"
-    ]
-  },
-  {
-    "id": "v155-strawberry-ice-a",
-    "brand": "Ignite V155 Ultra Slim",
-    "flavor": "Strawberry Ice (SIN STOCK)",
-    "price": 20500,
-    "img": "ignitev155_strawberry_ice_a.png",
-    "tag": "ignite",
-    "provinces": [
-      "catamarca"
-    ]
-  },
-  {
-    "id": "te6000-blue-razz-ice",
-    "brand": "EBDesign TE6000",
-    "flavor": "Blue Razz Ice (SIN STOCK)",
-    "price": 10000,
-    "img": "te6000_blue-razz-ice.jfif",
-    "tag": "te6000",
-    "puffs": "6000",
-    "provinces": [
-      "catamarca"
-    ]
-  },
-  {
-    "id": "ebdesign-te6000-ice-mint",
-    "brand": "EBDesign TE6000",
-    "flavor": "Ice Mint (SIN STOCK)",
-    "price": 10000,
-    "img": "ebdesign-te6000_ice-mint.jfif",
-    "tag": "te6000",
-    "puffs": "6000",
-    "provinces": [
-      "catamarca"
     ]
   },
   {
@@ -344,8 +174,8 @@
   {
     "id": "blvk-just-juice-45k-watermelon-ice-x9rb",
     "brand": "BLVK JUST JUICE 45K",
-    "flavor": "GREEN APPLE (SIN STOCK)",
-    "price": 28000,
+    "flavor": "SPEARMINT",
+    "price": 29000,
     "puffs": "45.000",
     "tag": "blvk-45k",
     "img": "blvk-just-juice-45k_watermelon-ice.webp",
@@ -356,8 +186,8 @@
   {
     "id": "blvk-just-juice-45k-strawberry-watermelon-6u7g",
     "brand": "BLVK JUST JUICE 45K",
-    "flavor": "STRAWBERRY WATERMELON (SIN STOCK)",
-    "price": 28000,
+    "flavor": "STRAWBERRY KIWI",
+    "price": 29000,
     "puffs": "45.000",
     "tag": "blvk-45k",
     "img": "blvk-just-juice-45k_strawberry-watermelon.jpg",
@@ -368,8 +198,8 @@
   {
     "id": "blvk-just-juice-45k-strawberry-mango-tbi1",
     "brand": "BLVK JUST JUICE 45K",
-    "flavor": "STRAWBERRY MANGO (SIN STOCK)",
-    "price": 28000,
+    "flavor": "STRAWBERRY ICE",
+    "price": 29000,
     "puffs": "45.000",
     "tag": "blvk-45k",
     "img": "blvk-just-juice-45k_strawberry-mango.webp",
@@ -381,7 +211,7 @@
     "id": "elfbar-ebcreate-bc-pro-blue-razz-ice-th6o",
     "brand": "ELFBAR BC PRO 40K EBCREATE",
     "flavor": "BLUE RAZZ ICE (SIN STOCK)",
-    "price": 25000,
+    "price": 21000,
     "puffs": "40.000",
     "tag": "ebcreate",
     "img": "elfbar-ebcreate-bc-pro_blue-razz-ice.webp",
@@ -393,7 +223,7 @@
     "id": "bc-pro-40k-ebcreate-black-mint-ice-zyer",
     "brand": "ELFBAR BC PRO 40K EBCREATE",
     "flavor": "BLACK MINT ICE (SIN STOCK)",
-    "price": 25000,
+    "price": 21000,
     "puffs": "40000",
     "tag": "ebcreate",
     "img": "bc-pro-40k-ebcreate_black-mint-ice.jpg",
@@ -405,7 +235,7 @@
     "id": "elfbar-bc-pro-40k-ebcreate-black-mint-ice-dkpz",
     "brand": "ELFBAR BC PRO 40K EBCREATE",
     "flavor": "WATERMELON PEACH FROST (SIN STOCK)",
-    "price": 22500,
+    "price": 21000,
     "puffs": "40000",
     "tag": "ebcreate",
     "img": "elfbar-bc-pro-40k-ebcreate_strawberry-raspberry-frost.jpg",
@@ -418,7 +248,7 @@
     "id": "elfbar-bc-pro-40k-ebcreate-tripple-berry-30le",
     "brand": "ELFBAR BC PRO 40K EBCREATE",
     "flavor": "TRIPPLE BERRY (SIN STOCK)",
-    "price": 22500,
+    "price": 21000,
     "puffs": "40000",
     "tag": "ebcreate",
     "img": "elfbar-bc-pro-40k-ebcreate_tripple-berry.jpg",
@@ -430,7 +260,7 @@
     "id": "elfbar-bc-pro-40k-ebcreate-blackberry-grape-7eva",
     "brand": "ELFBAR BC PRO 40K EBCREATE",
     "flavor": "BLACKBERRY GRAPE (SIN STOCK)",
-    "price": 22500,
+    "price": 21000,
     "puffs": "40000",
     "tag": "ebcreate",
     "img": "elfbar-bc-pro-40k-ebcreate_blackberry-grape.blackberry grape",
@@ -442,7 +272,7 @@
     "id": "elfbar-bc-pro-40k-ebcreate-sour-apple-ice-dbrc",
     "brand": "ELFBAR BC PRO 40K EBCREATE",
     "flavor": "SOUR APPLE ICE (SIN STOCK)",
-    "price": 25000,
+    "price": 21000,
     "puffs": "40000",
     "tag": "ebcreate",
     "img": "elfbar-bc-pro-40k-ebcreate_sour-apple-ice.jpg",
@@ -454,7 +284,7 @@
     "id": "elfbar-bc-pro-40k-ebcreate-grape-twist-ddl9",
     "brand": "ELFBAR BC PRO 40K EBCREATE",
     "flavor": "GRAPE TWIST (SIN STOCK)",
-    "price": 25000,
+    "price": 21000,
     "puffs": "40000",
     "tag": "ebcreate",
     "img": "elfbar-bc-pro-40k-ebcreate_grape-twist.jpg",
@@ -466,7 +296,7 @@
     "id": "elfbar-pro-40k-ebcreate-bc-pro-pineapple-pomelo-uqov",
     "brand": "ELFBAR BC PRO 40K EBCREATE",
     "flavor": "PINEAPPLE POMELO (SIN STOCK)",
-    "price": 25000,
+    "price": 21000,
     "puffs": "40000",
     "tag": "ebcreate",
     "img": "elfbar-pro-40k-ebcreate-bc-pro_pineapple-pomelo.jpg",
@@ -478,7 +308,7 @@
     "id": "elfbar-bc-pro-40k-ebcreate-tropical-baja-3884",
     "brand": "ELFBAR BC PRO 40K EBCREATE",
     "flavor": "TROPICAL BAJA (SIN STOCK)",
-    "price": 25000,
+    "price": 21000,
     "puffs": "40000",
     "tag": "ebcreate",
     "img": "elfbar-bc-pro-40k-ebcreate_tropical-baja.webp",
@@ -488,21 +318,22 @@
   },
   {
     "id": "elfbar-sweet-king-40k-bubbaloo-tutti-frutti-ju5x",
-    "brand": "ELFBAR SWEET KING 40K",
-    "flavor": "BUBBALOO TUTTI FRUTTI (SIN STOCK)",
-    "price": 24000,
+    "brand": "ELFBAR ICE KING 40K",
+    "flavor": "MELON GRAPE MENTHOL",
+    "price": 27000,
     "puffs": "40000",
     "tag": "elfbar-sweet-king",
     "img": "elfbar-sweet-king-40k_bubbaloo-tutti-frutti.jpg",
     "provinces": [
-      "catamarca"
+      "catamarca",
+      "cordoba"
     ]
   },
   {
     "id": "elfbar-ice-king-40k-blue-razz-ice-xu4r",
     "brand": "ELFBAR ICE KING 40K",
     "flavor": "BLUE RAZZ ICE",
-    "price": 26000,
+    "price": 27000,
     "puffs": "40000",
     "tag": "elfbar-iceking",
     "img": "elfbar-ice-king-40k_blue-razz-ice.jfif",
@@ -514,7 +345,7 @@
     "id": "elfbar-ice-king-40k-watermelon-ice-0po3",
     "brand": "ELFBAR ICE KING 40K",
     "flavor": "WATERMELON ICE",
-    "price": 26000,
+    "price": 27000,
     "puffs": "40000",
     "tag": "elfbar-iceking",
     "img": "elfbar-ice-king-40k_watermelon-ice.jfif",
@@ -525,20 +356,21 @@
   {
     "id": "elfbar-ice-king-summer-edition-40k-green-apple-slush-icfq",
     "brand": "ELFBAR ICE KING SUMMER EDITION 40K",
-    "flavor": "GREEN APPLE SLUSH  (SIN STOCK)",
-    "price": 26000,
+    "flavor": "GREEN APPLE SLUSH",
+    "price": 27000,
     "puffs": "40000",
     "tag": "elfbar-iceking",
     "img": "elfbar-ice-king-summer-edition-40k_green-apple-slush.jfif",
     "provinces": [
-      "catamarca"
+      "catamarca",
+      "cordoba"
     ]
   },
   {
     "id": "elfbar-ice-king-40k-mango-magic0-sgg4",
     "brand": "ELFBAR ICE KING 40K",
     "flavor": "MANGO MAGIC0",
-    "price": 26000,
+    "price": 27000,
     "puffs": "40000",
     "tag": "elfbar-iceking",
     "img": "elfbar-ice-king-40k_mango-magic0.jfif",
@@ -550,7 +382,7 @@
     "id": "elfbar-ice-king-40k-strawberry-watermelon-ice-1s8q",
     "brand": "ELFBAR ICE KING 40K",
     "flavor": "STRAWBERRY WATERMELON ICE",
-    "price": 26000,
+    "price": 27000,
     "puffs": "40000",
     "tag": "elfbar-iceking",
     "img": "elfbar-ice-king-40k_strawberry-watermelon-ice.jfif",
@@ -585,12 +417,13 @@
   {
     "id": "elfbar-ice-king-40k-sour-apple-ice-v2bl",
     "brand": "ELFBAR ICE KING 40K",
-    "flavor": "SOUR APPLE ICE (SIN STOCK)",
-    "price": 26000,
+    "flavor": "SOUR APPLE ICE",
+    "price": 27000,
     "puffs": "40000",
     "tag": "elfbar-iceking",
     "img": "elfbar-ice-king-40k_sour-apple-ice.jfif",
     "provinces": [
+      "catamarca",
       "cordoba"
     ]
   },
@@ -598,7 +431,7 @@
     "id": "elfbar-ice-king-40k-sour-strawberry-dragon-fruit-nuzn",
     "brand": "ELFBAR ICE KING 40K",
     "flavor": "SOUR STRAWBERRY DRAGON FRUIT(SIN STOCK)",
-    "price": 26000,
+    "price": 27000,
     "puffs": "40000",
     "tag": "elfbar-iceking",
     "img": "elfbar-ice-king-40k_sour-strawberry-dragon-fruit.jfif",
@@ -610,7 +443,7 @@
     "id": "elfbar-ice-king-40k-baja-splash-kpiw",
     "brand": "ELFBAR ICE KING 40K",
     "flavor": "BAJA SPLASH (SIN STOCK)",
-    "price": 26000,
+    "price": 27000,
     "puffs": "40000",
     "tag": "elfbar-iceking",
     "img": "elfbar-ice-king-40k_baja-splash.jfif",
@@ -621,8 +454,8 @@
   {
     "id": "elfbar-te-30k-strawberry-watermelon-pobb",
     "brand": "ELFBAR TE 30K",
-    "flavor": "STRAWBERRY WATERMELON ICE",
-    "price": 22500,
+    "flavor": "STRAWBERRY WATERMELON ICE  (SIN STOCK)",
+    "price": 23500,
     "puffs": "30000",
     "tag": "elfbar-te30k",
     "img": "elfbar-te-30k_strawberry-watermelon.jfif",
@@ -633,8 +466,8 @@
   {
     "id": "elfbar-te-30k-watermelon-yo5v",
     "brand": "ELFBAR TE 30K",
-    "flavor": "MIAMI MINT  ( SIN STOCK )",
-    "price": 22500,
+    "flavor": "MIAMI MINT",
+    "price": 23500,
     "puffs": "30000",
     "tag": "elfbar-te30k",
     "img": "elfbar-te-30k_watermelon.jfif",
@@ -646,7 +479,7 @@
     "id": "elfbar-te-30k-blueberry-gj7d",
     "brand": "ELFBAR TE 30K",
     "flavor": "GREEN APPLE ICE",
-    "price": 22500,
+    "price": 23500,
     "puffs": "30000",
     "tag": "elfbar-te30k",
     "img": "elfbar-te-30k_blueberry.jfif",
@@ -657,8 +490,8 @@
   {
     "id": "elfbar-te-30k-peach-mango-watermelon-u90m",
     "brand": "ELFBAR TE 30K",
-    "flavor": "STRAWMELON PEACH",
-    "price": 22500,
+    "flavor": "PEACH MANGO WATERMELON",
+    "price": 23500,
     "puffs": "30000",
     "tag": "elfbar-te30k",
     "img": "elfbar-te-30k_peach-mango-watermelon.jfif",
@@ -670,190 +503,10 @@
     "id": "elfbar-te-30k-bubbalo-tutti-frutti-krdu",
     "brand": "ELFBAR TE 30K",
     "flavor": "BUBBALO TUTTI FRUTTI",
-    "price": 22500,
+    "price": 23500,
     "puffs": "30000",
     "tag": "elfbar-te30k",
     "img": "elfbar-te-30k_bubbalo-tutti-frutti.jfif",
-    "provinces": [
-      "catamarca"
-    ]
-  },
-  {
-    "id": "ignite-v25-blueberry-raspberrry-6eeg",
-    "brand": "IGNITE V25",
-    "flavor": "BLUEBERRY RASPBERRRY (SIN STOCK)",
-    "price": 7500,
-    "puffs": "2500",
-    "tag": "ignite",
-    "img": "ignite-v25_blueberry-raspberrry.jfif",
-    "provinces": [
-      "catamarca"
-    ]
-  },
-  {
-    "id": "ignite-v25-strawberry-watermelon-4kkx",
-    "brand": "IGNITE V25",
-    "flavor": "STRAWBERRY WATERMELON (SIN STOCK)",
-    "price": 7500,
-    "puffs": "2500",
-    "tag": "ignite",
-    "img": "ignite-v25_strawberry-watermelon.jfif",
-    "provinces": [
-      "catamarca"
-    ]
-  },
-  {
-    "id": "ignite-v25-raspberry-watermelon-0dfa",
-    "brand": "IGNITE V25",
-    "flavor": "RASPBERRY WATERMELON (SIN STOCK)",
-    "price": 7500,
-    "puffs": "2500",
-    "tag": "ignite",
-    "img": "ignite-v25_raspberry-watermelon.jfif",
-    "provinces": [
-      "catamarca"
-    ]
-  },
-  {
-    "id": "ignite-v25-passion-fruit-lemon-wo9f",
-    "brand": "IGNITE V25",
-    "flavor": "PASSION FRUIT LEMON (SIN STOCK)",
-    "price": 7500,
-    "puffs": "2500",
-    "tag": "ignite",
-    "img": "ignite-v25_passion-fruit-lemon.jfif",
-    "provinces": [
-      "catamarca"
-    ]
-  },
-  {
-    "id": "ignite-v25-pink-lemonade-8dnc",
-    "brand": "IGNITE V25",
-    "flavor": "PINK LEMONADE (SIN STOCK)",
-    "price": 7500,
-    "puffs": "2500",
-    "tag": "ignite",
-    "img": "ignite-v25_pink-lemonade.jfif",
-    "provinces": [
-      "catamarca"
-    ]
-  },
-  {
-    "id": "ignite-v25-sour-apple-ice-q6jf",
-    "brand": "IGNITE V25",
-    "flavor": "SOUR APPLE ICE",
-    "price": 7500,
-    "puffs": "2500",
-    "tag": "ignite",
-    "img": "ignite-v25_sour-apple-ice.jfif",
-    "provinces": [
-      "catamarca"
-    ]
-  },
-  {
-    "id": "ignite-v25-very-barries-svuz",
-    "brand": "IGNITE V25",
-    "flavor": "VERY BARRIES",
-    "price": 7500,
-    "puffs": "2500",
-    "tag": "ignite",
-    "img": "ignite-v25_very-barries.jfif",
-    "provinces": [
-      "catamarca"
-    ]
-  },
-  {
-    "id": "ignite-v25-blood-orange-ice-du4p",
-    "brand": "IGNITE V25",
-    "flavor": "BLOOD ORANGE ICE",
-    "price": 7500,
-    "puffs": "2500",
-    "tag": "ignite",
-    "img": "ignite-v25_blood-orange-ice.jfif",
-    "provinces": [
-      "catamarca"
-    ]
-  },
-  {
-    "id": "ignite-v25-strawberry-cheescaske-1kil",
-    "brand": "IGNITE V25",
-    "flavor": "STRAWBERRY CHEESCASKE (SIN STOCK)",
-    "price": 7500,
-    "puffs": "2500",
-    "tag": "ignite",
-    "img": "ignite-v25_strawberry-cheescaske.jfif",
-    "provinces": [
-      "catamarca"
-    ]
-  },
-  {
-    "id": "ignite-v40-blue-razz-ice-pnoz",
-    "brand": "IGNITE V40",
-    "flavor": "BLUE RAZZ ICE  (SIN STOCK)",
-    "price": 10500,
-    "puffs": "4000",
-    "tag": "ignite",
-    "img": "ignite-v40_blue-razz-ice.jfif",
-    "provinces": [
-      "catamarca"
-    ]
-  },
-  {
-    "id": "ignite-v40-grape-ice-2f19",
-    "brand": "IGNITE V40",
-    "flavor": "GRAPE ICE  (SIN STOCK)",
-    "price": 10500,
-    "puffs": "4000",
-    "tag": "ignite",
-    "img": "ignite-v40_grape-ice.jfif",
-    "provinces": [
-      "catamarca"
-    ]
-  },
-  {
-    "id": "ignite-v40-peach-mango-watermelon-8kj7",
-    "brand": "IGNITE V40",
-    "flavor": "PEACH MANGO WATERMELON  (SIN STOCK)",
-    "price": 10500,
-    "puffs": "4000",
-    "tag": "ignite",
-    "img": "ignite-v40_peach-mango-watermelon.jfif",
-    "provinces": [
-      "catamarca"
-    ]
-  },
-  {
-    "id": "ignite-v40-pineapple-peach-lemonade-3s3d",
-    "brand": "IGNITE V40",
-    "flavor": "PINEAPPLE PEACH LEMONADE  (SIN STOCK)",
-    "price": 10500,
-    "puffs": "4000",
-    "tag": "ignite",
-    "img": "ignite-v40_pineapple-peach-lemonade.jfif",
-    "provinces": [
-      "catamarca"
-    ]
-  },
-  {
-    "id": "ignite-v40-strawberry-watermelon-4qkv",
-    "brand": "IGNITE V40",
-    "flavor": "STRAWBERRY WATERMELON  (SIN STOCK)",
-    "price": 10500,
-    "puffs": "4000",
-    "tag": "ignite",
-    "img": "ignite-v40_strawberry-watermelon.jfif",
-    "provinces": [
-      "catamarca"
-    ]
-  },
-  {
-    "id": "ignite-v40-watermelon-jcbp",
-    "brand": "IGNITE V40",
-    "flavor": "WATERMELON  (SIN STOCK)",
-    "price": 10500,
-    "puffs": "4000",
-    "tag": "ignite",
-    "img": "ignite-v40_watermelon.jfif",
     "provinces": [
       "catamarca"
     ]
@@ -981,8 +634,8 @@
   {
     "id": "elf-bar-trio-40k-blue-razz-ice-2g15",
     "brand": "ELFBAR TRIO 40K",
-    "flavor": "BLUE RAZZ ICE (SIN STOCK)",
-    "price": 25000,
+    "flavor": "STRAWBERRY LIME ORANGE",
+    "price": 26000,
     "puffs": "40000",
     "tag": "elfbar-trio-40k",
     "img": "elf-bar-trio-40k_blue-razz-ice.jfif",
@@ -993,8 +646,8 @@
   {
     "id": "elfbar-trio-40k-watermelon-1ove",
     "brand": "ELFBAR TRIO 40K",
-    "flavor": "WATERMELON (SIN STOCK)",
-    "price": 25000,
+    "flavor": "WATERMELON",
+    "price": 26000,
     "puffs": "40000",
     "tag": "elfbar-trio-40k",
     "img": "elfbar-trio-40k_watermelon.jfif",
@@ -1005,8 +658,8 @@
   {
     "id": "elfbar-trio-40k-raspberry-watermelon-upgz",
     "brand": "ELFBAR TRIO 40K",
-    "flavor": "RASPBERRY WATERMELON (SIN STOCK)",
-    "price": 25000,
+    "flavor": "GRAPE ICE",
+    "price": 26000,
     "puffs": "40000",
     "tag": "elfbar-trio-40k",
     "img": "elfbar-trio-40k_raspberry-watermelon.jfif",
@@ -1041,8 +694,8 @@
   {
     "id": "elfbar-trio-40k-sakura-grape-mjgh",
     "brand": "ELFBAR TRIO 40K",
-    "flavor": "SAKURA GRAPE (SIN STOCK)",
-    "price": 25000,
+    "flavor": "GRAPE",
+    "price": 26000,
     "puffs": "40000",
     "tag": "elfbar-trio-40k",
     "img": "elfbar-trio-40k_sakura-grape.jfif",
@@ -1099,207 +752,15 @@
     ]
   },
   {
-    "id": "elfbar-bc-15k-strawberry-banana-c7dn",
-    "brand": "ELFBAR BC 5K",
-    "flavor": "strawberry banana (SIN STOCK)",
-    "price": 9500,
-    "puffs": "5000",
-    "tag": "te6000",
-    "img": "elfbar-bc-15k_strawberry-banana.jfif",
-    "provinces": [
-      "catamarca"
-    ]
-  },
-  {
-    "id": "elfbar-bc-5k-blackberry-cherry-g6gf",
-    "brand": "ELFBAR BC 5K",
-    "flavor": "BLACKBERRY CHERRY (SIN STOCK)",
-    "price": 9500,
-    "puffs": "5000",
-    "tag": "te6000",
-    "img": "elfbar-bc-5k_blackberry-cherry.jfif",
-    "provinces": [
-      "catamarca"
-    ]
-  },
-  {
-    "id": "elfbar-bc-5k-cherry-dragon-fruit-jerv",
-    "brand": "ELFBAR BC 5K",
-    "flavor": "CHERRY DRAGON FRUIT (SIN STOCK)",
-    "price": 9500,
-    "puffs": "5000",
-    "tag": "te6000",
-    "img": "elfbar-bc-5k_cherry-dragon-fruit.jfif",
-    "provinces": [
-      "catamarca"
-    ]
-  },
-  {
-    "id": "elfbar-bc-5k-nectarine-i4dw",
-    "brand": "ELFBAR BC 5K",
-    "flavor": "NECTARINE (SIN STOCK)",
-    "price": 9500,
-    "puffs": "5000",
-    "tag": "te6000",
-    "img": "elfbar-bc-5k_nectarine.jfif",
-    "provinces": [
-      "catamarca"
-    ]
-  },
-  {
-    "id": "elfbar-bc-5k-beach-day-jnas",
-    "brand": "ELFBAR BC 5K",
-    "flavor": "BEACH DAY (SIN STOCK)",
-    "price": 9500,
-    "puffs": "5000",
-    "tag": "te6000",
-    "img": "elfbar-bc-5k_beach-day.jfif",
-    "provinces": [
-      "catamarca"
-    ]
-  },
-  {
-    "id": "elfbar-bc-5k-sour-grape-chew-eo7n",
-    "brand": "ELFBAR BC 5K",
-    "flavor": "SOUR GRAPE CHEW (SIN STOCK)",
-    "price": 9500,
-    "puffs": "5000",
-    "tag": "te6000",
-    "img": "elfbar-bc-5k_sour-grape-chew.jfif",
-    "provinces": [
-      "catamarca"
-    ]
-  },
-  {
     "id": "elfbar-te-30k-acai-banana-ice-85kh",
     "brand": "ELFBAR TE 30K",
-    "flavor": "ACAI BANANA ICE (SIN STOCK)",
-    "price": 22500,
+    "flavor": "ACAI BANANA  (SIN STOCK)",
+    "price": 23500,
     "puffs": "30000",
     "tag": "elfbar-te30k",
     "img": "elfbar-te-30k_acai-banana-ice.jfif",
     "provinces": [
       "cordoba"
-    ]
-  },
-  {
-    "id": "ignite-vnano-1000-cola-ice-7p6e",
-    "brand": "IGNITE V-NANO 1000PUFF",
-    "flavor": "COLA ICE",
-    "price": 9000,
-    "puffs": "1000",
-    "tag": "ignite",
-    "img": "ignite-vnano-1000_cola-ice.jfif",
-    "provinces": [
-      "catamarca"
-    ]
-  },
-  {
-    "id": "ignite-vnano1000-cool-menthol-rwtm",
-    "brand": "IGNITE V-NANO 1000PUFF",
-    "flavor": "COOL MENTHOL",
-    "price": 9000,
-    "puffs": "1000",
-    "tag": "ignite",
-    "img": "ignite-vnano1000_cool-menthol.jfif",
-    "provinces": [
-      "catamarca"
-    ]
-  },
-  {
-    "id": "ignite-v-nano-1000puff-icy-mint-b66g",
-    "brand": "IGNITE V-NANO 1000PUFF",
-    "flavor": "ICY MINT",
-    "price": 9000,
-    "puffs": "1000",
-    "tag": "ignite",
-    "img": "ignite-v-nano-1000puff_icy-mint.jfif",
-    "provinces": [
-      "catamarca"
-    ]
-  },
-  {
-    "id": "ignite-v-nano-1000puff-green-apple-7pc3",
-    "brand": "IGNITE V-NANO 1000PUFF",
-    "flavor": "GREEN APPLE (SIN STOCK)",
-    "price": 9000,
-    "puffs": "1000",
-    "tag": "ignite",
-    "img": "ignite-v-nano-1000puff_green-apple.jfif",
-    "provinces": [
-      "catamarca"
-    ]
-  },
-  {
-    "id": "ignite-v-nano-1000puff-strawberry-ice-lnds",
-    "brand": "IGNITE V-NANO 1000PUFF",
-    "flavor": "Strawberry Ice (SIN STOCK)",
-    "price": 9000,
-    "puffs": "1000",
-    "tag": "ignite",
-    "img": "ignite-v-nano-1000puff_strawberry-ice.jfif",
-    "provinces": [
-      "catamarca"
-    ]
-  },
-  {
-    "id": "ignite-v-nano-1000puff-stawberry-guava-ice-n549",
-    "brand": "IGNITE V-NANO 1000PUFF",
-    "flavor": "STAWBERRY GUAVA ICE (SIN STOCK)",
-    "price": 9000,
-    "puffs": "1000",
-    "tag": "ignite",
-    "img": "ignite-v-nano-1000puff_stawberry-guava-ice.jfif",
-    "provinces": [
-      "catamarca"
-    ]
-  },
-  {
-    "id": "ignite-v-nano-1000puff-pineapple-ice-d86r",
-    "brand": "IGNITE V-NANO 1000PUFF",
-    "flavor": "PINEAPPLE ICE",
-    "price": 9000,
-    "puffs": "1000",
-    "tag": "ignite",
-    "img": "ignite-v-nano-1000puff_pineapple-ice.jfif",
-    "provinces": [
-      "catamarca"
-    ]
-  },
-  {
-    "id": "ignite-v-nano-1000puff-tropical-fruit-qzms",
-    "brand": "IGNITE V-NANO 1000PUFF",
-    "flavor": "TROPICAL FRUIT (SIN STOCK)",
-    "price": 9000,
-    "puffs": "1000",
-    "tag": "ignite",
-    "img": "ignite-v-nano-1000puff_tropical-fruit.jfif",
-    "provinces": [
-      "catamarca"
-    ]
-  },
-  {
-    "id": "ignite-v-nano-1000puff-passion-fruit-sour-kiwi-m71j",
-    "brand": "IGNITE V-NANO 1000PUFF",
-    "flavor": "PASSION FRUIT SOUR KIWI (SIN STOCK)",
-    "price": 9000,
-    "puffs": "1000",
-    "tag": "ignite",
-    "img": "ignite-v-nano-1000puff_passion-fruit-sour-kiwi.jfif",
-    "provinces": [
-      "catamarca"
-    ]
-  },
-  {
-    "id": "ignite-v-nano-1000puff-banana-ice-d625",
-    "brand": "IGNITE V-NANO 1000PUFF",
-    "flavor": "BANANA ICE (SIN STOCK)",
-    "price": 9000,
-    "puffs": "1000",
-    "tag": "ignite",
-    "img": "ignite-v-nano-1000puff_banana-ice.jfif",
-    "provinces": [
-      "catamarca"
     ]
   },
   {
@@ -1315,70 +776,10 @@
     ]
   },
   {
-    "id": "ignite-v155-orange-slim-green-apple-ppco",
-    "brand": "IGNITE V155 ORANGE SLIM",
-    "flavor": "GREEN APPLE (SIN STOCK)",
-    "price": 21500,
-    "puffs": "15000",
-    "tag": "ignite",
-    "img": "ignite-v155-orange-slim_green-apple.jfif",
-    "provinces": [
-      "cordoba"
-    ]
-  },
-  {
-    "id": "ignite-v400-v-mix-watermelon-ice-grape-ice-d51y",
-    "brand": "IGNITE V400 V-MIX",
-    "flavor": "WATERMELON ICE+GRAPE ICE ( SIN STOCK )",
-    "price": 28000,
-    "puffs": "40000",
-    "tag": "ignite-v400-ice",
-    "img": "ignite-v400-v-mix_watermelon-ice-grape-ice.jfif",
-    "provinces": [
-      "cordoba"
-    ]
-  },
-  {
-    "id": "ignite-v400-v-mix-mango-ice-peach-watermelon-ice-kvgg",
-    "brand": "IGNITE V400 V-MIX",
-    "flavor": "MANGO ICE+PEACH WATERMELON ICE ( SIN STOCK )",
-    "price": 28000,
-    "puffs": "40000",
-    "tag": "ignite-v400-ice",
-    "img": "ignite-v400-v-mix_mango-ice-peach-watermelon-ice.jfif",
-    "provinces": [
-      "cordoba"
-    ]
-  },
-  {
-    "id": "ignite-v400-v-mix-cherry-ice-watermelon-ice-ii9u",
-    "brand": "IGNITE V400 V-MIX",
-    "flavor": "CHERRY ICE+WATERMELON ICE",
-    "price": 28000,
-    "puffs": "40000",
-    "tag": "ignite-v400-ice",
-    "img": "ignite-v400-v-mix_cherry-ice-watermelon-ice.jfif",
-    "provinces": [
-      "cordoba"
-    ]
-  },
-  {
-    "id": "elfbar-duke-35k-grape-ice-xc4c",
-    "brand": "ELFBAR DUKE 35K",
-    "flavor": "GRAPE ICE (SIN STOCK)",
-    "price": 23000,
-    "puffs": "35000",
-    "tag": "elfbar-duke",
-    "img": "elfbar-duke-35k_grape-ice.jfif",
-    "provinces": [
-      "cordoba"
-    ]
-  },
-  {
     "id": "elfbar-te-30k-cherry-strazz-wjmn",
     "brand": "ELFBAR TE 30K",
-    "flavor": "CHERRY STRAZZ (SIN STOCK)",
-    "price": 22500,
+    "flavor": "CHERRY STRAZZ",
+    "price": 23500,
     "puffs": "30000",
     "tag": "elfbar-te30k",
     "img": "elfbar-te-30k_cherry-strazz.jfif",
@@ -1390,7 +791,7 @@
     "id": "elfbar-bc-pro-40k-ebcreate-watermelon-ice-qrsf",
     "brand": "ELFBAR BC PRO 40K EBCREATE",
     "flavor": "WATERMELON ICE (SIN STOCK)",
-    "price": 22500,
+    "price": 21000,
     "puffs": "40000",
     "tag": "ebcreate",
     "img": "elfbar-bc-pro-40k-ebcreate_watermelon-ice.jfif",
@@ -1402,7 +803,7 @@
     "id": "elfbar-bc-pro-40k-ebcreate-strawberry-kiwi-dl8w",
     "brand": "ELFBAR BC PRO 40K EBCREATE",
     "flavor": "STRAWBERRY KIWI (SIN STOCK)",
-    "price": 22500,
+    "price": 21000,
     "puffs": "40000",
     "tag": "ebcreate",
     "img": "elfbar-bc-pro-40k-ebcreate_strawberry-kiwi.jfif",
@@ -1414,7 +815,7 @@
     "id": "elfbar-bc-pro-40k-ebcreate-winter-mint-299f",
     "brand": "ELFBAR BC PRO 40K EBCREATE",
     "flavor": "WINTER MINT",
-    "price": 22500,
+    "price": 21000,
     "puffs": "40000",
     "tag": "ebcreate",
     "img": "elfbar-bc-pro-40k-ebcreate_winter-mint.jfif",
@@ -1426,7 +827,7 @@
     "id": "elfbar-bc-pro-40k-ebcreate-aurora-berries-knxo",
     "brand": "ELFBAR BC PRO 40K EBCREATE",
     "flavor": "AURORA BERRIES (SIN STOCK)",
-    "price": 22500,
+    "price": 21000,
     "puffs": "40000",
     "tag": "ebcreate",
     "img": "elfbar-bc-pro-40k-ebcreate_aurora-berries.jfif",
@@ -1438,7 +839,7 @@
     "id": "elfbar-bc-pro-40k-ebcreate-pink-lemonade-o846",
     "brand": "ELFBAR BC PRO 40K EBCREATE",
     "flavor": "PINK LEMONADE",
-    "price": 22500,
+    "price": 21000,
     "puffs": "40000",
     "tag": "ebcreate",
     "img": "elfbar-bc-pro-40k-ebcreate_pink-lemonade.jfif",
@@ -1450,8 +851,8 @@
   {
     "id": "blvk-just-juice-45k-strawberry-ice-rdo6",
     "brand": "BLVK JUST JUICE 45K",
-    "flavor": "STRAWBERRY ICE (SIN STOCK)",
-    "price": 28000,
+    "flavor": "STRAWBERRY WATERMELON (SIN STOCK)",
+    "price": 29000,
     "puffs": "45000",
     "tag": "blvk-45k",
     "img": "blvk-just-juice-45k_strawberry-ice.jfif",
@@ -1463,7 +864,7 @@
     "id": "blvk-just-juice-45k-grape-ice-i5eo",
     "brand": "BLVK JUST JUICE 45K",
     "flavor": "GRAPE ICE (SIN STOCK)",
-    "price": 28000,
+    "price": 29000,
     "puffs": "45000",
     "tag": "blvk-45k",
     "img": "blvk-just-juice-45k_grape-ice.jfif",
@@ -1474,8 +875,8 @@
   {
     "id": "blvk-just-juice-45k-kiwi-passion-fruit-iun5",
     "brand": "BLVK JUST JUICE 45K",
-    "flavor": "KIWI PASSION FRUIT (SIN STOCK)",
-    "price": 28000,
+    "flavor": "KIWI PASSION FRUIT",
+    "price": 29000,
     "puffs": "45000",
     "tag": "blvk-45k",
     "img": "blvk-just-juice-45k_kiwi-passion-fruit.jfif",
@@ -1487,7 +888,7 @@
     "id": "blvk-just-juice-45k-blue-mint-8ajq",
     "brand": "BLVK JUST JUICE 45K",
     "flavor": "BLUE MINT (SIN STOCK)",
-    "price": 28000,
+    "price": 29000,
     "puffs": "45000",
     "tag": "blvk-45k",
     "img": "blvk-just-juice-45k_blue-mint.jfif",
@@ -1499,7 +900,7 @@
     "id": "elfbar-ice-king-40k-green-apple-ice-vvec",
     "brand": "ELFBAR ICE KING 40K",
     "flavor": "GREEN APPLE ICE",
-    "price": 26000,
+    "price": 27000,
     "puffs": "40000",
     "tag": "elfbar-iceking",
     "img": "elfbar-ice-king-40k_green-apple-ice.jfif",
@@ -1512,7 +913,7 @@
     "id": "elfbar-ice-king-40k-tigers-blood-jg2a",
     "brand": "ELFBAR ICE KING 40K",
     "flavor": "TIGERS BLOOD ( SIN STOCK )",
-    "price": 26000,
+    "price": 27000,
     "puffs": "40000",
     "tag": "elfbar-iceking",
     "img": "elfbar-ice-king-40k_tigers-blood.jfif",
@@ -1524,7 +925,7 @@
     "id": "elfbar-ice-king-40k-grape-ice-blqk",
     "brand": "ELFBAR ICE KING 40K",
     "flavor": "GRAPE ICE (SIN STOCK)",
-    "price": 26000,
+    "price": 27000,
     "puffs": "40000",
     "tag": "elfbar-iceking",
     "img": "elfbar-ice-king-40k_grape-ice.jfif",
@@ -1536,7 +937,7 @@
     "id": "rabbeats-rc50000-strawberry-ice-sokt",
     "brand": "RabBeats RC50000",
     "flavor": "STRAWBERRY ICE",
-    "price": 23500,
+    "price": 24500,
     "puffs": "50000",
     "tag": "rabbeats",
     "img": "rabbeats-rc50000_strawberry-ice.jfif",
@@ -1549,7 +950,7 @@
     "id": "elfbar-te-30k-bubbaloo-grape-l5ct",
     "brand": "ELFBAR TE 30K",
     "flavor": "BUBBALOO GRAPE (SIN STOCK)",
-    "price": 22500,
+    "price": 23500,
     "puffs": "30000",
     "tag": "elfbar-te30k",
     "img": "elfbar-te-30k_bubbaloo-grape.webp",
@@ -1561,11 +962,12 @@
     "id": "elfbar-ice-king-40k-miami-mint-nbar",
     "brand": "ELFBAR ICE KING 40K",
     "flavor": "Miami Mint",
-    "price": 26000,
+    "price": 27000,
     "puffs": "40000",
     "tag": "elfbar-iceking",
     "img": "elfbar-ice-king-40k_miami-mint.webp",
     "provinces": [
+      "catamarca",
       "cordoba"
     ]
   },
@@ -1573,7 +975,7 @@
     "id": "rabbeats-rc50000-blueberry-lemon-a4y6",
     "brand": "RabBeats RC50000",
     "flavor": "BLUEBERRY LEMON (SIN STOCK)",
-    "price": 23000,
+    "price": 24500,
     "puffs": "50000",
     "tag": "rabbeats",
     "img": "rabbeats-rc50000_blueberry-lemon.jfif",
@@ -1585,7 +987,7 @@
     "id": "elfbar-ice-king-summer-edition-40k-triple-berry-qm8n",
     "brand": "ELFBAR ICE KING SUMMER EDITION 40K",
     "flavor": "TRIPLE BERRY ( SIN STOCK)",
-    "price": 26000,
+    "price": 27000,
     "puffs": "40000",
     "tag": "elfbar-iceking",
     "img": "elfbar-ice-king-summer-edition-40k_triple-berry.jfif",
@@ -1597,7 +999,7 @@
     "id": "elfbar-ice-king-summer-edition-40k-strawberry-spark-l908",
     "brand": "ELFBAR ICE KING SUMMER EDITION 40K",
     "flavor": "STRAWBERRY SPARK ( SIN STOCK )",
-    "price": 26000,
+    "price": 27000,
     "puffs": "40000",
     "tag": "elfbar-iceking",
     "img": "elfbar-ice-king-summer-edition-40k_strawberry-spark.jfif",
@@ -1609,7 +1011,7 @@
     "id": "elfbar-ice-king-40k-cherry-strazz-ixtd",
     "brand": "ELFBAR ICE KING 40K",
     "flavor": "STRAWBERRY WATERMELON",
-    "price": 26000,
+    "price": 27000,
     "puffs": "40000",
     "tag": "elfbar-iceking",
     "img": "elfbar-ice-king-40k_strawberry-watermelon.jfif",
@@ -1621,7 +1023,7 @@
     "id": "elfbar-ice-king-40k-blueberry-3ak2",
     "brand": "ELFBAR ICE KING 40K",
     "flavor": "BLUEBERRY (SIN STOCK)",
-    "price": 26000,
+    "price": 27000,
     "puffs": "40000",
     "tag": "elfbar-iceking",
     "img": "elfbar-ice-king-40k_blueberry.jfif",
@@ -1645,7 +1047,7 @@
     "id": "elfbar-bc-pro-40k-ebcreate-raspberry-mallo-gz49",
     "brand": "ELFBAR BC PRO 40K EBCREATE",
     "flavor": "RASPBERRY MALLO",
-    "price": 22500,
+    "price": 21000,
     "puffs": "40000",
     "tag": "ebcreate",
     "img": "elfbar-bc-pro-40k-ebcreate_raspberry-mallo.jfif",
@@ -1657,12 +1059,13 @@
   {
     "id": "elfbar-te-30k-peach-mango-watermelon-g15h",
     "brand": "ELFBAR TE 30k",
-    "flavor": "PEACH MANGO WATERMELON ( SIN STOCK )",
+    "flavor": "PINEAPPLE MANGO",
     "price": 22500,
     "puffs": "30.000",
     "tag": "elfbar-te30k",
     "img": "elfbar-te-30k_peach-mango-watermelon.webp",
     "provinces": [
+      "catamarca",
       "cordoba"
     ]
   },
@@ -1670,7 +1073,7 @@
     "id": "elfbar-ice-king-cherry-fuse-c4un",
     "brand": "ELFBAR ICE KING 40K",
     "flavor": "CHERRY FUSE  ( SIN STOCK )",
-    "price": 26000,
+    "price": 27000,
     "puffs": "40000",
     "tag": "elfbar-iceking",
     "img": "elfbar-ice-king_cherry-fuse.jpeg",
@@ -1682,7 +1085,7 @@
     "id": "elfbar-te-30k-watermelon-ice-pvib",
     "brand": "ELFBAR TE 30K",
     "flavor": "WATERMELON ICE  ( SIN STOCK )",
-    "price": 22500,
+    "price": 23500,
     "puffs": "30000",
     "tag": "elfbar-te30k",
     "img": "elfbar-te-30k_watermelon-ice.png",
@@ -1694,11 +1097,12 @@
     "id": "elfbar-te-30k-strawberry-ice-d0ci",
     "brand": "ELFBAR TE 30K",
     "flavor": "STRAWBERRY ICE",
-    "price": 22500,
+    "price": 23500,
     "puffs": "30000",
     "tag": "elfbar-te30k",
     "img": "elfbar-te-30k_strawberry-ice.webp",
     "provinces": [
+      "catamarca",
       "cordoba"
     ]
   },
@@ -1706,7 +1110,7 @@
     "id": "elfbar-te-30k-guava-passion-fruit-kiwi-r36a",
     "brand": "ELFBAR TE 30K",
     "flavor": "GUAVA PASSION FRUIT KIWI",
-    "price": 22500,
+    "price": 23500,
     "puffs": "30000",
     "tag": "elfbar-te30k",
     "img": "elfbar-te-30k_guava-passion-fruit-kiwi.webp",
@@ -1718,7 +1122,7 @@
     "id": "rabbeats-rc50000-sakura-grape-3byf",
     "brand": "RABBEATS RC50000",
     "flavor": "SAKURA GRAPE (SIN STOCK)",
-    "price": 23500,
+    "price": 24500,
     "puffs": "50000",
     "tag": "rabbeats",
     "img": "rabbeats-rc50000_sakura-grape.webp",
