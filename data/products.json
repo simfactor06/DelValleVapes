@@ -21,8 +21,7 @@
     "img": "rabbeats-rc50000_strawberry-kiwi-ice.jfif",
     "tag": "rabbeats",
     "provinces": [
-      "catamarca",
-      "cordoba"
+      "catamarca"
     ]
   },
   {
@@ -83,8 +82,7 @@
     "img": "elfbar-ice-king_strawberry-ice.jfif",
     "tag": "elfbar-iceking",
     "provinces": [
-      "catamarca",
-      "cordoba"
+      "catamarca"
     ]
   },
   {
@@ -329,8 +327,7 @@
     "tag": "elfbar-sweet-king",
     "img": "elfbar-sweet-king-40k_bubbaloo-tutti-frutti.jpg",
     "provinces": [
-      "catamarca",
-      "cordoba"
+      "catamarca"
     ]
   },
   {
@@ -366,14 +363,13 @@
     "tag": "elfbar-iceking",
     "img": "elfbar-ice-king-summer-edition-40k_green-apple-slush.jfif",
     "provinces": [
-      "catamarca",
-      "cordoba"
+      "catamarca"
     ]
   },
   {
     "id": "elfbar-ice-king-40k-mango-magic0-sgg4",
     "brand": "ELFBAR ICE KING 40K",
-    "flavor": "MANGO MAGIC0",
+    "flavor": "MANGO MAGIC  ( SIN STOCK )",
     "price": 27000,
     "puffs": "40000",
     "tag": "elfbar-iceking",
@@ -427,8 +423,7 @@
     "tag": "elfbar-iceking",
     "img": "elfbar-ice-king-40k_sour-apple-ice.jfif",
     "provinces": [
-      "catamarca",
-      "cordoba"
+      "catamarca"
     ]
   },
   {
@@ -470,7 +465,7 @@
   {
     "id": "elfbar-te-30k-watermelon-yo5v",
     "brand": "ELFBAR TE 30K",
-    "flavor": "MIAMI MINT",
+    "flavor": "MIAMI MINT ( SIN STOCK )",
     "price": 23500,
     "puffs": "30000",
     "tag": "elfbar-te30k",
@@ -971,8 +966,7 @@
     "tag": "elfbar-iceking",
     "img": "elfbar-ice-king-40k_miami-mint.webp",
     "provinces": [
-      "catamarca",
-      "cordoba"
+      "catamarca"
     ]
   },
   {
@@ -1014,7 +1008,7 @@
   {
     "id": "elfbar-ice-king-40k-cherry-strazz-ixtd",
     "brand": "ELFBAR ICE KING 40K",
-    "flavor": "STRAWBERRY WATERMELON",
+    "flavor": "STRAWBERRY WATERMELON   ( SIN STOCK )",
     "price": 27000,
     "puffs": "40000",
     "tag": "elfbar-iceking",
@@ -1069,8 +1063,7 @@
     "tag": "elfbar-te30k",
     "img": "elfbar-te-30k_peach-mango-watermelon.webp",
     "provinces": [
-      "catamarca",
-      "cordoba"
+      "catamarca"
     ]
   },
   {
@@ -1106,14 +1099,13 @@
     "tag": "elfbar-te30k",
     "img": "elfbar-te-30k_strawberry-ice.webp",
     "provinces": [
-      "catamarca",
-      "cordoba"
+      "catamarca"
     ]
   },
   {
     "id": "elfbar-te-30k-guava-passion-fruit-kiwi-r36a",
     "brand": "ELFBAR TE 30K",
-    "flavor": "GUAVA PASSION FRUIT KIWI",
+    "flavor": "GUAVA PASSION FRUIT KIWI ( SIN STOCK )",
     "price": 23500,
     "puffs": "30000",
     "tag": "elfbar-te30k",
