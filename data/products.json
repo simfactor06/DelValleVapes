@@ -646,19 +646,21 @@
     "tag": "elfbar-trio-40k",
     "img": "elf-bar-trio-40k_blue-razz-ice.jfif",
     "provinces": [
-      "catamarca"
+      "catamarca",
+      "cordoba"
     ]
   },
   {
     "id": "elfbar-trio-40k-watermelon-1ove",
     "brand": "ELFBAR TRIO 40K",
-    "flavor": "WATERMELON",
+    "flavor": "WATERMELON ICE",
     "price": 26000,
     "puffs": "40000",
     "tag": "elfbar-trio-40k",
     "img": "elfbar-trio-40k_watermelon.jfif",
     "provinces": [
-      "catamarca"
+      "catamarca",
+      "cordoba"
     ]
   },
   {
@@ -670,7 +672,8 @@
     "tag": "elfbar-trio-40k",
     "img": "elfbar-trio-40k_raspberry-watermelon.jfif",
     "provinces": [
-      "catamarca"
+      "catamarca",
+      "cordoba"
     ]
   },
   {
