@@ -216,7 +216,8 @@
     "tag": "ebcreate",
     "img": "elfbar-ebcreate-bc-pro_blue-razz-ice.webp",
     "provinces": [
-      "catamarca"
+      "catamarca",
+      "cordoba"
     ]
   },
   {
@@ -228,7 +229,8 @@
     "tag": "ebcreate",
     "img": "bc-pro-40k-ebcreate_black-mint-ice.jpg",
     "provinces": [
-      "catamarca"
+      "catamarca",
+      "cordoba"
     ]
   },
   {
@@ -240,7 +242,8 @@
     "tag": "ebcreate",
     "img": "elfbar-bc-pro-40k-ebcreate_strawberry-raspberry-frost.jpg",
     "provinces": [
-      "catamarca"
+      "catamarca",
+      "cordoba"
     ]
   },
   {
@@ -264,7 +267,8 @@
     "tag": "ebcreate",
     "img": "elfbar-bc-pro-40k-ebcreate_blackberry-grape.blackberry grape",
     "provinces": [
-      "catamarca"
+      "catamarca",
+      "cordoba"
     ]
   },
   {
@@ -288,7 +292,8 @@
     "tag": "ebcreate",
     "img": "elfbar-bc-pro-40k-ebcreate_grape-twist.jpg",
     "provinces": [
-      "catamarca"
+      "catamarca",
+      "cordoba"
     ]
   },
   {
