@@ -21,7 +21,8 @@
     "img": "rabbeats-rc50000_strawberry-kiwi-ice.jfif",
     "tag": "rabbeats",
     "provinces": [
-      "catamarca"
+      "catamarca",
+      "cordoba"
     ]
   },
   {
@@ -58,7 +59,8 @@
     "img": "rabbeats-rc50000_kiwi-passion-fruit-guava.jfif",
     "tag": "rabbeats",
     "provinces": [
-      "catamarca"
+      "catamarca",
+      "cordoba"
     ]
   },
   {
@@ -322,7 +324,8 @@
     "tag": "elfbar-sweet-king",
     "img": "elfbar-sweet-king-40k_bubbaloo-tutti-frutti.jpg",
     "provinces": [
-      "catamarca"
+      "catamarca",
+      "cordoba"
     ]
   },
   {
@@ -340,7 +343,7 @@
   {
     "id": "elfbar-ice-king-40k-watermelon-ice-0po3",
     "brand": "ELFBAR ICE KING 40K",
-    "flavor": "WATERMELON ICE",
+    "flavor": "WATERMELON ICE (SIN STOCK)",
     "price": 27000,
     "puffs": "40000",
     "tag": "elfbar-iceking",
@@ -358,7 +361,8 @@
     "tag": "elfbar-iceking",
     "img": "elfbar-ice-king-summer-edition-40k_green-apple-slush.jfif",
     "provinces": [
-      "catamarca"
+      "catamarca",
+      "cordoba"
     ]
   },
   {
@@ -418,7 +422,8 @@
     "tag": "elfbar-iceking",
     "img": "elfbar-ice-king-40k_sour-apple-ice.jfif",
     "provinces": [
-      "catamarca"
+      "catamarca",
+      "cordoba"
     ]
   },
   {
@@ -436,13 +441,13 @@
   {
     "id": "elfbar-ice-king-40k-baja-splash-kpiw",
     "brand": "ELFBAR ICE KING 40K",
-    "flavor": "BAJA SPLASH (SIN STOCK)",
+    "flavor": "MIAMI MINT",
     "price": 27000,
     "puffs": "40000",
     "tag": "elfbar-iceking",
     "img": "elfbar-ice-king-40k_baja-splash.jfif",
     "provinces": [
-      "catamarca"
+      "cordoba"
     ]
   },
   {
