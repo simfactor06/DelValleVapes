@@ -465,7 +465,7 @@
   {
     "id": "elfbar-te-30k-watermelon-yo5v",
     "brand": "ELFBAR TE 30K",
-    "flavor": "MIAMI MINT ( SIN STOCK )",
+    "flavor": "MIAMI MINT",
     "price": 23500,
     "puffs": "30000",
     "tag": "elfbar-te30k",
@@ -495,7 +495,8 @@
     "tag": "elfbar-te30k",
     "img": "elfbar-te-30k_peach-mango-watermelon.jfif",
     "provinces": [
-      "catamarca"
+      "catamarca",
+      "cordoba"
     ]
   },
   {
@@ -507,7 +508,8 @@
     "tag": "elfbar-te30k",
     "img": "elfbar-te-30k_bubbalo-tutti-frutti.jfif",
     "provinces": [
-      "catamarca"
+      "catamarca",
+      "cordoba"
     ]
   },
   {
@@ -783,7 +785,8 @@
     "tag": "elfbar-te30k",
     "img": "elfbar-te-30k_cherry-strazz.jfif",
     "provinces": [
-      "catamarca"
+      "catamarca",
+      "cordoba"
     ]
   },
   {
@@ -1062,7 +1065,8 @@
     "tag": "elfbar-te30k",
     "img": "elfbar-te-30k_peach-mango-watermelon.webp",
     "provinces": [
-      "catamarca"
+      "catamarca",
+      "cordoba"
     ]
   },
   {
@@ -1098,7 +1102,8 @@
     "tag": "elfbar-te30k",
     "img": "elfbar-te-30k_strawberry-ice.webp",
     "provinces": [
-      "catamarca"
+      "catamarca",
+      "cordoba"
     ]
   },
   {
