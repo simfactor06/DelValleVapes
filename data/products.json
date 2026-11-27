@@ -28,7 +28,7 @@
   {
     "id": "rabbeats-green-apple-ice",
     "brand": "RabBeats RC50000",
-    "flavor": "GREEN APPLE",
+    "flavor": "GREEN APPLE  (SIN STOCK)",
     "price": 24500,
     "puffs": "50000",
     "img": "rabbeats-rc50000_green-apple-ice.jfif",
@@ -66,7 +66,7 @@
   {
     "id": "iceking-cherry-strazz",
     "brand": "ELFBAR ICE KING 40K",
-    "flavor": "Cherry FUSE",
+    "flavor": "Cherry FUSE  (SIN STOCK)",
     "price": 27000,
     "puffs": "40.000",
     "img": "elfbar-ice-king_cherry-strazz.jfif",
@@ -174,7 +174,7 @@
   {
     "id": "blvk-just-juice-45k-watermelon-ice-x9rb",
     "brand": "BLVK JUST JUICE 45K",
-    "flavor": "SPEARMINT",
+    "flavor": "SPEARMINT  (SIN STOCK)",
     "price": 29000,
     "puffs": "45.000",
     "tag": "blvk-45k",
@@ -323,7 +323,7 @@
   {
     "id": "elfbar-sweet-king-40k-bubbaloo-tutti-frutti-ju5x",
     "brand": "ELFBAR ICE KING 40K",
-    "flavor": "MELON GRAPE MENTHOL",
+    "flavor": "MELON GRAPE MENTHOL  (SIN STOCK)",
     "price": 27000,
     "puffs": "40000",
     "tag": "elfbar-sweet-king",
@@ -385,7 +385,7 @@
   {
     "id": "elfbar-ice-king-40k-strawberry-watermelon-ice-1s8q",
     "brand": "ELFBAR ICE KING 40K",
-    "flavor": "STRAWBERRY WATERMELON ICE",
+    "flavor": "STRAWBERRY WATERMELON ICE  (SIN STOCK)",
     "price": 27000,
     "puffs": "40000",
     "tag": "elfbar-iceking",
@@ -482,7 +482,7 @@
   {
     "id": "elfbar-te-30k-blueberry-gj7d",
     "brand": "ELFBAR TE 30K",
-    "flavor": "GREEN APPLE ICE",
+    "flavor": "GREEN APPLE ICE  (SIN STOCK)",
     "price": 23500,
     "puffs": "30000",
     "tag": "elfbar-te30k",
@@ -494,7 +494,7 @@
   {
     "id": "elfbar-te-30k-peach-mango-watermelon-u90m",
     "brand": "ELFBAR TE 30K",
-    "flavor": "PEACH MANGO WATERMELON",
+    "flavor": "PEACH MANGO WATERMELON  (SIN STOCK)",
     "price": 23500,
     "puffs": "30000",
     "tag": "elfbar-te30k",
@@ -666,7 +666,7 @@
   {
     "id": "elfbar-trio-40k-raspberry-watermelon-upgz",
     "brand": "ELFBAR TRIO 40K",
-    "flavor": "GRAPE ICE",
+    "flavor": "GRAPE ICE  (SIN STOCK)",
     "price": 26000,
     "puffs": "40000",
     "tag": "elfbar-trio-40k",
@@ -945,7 +945,7 @@
   {
     "id": "rabbeats-rc50000-strawberry-ice-sokt",
     "brand": "RabBeats RC50000",
-    "flavor": "STRAWBERRY ICE",
+    "flavor": "STRAWBERRY ICE  (SIN STOCK)",
     "price": 24500,
     "puffs": "50000",
     "tag": "rabbeats",
